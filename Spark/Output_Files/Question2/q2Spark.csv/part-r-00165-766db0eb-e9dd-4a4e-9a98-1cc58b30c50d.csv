@@ -1,0 +1,326 @@
+category,city,stars
+Seafood,Verdun,4.333333333333333
+Seafood,Edinburgh,4.086206896551724
+Seafood,Richfield,4.0
+Seafood,Dollard-des-Ormeaux,4.0
+Seafood,Pointe-Claire,4.0
+Seafood,Eastlake,4.0
+Seafood,Stowe,4.0
+Seafood,Lyndhurst,4.0
+Seafood,Inverness,4.0
+Seafood,Brecksville,4.0
+Seafood,WICKLIFFE,4.0
+Seafood,Kent,4.0
+Seafood,McCandless,4.0
+Seafood,Vaudreuil-Dorion,4.0
+Seafood,Broadview Heights,4.0
+Seafood,Irwin,4.0
+Seafood,El Mirage,4.0
+Seafood,Valley View,4.0
+Seafood,Don Mills,4.0
+Seafood,Stouffville,4.0
+Seafood,Unionville,4.0
+Seafood,Boucherville,4.0
+Seafood,Ajax,4.0
+Seafood,Kirkland,4.0
+Seafood,Rocky River,4.0
+Seafood,Bethel Park,4.0
+Seafood,Old Town,4.0
+Seafood,Missisauga,4.0
+Seafood,Sun City,4.0
+Seafood,Anjou,4.0
+Seafood,Brunswick,4.0
+Seafood,Cleveland Heights,4.0
+Seafood,Etobicoke,3.8461538461538463
+Seafood,Painesville,3.8333333333333335
+Seafood,Scottsdale,3.8333333333333335
+Seafood,Whitby,3.8333333333333335
+Seafood,North Las Vegas,3.8
+Seafood,Newmarket,3.7777777777777777
+Seafood,Westmount,3.75
+Seafood,Peoria,3.75
+Seafood,Twinsburg,3.75
+Seafood,Berea,3.75
+Seafood,Oakmont,3.75
+Seafood,York,3.75
+Seafood,Strongsville,3.7
+Seafood,Gilbert,3.6923076923076925
+Seafood,Las Vegas,3.6826568265682655
+Seafood,Oakville,3.6818181818181817
+Seafood,Phoenix,3.68018018018018
+Seafood,Stuttgart,3.6785714285714284
+Seafood,Montréal,3.6733333333333333
+Seafood,Westlake,3.6666666666666665
+Seafood,Coraopolis,3.6666666666666665
+Seafood,Dallas,3.6666666666666665
+Seafood,Cave Creek,3.6666666666666665
+Seafood,Middleton,3.6666666666666665
+Seafood,North York,3.6666666666666665
+Seafood,Fort Mill,3.642857142857143
+Seafood,Medina,3.625
+Seafood,Madison,3.6129032258064515
+Seafood,Cuyahoga Falls,3.6
+Seafood,Mississauga,3.5813953488372094
+Seafood,Tempe,3.5625
+Seafood,Goodyear,3.5625
+Seafood,Chandler,3.5357142857142856
+Seafood,Henderson,3.513157894736842
+Seafood,Toronto,3.5054054054054054
+Seafood,MESA,3.5
+Seafood,Bay Village,3.5
+Seafood,Lakewood,3.5
+Seafood,Dollard-Des-Ormeaux,3.5
+Seafood,Chagrin Falls,3.5
+Seafood,Davidson,3.5
+Seafood,Homestead,3.5
+Seafood,Hudson,3.5
+Seafood,Stoughton,3.5
+Seafood,Kannapolis,3.5
+Seafood,Brooklyn,3.5
+Seafood,Cornelius,3.5
+Seafood,Willowick,3.5
+Seafood,Saint-Sauveur-des-Monts,3.5
+Seafood,Upper St. Clair,3.5
+Seafood,Belmont,3.5
+Seafood,Elizabeth,3.5
+Seafood,San Tan Valley,3.5
+Seafood,Huntersville,3.5
+Seafood,Brossard,3.5
+Seafood,Boulder City,3.5
+Seafood,Mont-Royal,3.5
+Seafood,Frazer,3.5
+Seafood,Fairport Harbor,3.5
+Seafood,Woodbridge,3.5
+Seafood,Paradise Valley,3.5
+Seafood,Cross Plains,3.5
+Seafood,Fountain Hills,3.5
+Seafood,Waunakee,3.5
+Seafood,Willoughby,3.5
+Seafood,Aspinwall,3.5
+Seafood,Whitchurch-Stouffville,3.5
+Seafood,Pickering,3.5
+Seafood,Ludwigsburg,3.5
+Seafood,Leinfelden-Echterdingen,3.5
+Seafood,Murrysville,3.5
+Seafood,Concord,3.5
+Seafood,Brampton,3.5
+Seafood,Chardon,3.5
+Seafood,Pittsburgh,3.493150684931507
+Seafood,Charlotte,3.4504950495049505
+Seafood,Cleveland,3.4390243902439024
+Seafood,Mentor,3.4166666666666665
+Seafood,Aurora,3.388888888888889
+Seafood,Mesa,3.3857142857142857
+Seafood,Vaughan,3.375
+Seafood,Independence,3.3333333333333335
+Seafood,Lorain,3.3333333333333335
+Seafood,Richmond Hill,3.2941176470588234
+Seafood,Laval,3.2857142857142856
+Seafood,Markham,3.2777777777777777
+Seafood,Scarborough,3.2714285714285714
+Seafood,Glendale,3.261904761904762
+Seafood,Pleasant Hills,3.25
+Seafood,Olmsted Falls,3.25
+Seafood,Woodmere,3.25
+Seafood,Gastonia,3.25
+Seafood,Grand River,3.25
+Seafood,Elyria,3.25
+Seafood,Thornhill,3.25
+Seafood,Rexdale,3.25
+Seafood,Surprise,3.1666666666666665
+Seafood,Avondale,3.1666666666666665
+Seafood,Saint-Laurent,3.125
+Seafood,Matthews,3.125
+Seafood,Champaign,3.0833333333333335
+Seafood,Stow,3.0
+Seafood,Kahnawake,3.0
+Seafood,Salaberry-De-Valleyfield,3.0
+Seafood,Litchfield Park,3.0
+Seafood,Indian Land,3.0
+Seafood,Lachine,3.0
+Seafood,Outremont,3.0
+Seafood,Inverkeithing,3.0
+Seafood,Sun City West,3.0
+Seafood,Elizabeth Township,3.0
+Seafood,Sainte-Anne-de-Bellevue,3.0
+Seafood,Amherst,3.0
+Seafood,Lower Burrell,3.0
+Seafood,Parma,3.0
+Seafood,Gibsonia,3.0
+Seafood,Monticello,3.0
+Seafood,Lake Wylie,3.0
+Seafood,Euclid,3.0
+Seafood,Pepper Pike,3.0
+Seafood,Carefree,3.0
+Seafood,Tolleson,3.0
+Seafood,Monroeville,3.0
+Seafood,Maple,3.0
+Seafood,Beachwood,2.875
+Seafood,Bridgeville,2.8333333333333335
+Seafood,Pineville,2.8333333333333335
+Seafood,West Mifflin,2.75
+Seafood,North Huntingdon,2.5
+Seafood,Avon Lake,2.5
+Seafood,Middleburg Heights,2.5
+Seafood,Greenfield Park,2.5
+Seafood,Sainte-Anne-De-Bellevue,2.5
+Seafood,North Olmsted,2.3333333333333335
+Seafood,Harrisburg,2.3333333333333335
+Seafood,Wexford,2.0
+Seafood,Mount Holly,2.0
+Seafood,Indian Trail,1.5
+Seafood Markets,Mentor,5.0
+Seafood Markets,Maple Heights,5.0
+Seafood Markets,Fort Mill,5.0
+Seafood Markets,Ostfildern,4.5
+Seafood Markets,Champaign,4.5
+Seafood Markets,Mississauga,4.5
+Seafood Markets,Vaudreuil-Dorion,4.5
+Seafood Markets,Saint-Leonard,4.5
+Seafood Markets,Lorain,4.5
+Seafood Markets,Olmsted Falls,4.5
+Seafood Markets,Twinsburg,4.5
+Seafood Markets,Madison,4.5
+Seafood Markets,North York,4.166666666666667
+Seafood Markets,Montréal,4.038461538461538
+Seafood Markets,Toronto,4.018518518518518
+Seafood Markets,Peoria,4.0
+Seafood Markets,Edinburgh,4.0
+Seafood Markets,Columbia Station,4.0
+Seafood Markets,Stuttgart,4.0
+Seafood Markets,Pittsburgh,4.0
+Seafood Markets,Westlake,4.0
+Seafood Markets,Henderson,4.0
+Seafood Markets,Montreal,4.0
+Seafood Markets,Aurora,4.0
+Seafood Markets,Chandler,4.0
+Seafood Markets,Scottsdale,4.0
+Seafood Markets,Stallings,4.0
+Seafood Markets,Gilbert,4.0
+Seafood Markets,Woodbridge,4.0
+Seafood Markets,Cleveland,3.9285714285714284
+Seafood Markets,Phoenix,3.9
+Seafood Markets,Charlotte,3.875
+Seafood Markets,Richmond Hill,3.75
+Seafood Markets,Etobicoke,3.75
+Seafood Markets,Las Vegas,3.65
+Seafood Markets,Scarborough,3.625
+Seafood Markets,Mesa,3.5
+Seafood Markets,Markham,3.5
+Seafood Markets,Homestead,3.5
+Seafood Markets,Glendale,3.5
+Seafood Markets,Thornhill,3.1666666666666665
+Seafood Markets,Oakville,3.0
+Seafood Markets,Vaughan,3.0
+Seafood Markets,Dollard-des-Ormeaux,2.5
+Seafood Markets,Ajax,2.0
+Seafood Markets,Irwin,2.0
+Security Services,Henderson,5.0
+Security Services,Surprise,5.0
+Security Services,Madison,5.0
+Security Services,Scottsdale,5.0
+Security Services,Glendale,4.5
+Security Services,Phoenix,3.7857142857142856
+Security Services,Charlotte,3.75
+Security Services,Las Vegas,3.6
+Security Services,Tempe,3.25
+Security Services,Mesa,3.0
+Security Services,Parma,3.0
+Security Services,Chandler,2.0
+Security Systems,Maple Heights,5.0
+Security Systems,North Las Vegas,5.0
+Security Systems,Litchfield Park,5.0
+Security Systems,Fountain Hills,5.0
+Security Systems,Ludwigsburg,5.0
+Security Systems,Cave Creek,5.0
+Security Systems,El Mirage,5.0
+Security Systems,Surprise,5.0
+Security Systems,Glendale,4.5
+Security Systems,Stow,4.5
+Security Systems,Henderson,4.428571428571429
+Security Systems,Scottsdale,4.318181818181818
+Security Systems,Peoria,4.0
+Security Systems,Champaign,4.0
+Security Systems,Oakville,4.0
+Security Systems,Fort Mill,4.0
+Security Systems,Gilbert,3.9166666666666665
+Security Systems,Phoenix,3.841463414634146
+Security Systems,Las Vegas,3.8220338983050848
+Security Systems,Mesa,3.6666666666666665
+Security Systems,Tempe,3.5416666666666665
+Security Systems,Toronto,3.5
+Security Systems,Cleveland,3.25
+Security Systems,Pittsburgh,3.125
+Security Systems,Cleveland Heights,3.0
+Security Systems,Parma,3.0
+Security Systems,Madison,3.0
+Security Systems,Urbana,3.0
+Security Systems,Charlotte,2.9583333333333335
+Security Systems,Chandler,2.9285714285714284
+Security Systems,North York,2.5
+Security Systems,Matthews,1.5
+Security Systems,Huntersville,1.5
+Security Systems,Gastonia,1.5
+Security Systems,Markham,1.5
+Security Systems,Youngtown,1.0
+Security Systems,Mathews,1.0
+Security Systems,Lorain,1.0
+Security Systems,Garfield Heights,1.0
+Security Systems,Kent,1.0
+Security Systems,Concord,1.0
+Self Storage,Bridgeville,5.0
+Self Storage,Sun City,5.0
+Self Storage,Waxhaw,5.0
+Self Storage,West Mifflin,5.0
+Self Storage,Goodyear,5.0
+Self Storage,Ross Township,5.0
+Self Storage,Concord,5.0
+Self Storage,Cornelius,5.0
+Self Storage,Lake Wylie,5.0
+Self Storage,Huntersville,5.0
+Self Storage,North Ridgeville,5.0
+Self Storage,Youngtown,5.0
+Self Storage,Avondale,5.0
+Self Storage,Westlake,4.75
+Self Storage,Harrisburg,4.5
+Self Storage,Middleburg Heights,4.5
+Self Storage,Anthem,4.5
+Self Storage,Fountain Hills,4.5
+Self Storage,Frazer,4.5
+Self Storage,Gilbert,4.4
+Self Storage,Glendale,4.382352941176471
+Self Storage,Surprise,4.357142857142857
+Self Storage,Montréal,4.25
+Self Storage,Litchfield Park,4.25
+Self Storage,Laveen,4.25
+Self Storage,Scottsdale,4.208333333333333
+Self Storage,Cleveland,4.1
+Self Storage,Pineville,4.1
+Self Storage,Peoria,4.1
+Self Storage,Henderson,4.026315789473684
+Self Storage,Brook Park,4.0
+Self Storage,Verona,4.0
+Self Storage,WICKLIFFE,4.0
+Self Storage,Fort Mill,4.0
+Self Storage,El Mirage,4.0
+Self Storage,Pittsburgh,3.966666666666667
+Self Storage,Mesa,3.9444444444444446
+Self Storage,Charlotte,3.9166666666666665
+Self Storage,Chandler,3.892857142857143
+Self Storage,Toronto,3.7954545454545454
+Self Storage,Matthews,3.75
+Self Storage,Madison,3.7222222222222223
+Self Storage,Tempe,3.689655172413793
+Self Storage,North Las Vegas,3.65
+Self Storage,Las Vegas,3.6496062992125986
+Self Storage,Phoenix,3.5357142857142856
+Self Storage,Cleveland Heights,3.5
+Self Storage,Tolleson,3.5
+Self Storage,Highland Heights,3.5
+Self Storage,York,3.5
+Self Storage,Kent,3.5
+Self Storage,Parma Heights,3.5
+Self Storage,Shaker Heights,3.5
+Self Storage,Bedford,3.5
+Self Storage,las vegas,3.5
+Self Storage,Leetsdale,3.5

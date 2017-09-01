@@ -1,0 +1,19 @@
+SET elephantbird.jsonloader.nestedLoad 'true';
+
+yelp_business_data = LOAD '/user/ssn314/yelp/yelp_academic_dataset_business.json' USING 
+		com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad') as (json:map[]);
+
+yelp_business_data_category = FOREACH yelp_business_data GENERATE (int)json#'review_count' AS review_count,json#'city' as city, FLATTEN(json#'categories') AS categories;
+                            
+yelp_business_group= GROUP yelp_business_data_category BY (city,categories); 
+
+yelp_business_group_data= FOREACH yelp_business_group GENERATE group.city as city,
+	                      group.categories as category,SUM(yelp_business_data_category.review_count) 
+                          AS reviewCount;
+
+yelp_business_us_cities= FILTER yelp_business_group_data BY city MATCHES '.*(Charlotte|Cleveland|Madison|Pittsburgh|Phoenix|Urbana|Las Vegas).*';
+						 
+                          
+yelp_business_order= ORDER yelp_business_us_cities BY city;
+
+STORE yelp_business_order INTO '/user/ssn314/PigOutput/q1Output';

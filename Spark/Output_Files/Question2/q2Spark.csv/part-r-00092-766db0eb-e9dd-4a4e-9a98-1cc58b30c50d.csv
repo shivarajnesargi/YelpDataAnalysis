@@ -1,0 +1,264 @@
+category,city,stars
+Hats,Madison,2.5
+Hats,Chandler,2.5
+Hats,Henderson,2.0
+Hats,Tempe,2.0
+Haunted Houses,Rantoul,4.5
+Haunted Houses,Waunakee,4.0
+Haunted Houses,Las Vegas,4.0
+Haunted Houses,Glendale,4.0
+Haunted Houses,Surprise,4.0
+Haunted Houses,Phoenix,3.5
+Haunted Houses,Stoughton,3.0
+Haunted Houses,Cleveland,3.0
+Haunted Houses,Chandler,3.0
+Haunted Houses,Mesa,3.0
+Haunted Houses,Vaughan,3.0
+Haunted Houses,columbia station,2.5
+Haunted Houses,Berea,1.5
+Hawaiian,Pittsburgh,4.5
+Hawaiian,Madison,4.5
+Hawaiian,Gilbert,4.25
+Hawaiian,North Las Vegas,4.071428571428571
+Hawaiian,Scottsdale,4.045454545454546
+Hawaiian,Peoria,4.0
+Hawaiian,Las Vegas,3.7889908256880735
+Hawaiian,Chandler,3.7857142857142856
+Hawaiian,Tolleson,3.75
+Hawaiian,Avondale,3.75
+Hawaiian,Henderson,3.7333333333333334
+Hawaiian,Phoenix,3.730769230769231
+Hawaiian,Toronto,3.7
+Hawaiian,Mesa,3.6666666666666665
+Hawaiian,Glendale,3.6666666666666665
+Hawaiian,Tempe,3.625
+Hawaiian,San Tan Valley,3.5
+Hawaiian,Montréal,3.5
+Hawaiian,Surprise,3.0
+Hawaiian,Charlotte,2.8333333333333335
+Head Shops,Sun Prairie,5.0
+Head Shops,Mississauga,5.0
+Head Shops,Phoenix,5.0
+Head Shops,Cleveland,5.0
+Head Shops,Mesa,4.833333333333333
+Head Shops,Scottsdale,4.75
+Head Shops,Gilbert,4.75
+Head Shops,Tempe,4.5
+Head Shops,Las Vegas,4.5
+Head Shops,Glendale,4.0
+Head Shops,Toronto,3.75
+Head Shops,Madison,3.5
+Head Shops,Charlotte,3.3333333333333335
+Head Shops,Chandler,3.0
+Head Shops,Etobicoke,3.0
+Head Shops,Kent,2.0
+Health & Medical,Hendserson,5.0
+Health & Medical,North Ridgeville,5.0
+Health & Medical,Cleveland Hts,5.0
+Health & Medical,Schönaich,5.0
+Health & Medical,East Gwillimbury,5.0
+Health & Medical,University Heights,5.0
+Health & Medical,South Euclid,5.0
+Health & Medical,Georgetown,5.0
+Health & Medical,Inverness,5.0
+Health & Medical,Cottage Grove,5.0
+Health & Medical,Whitchurch-Stouffville,5.0
+Health & Medical,Dormont,5.0
+Health & Medical,Southside Flats,5.0
+Health & Medical,Highland Heights,5.0
+Health & Medical,Tega Cay,5.0
+Health & Medical,Indian Land,5.0
+Health & Medical,TORONTO,5.0
+Health & Medical,Warrensville Heights,5.0
+Health & Medical,Avalon,5.0
+Health & Medical,East Liberty,5.0
+Health & Medical,Hampton Township,5.0
+Health & Medical,Ormstown,5.0
+Health & Medical,Olmsted Falls,5.0
+Health & Medical,Rantoul,5.0
+Health & Medical,Coraopolis,5.0
+Health & Medical,De Forest,5.0
+Health & Medical,Wickliffe,5.0
+Health & Medical,Northfield,5.0
+Health & Medical,Glenshaw,5.0
+Health & Medical,Point Claire,5.0
+Health & Medical,Brecksville,4.875
+Health & Medical,Aurora,4.833333333333333
+Health & Medical,Streetsboro,4.75
+Health & Medical,Pleasant Hills,4.75
+Health & Medical,North Huntingdon,4.75
+Health & Medical,Shaker Heights,4.75
+Health & Medical,Middleton,4.636363636363637
+Health & Medical,Savoy,4.625
+Health & Medical,Cave Creek,4.619047619047619
+Health & Medical,Sindelfingen,4.5
+Health & Medical,Stoughton,4.5
+Health & Medical,Sun Prairie,4.5
+Health & Medical,Leonberg,4.5
+Health & Medical,Rawdon,4.5
+Health & Medical,Avon Lake,4.5
+Health & Medical,Ostfildern,4.5
+Health & Medical,Mt. Lebanon,4.5
+Health & Medical,Bedford,4.5
+Health & Medical,Newhaven,4.5
+Health & Medical,Woodmere,4.5
+Health & Medical,Stow,4.5
+Health & Medical,Mayfield Hts.,4.5
+Health & Medical,Harrisburg,4.5
+Health & Medical,Woodbridge,4.333333333333333
+Health & Medical,Gibsonia,4.333333333333333
+Health & Medical,Waunakee,4.3
+Health & Medical,Cornelius,4.2727272727272725
+Health & Medical,Allison Park,4.25
+Health & Medical,Vaughan,4.25
+Health & Medical,las vegas,4.25
+Health & Medical,Leinfelden-Echterdingen,4.25
+Health & Medical,Broadview Heights,4.25
+Health & Medical,Oregon,4.25
+Health & Medical,Garfield Heights,4.25
+Health & Medical,Lake Wylie,4.25
+Health & Medical,Carefree,4.214285714285714
+Health & Medical,Middleburg Heights,4.166666666666667
+Health & Medical,Litchfield Park,4.166666666666667
+Health & Medical,Lakewood,4.1521739130434785
+Health & Medical,Scottsdale,4.132003798670465
+Health & Medical,Belmont,4.125
+Health & Medical,Solon,4.111111111111111
+Health & Medical,Murrysville,4.1
+Health & Medical,Fort Mill,4.071428571428571
+Health & Medical,Parma,4.0625
+Health & Medical,Fitchburg,4.038461538461538
+Health & Medical,Edinburgh,4.014925373134329
+Health & Medical,Middleburg Hts,4.0
+Health & Medical,Brentwood,4.0
+Health & Medical,Ballantyne,4.0
+Health & Medical,Lachine,4.0
+Health & Medical,Westmount,4.0
+Health & Medical,Brunswick,4.0
+Health & Medical,Chander,4.0
+Health & Medical,West Mifflin,4.0
+Health & Medical,Beachwood,4.0
+Health & Medical,Painesville,4.0
+Health & Medical,Kannapolis,4.0
+Health & Medical,Ahwatukee,4.0
+Health & Medical,Tempe,3.998442367601246
+Health & Medical,Etobicoke,3.9615384615384617
+Health & Medical,Boulder City,3.9615384615384617
+Health & Medical,Ludwigsburg,3.9583333333333335
+Health & Medical,Madison,3.952205882352941
+Health & Medical,Paradise Valley,3.9285714285714284
+Health & Medical,Chandler,3.9045454545454548
+Health & Medical,Gastonia,3.8846153846153846
+Health & Medical,Thornhill,3.875
+Health & Medical,Pittsburgh,3.861003861003861
+Health & Medical,MESA,3.857142857142857
+Health & Medical,Davidson,3.857142857142857
+Health & Medical,Avon,3.857142857142857
+Health & Medical,Charlotte,3.8484162895927603
+Health & Medical,Verona,3.8333333333333335
+Health & Medical,Filderstadt,3.8333333333333335
+Health & Medical,Canonsburg,3.8333333333333335
+Health & Medical,Seven Hills,3.8333333333333335
+Health & Medical,Maple,3.8333333333333335
+Health & Medical,Bay Village,3.8333333333333335
+Health & Medical,Las Vegas,3.830520393811533
+Health & Medical,Gilbert,3.828877005347594
+Health & Medical,Richmond Hill,3.826923076923077
+Health & Medical,Phoenix,3.822714681440443
+Health & Medical,Indian Trail,3.8181818181818183
+Health & Medical,Toronto,3.8171875
+Health & Medical,Bethel Park,3.8125
+Health & Medical,Glendale,3.8125
+Health & Medical,Matthews,3.8088235294117645
+Health & Medical,Peoria,3.8052325581395348
+Health & Medical,Huntersville,3.796875
+Health & Medical,Rocky River,3.7777777777777777
+Health & Medical,Stuttgart,3.77027027027027
+Health & Medical,Westlake,3.764705882352941
+Health & Medical,North Las Vegas,3.7628865979381443
+Health & Medical,Sun City,3.760869565217391
+Health & Medical,Cleveland,3.7580645161290325
+Health & Medical,Lorain,3.75
+Health & Medical,Parma Heights,3.75
+Health & Medical,Cleveland Heights,3.75
+Health & Medical,Moon Township,3.75
+Health & Medical,Fountain Hills,3.75
+Health & Medical,Strongsville,3.75
+Health & Medical,Henderson,3.75
+Health & Medical,Surprise,3.739795918367347
+Health & Medical,Mesa,3.731683168316832
+Health & Medical,Brampton,3.7083333333333335
+Health & Medical,Verdun,3.7
+Health & Medical,Markham,3.6964285714285716
+Health & Medical,Sun City West,3.6785714285714284
+Health & Medical,Sun Lakes,3.6666666666666665
+Health & Medical,Ajax,3.6666666666666665
+Health & Medical,San Tan Valley,3.65625
+Health & Medical,Urbana,3.642857142857143
+Health & Medical,Champaign,3.606382978723404
+Health & Medical,Montréal,3.6
+Health & Medical,Goodyear,3.5869565217391304
+Health & Medical,Medina,3.5833333333333335
+Health & Medical,Monroeville,3.5454545454545454
+Health & Medical,Phoneix,3.5
+Health & Medical,Newmarket,3.5
+Health & Medical,Las  Vegas,3.5
+Health & Medical,Independence,3.5
+Health & Medical,Fairlawn,3.5
+Health & Medical,Pineville,3.5
+Health & Medical,Monongahela,3.5
+Health & Medical,Tallmadge,3.5
+Health & Medical,Brooklyn,3.5
+Health & Medical,Kent,3.5
+Health & Medical,Saint-Laurent,3.5
+Health & Medical,Dollard-Des-Ormeaux,3.5
+Health & Medical,Anthem,3.5
+Health & Medical,Mentor,3.5
+Health & Medical,Mount Lebanon,3.5
+Health & Medical,Monona,3.5
+Health & Medical,Cuyahoga Falls,3.5
+Health & Medical,Berea,3.5
+Health & Medical,Concord,3.5
+Health & Medical,Mayfield Heights,3.5
+Health & Medical,Dallas,3.5
+Health & Medical,Scarborough,3.44
+Health & Medical,North Olmsted,3.4285714285714284
+Health & Medical,Mississauga,3.4285714285714284
+Health & Medical,Wexford,3.4166666666666665
+Health & Medical,Avondale,3.392156862745098
+Health & Medical,Oakville,3.388888888888889
+Health & Medical,Willoughby,3.375
+Health & Medical,Pickering,3.375
+Health & Medical,Mint Hill,3.357142857142857
+Health & Medical,Waxhaw,3.3333333333333335
+Health & Medical,Esslingen,3.25
+Health & Medical,Euclid,3.25
+Health & Medical,Twinsburg,3.2142857142857144
+Health & Medical,Sewickley,3.2
+Health & Medical,North Royalton,3.1666666666666665
+Health & Medical,Hudson,3.1666666666666665
+Health & Medical,Laveen,3.125
+Health & Medical,Fairview Park,3.125
+Health & Medical,North York,3.12
+Health & Medical,Higley,3.0
+Health & Medical,Frazer,3.0
+Health & Medical,Carnegie,3.0
+Health & Medical,Bellevue,3.0
+Health & Medical,Chagrin Falls,3.0
+Health & Medical,Tolleson,3.0
+Health & Medical,Bridgeville,3.0
+Health & Medical,Unionville,3.0
+Health & Medical,Youngtown,3.0
+Health & Medical,McMurray,2.8333333333333335
+Health & Medical,Lyndhurst,2.8333333333333335
+Health & Medical,Macedonia,2.75
+Health & Medical,East York,2.75
+Health & Medical,Montreal,2.625
+Health & Medical,Pepper Pike,2.5
+Health & Medical,Springdale,2.5
+Health & Medical,Pointe-Claire,2.5
+Health & Medical,McKnight,2.5
+Health & Medical,Elyria,2.5
+Health & Medical,Lasalle,2.5
+Health & Medical,McKees Rocks,2.5
+Health & Medical,Irwin,2.5

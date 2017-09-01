@@ -1,0 +1,221 @@
+category,city,stars
+RV Rental,Henderson,3.5
+RV Rental,Mesa,3.5
+RV Rental,Gilbert,3.5
+RV Rental,Phoenix,3.4
+RV Rental,Las Vegas,3.375
+RV Rental,El Mirage,2.5
+RV Rental,Avondale,2.0
+RV Rental,Concord,2.0
+RV Rental,Charlotte,2.0
+RV Repair,Champaign,5.0
+RV Repair,Chandler,5.0
+RV Repair,Gilbert,4.833333333333333
+RV Repair,Peoria,4.75
+RV Repair,Tempe,4.5
+RV Repair,Goodyear,4.5
+RV Repair,Glendale,4.5
+RV Repair,Scottsdale,4.166666666666667
+RV Repair,Phoenix,4.0
+RV Repair,Las Vegas,3.923076923076923
+RV Repair,Henderson,3.8
+RV Repair,Surprise,3.75
+RV Repair,Willoughby Hills,3.5
+RV Repair,Sun City West,3.5
+RV Repair,Mesa,3.4705882352941178
+RV Repair,Streetsboro,2.5
+RV Repair,De Forest,2.0
+RV Repair,Concord,2.0
+RV Repair,Avondale,2.0
+RV Repair,Carnegie,1.0
+Race Tracks,Cuyahoga Falls,5.0
+Race Tracks,Gastonia,5.0
+Race Tracks,Peoria,5.0
+Race Tracks,Glendale,5.0
+Race Tracks,Mesa,5.0
+Race Tracks,Musselburgh,4.5
+Race Tracks,Medina,4.5
+Race Tracks,Las Vegas,3.8333333333333335
+Race Tracks,Chandler,3.75
+Race Tracks,Avondale,3.75
+Race Tracks,North Las Vegas,3.5
+Race Tracks,Phoenix,3.5
+Race Tracks,Concord,3.5
+Race Tracks,Scottsdale,3.5
+Race Tracks,Sun Prairie,3.0
+Race Tracks,Surprise,1.5
+Races & Competitions,Charlotte,5.0
+Races & Competitions,Tempe,4.6
+Races & Competitions,Scottsdale,4.5
+Races & Competitions,Champaign,4.5
+Races & Competitions,Madison,4.5
+Races & Competitions,Phoenix,4.25
+Races & Competitions,Pittsburgh,4.25
+Races & Competitions,Boulder City,4.0
+Races & Competitions,Mesa,4.0
+Races & Competitions,las vegas,3.5
+Races & Competitions,Goodyear,3.5
+Races & Competitions,Las Vegas,3.4166666666666665
+Races & Competitions,North Las Vegas,2.75
+Races & Competitions,Henderson,2.75
+Racing Experience,Las Vegas,4.6
+Racing Experience,Avondale,4.0
+Racing Experience,Concord,3.75
+Racing Experience,S Concord,2.0
+Radio Stations,Henderson,5.0
+Radio Stations,Tempe,4.75
+Radio Stations,Cleveland,4.5
+Radio Stations,Urbana,4.5
+Radio Stations,Stuttgart,4.0
+Radio Stations,Pittsburgh,4.0
+Radio Stations,Madison,4.0
+Radio Stations,Scottsdale,3.8333333333333335
+Radio Stations,Las Vegas,3.775
+Radio Stations,Toronto,3.2777777777777777
+Radio Stations,Phoenix,3.1
+Radio Stations,Charlotte,3.0714285714285716
+Radio Stations,Independence,2.0
+Radiologists,Sun City West,5.0
+Radiologists,Surprise,4.5
+Radiologists,North Las Vegas,3.5
+Radiologists,Scottsdale,3.2857142857142856
+Radiologists,Phoenix,3.1785714285714284
+Radiologists,Peoria,3.0
+Radiologists,Henderson,3.0
+Radiologists,Las Vegas,2.85
+Radiologists,Gilbert,2.75
+Radiologists,Chandler,2.5
+Radiologists,Tempe,2.5
+Radiologists,Mesa,2.25
+Radiologists,Glendale,2.1
+Radiologists,Stuttgart,2.0
+Radiologists,Avondale,1.5
+Rafting/Kayaking,Lakewood,5.0
+Rafting/Kayaking,Fort Mill,5.0
+Rafting/Kayaking,Henderson,5.0
+Rafting/Kayaking,Peoria,5.0
+Rafting/Kayaking,Cleveland,4.75
+Rafting/Kayaking,Phoenix,4.666666666666667
+Rafting/Kayaking,Sheffield Village,4.5
+Rafting/Kayaking,Mesa,4.5
+Rafting/Kayaking,Montréal,4.5
+Rafting/Kayaking,Tempe,4.5
+Rafting/Kayaking,Pittsburgh,4.5
+Rafting/Kayaking,Boulder City,4.333333333333333
+Rafting/Kayaking,Charlotte,4.25
+Rafting/Kayaking,Las Vegas,4.25
+Rafting/Kayaking,Toronto,4.2
+Rafting/Kayaking,Hiram,4.0
+Rafting/Kayaking,Madison,4.0
+Rafting/Kayaking,Scottsdale,4.0
+Rafting/Kayaking,Mount Holly,4.0
+Rafting/Kayaking,Cornelius,2.5
+Ramen,Huntersville,4.5
+Ramen,Matthews,4.5
+Ramen,North Las Vegas,4.5
+Ramen,Tempe,4.0
+Ramen,Kent,4.0
+Ramen,Edinburgh,4.0
+Ramen,Henderson,4.0
+Ramen,Chandler,4.0
+Ramen,Las Vegas,3.9038461538461537
+Ramen,Scottsdale,3.8333333333333335
+Ramen,Cleveland,3.75
+Ramen,Charlotte,3.6666666666666665
+Ramen,Madison,3.6666666666666665
+Ramen,Montréal,3.65
+Ramen,Phoenix,3.5714285714285716
+Ramen,Gilbert,3.5
+Ramen,North York,3.5
+Ramen,Markham,3.5
+Ramen,Toronto,3.4722222222222223
+Ramen,Pittsburgh,3.375
+Ramen,Richmond Hill,3.1666666666666665
+Ramen,Champaign,2.0
+Ranches,Bridgeville,4.5
+Ranches,Rantoul,3.5
+Real Estate,Lorain,5.0
+Real Estate,Broadlands,5.0
+Real Estate,Hudson,5.0
+Real Estate,Mint Hill,5.0
+Real Estate,Chagrin Falls,5.0
+Real Estate,Cuyahoga Falls,5.0
+Real Estate,East York,5.0
+Real Estate,Ogden,5.0
+Real Estate,El Mirage,5.0
+Real Estate,Garfield Heights,5.0
+Real Estate,Cave Creek,4.833333333333333
+Real Estate,Litchfield,4.5
+Real Estate,Canonsburg,4.5
+Real Estate,Mentor,4.5
+Real Estate,Litchfield Park,4.5
+Real Estate,San Tan Valley,4.333333333333333
+Real Estate,Montréal,4.083333333333333
+Real Estate,Newmarket,4.0
+Real Estate,Stow,4.0
+Real Estate,Independence,4.0
+Real Estate,Shaker Hts,4.0
+Real Estate,Indian Trail,4.0
+Real Estate,Midland,4.0
+Real Estate,Avon,3.75
+Real Estate,Monona,3.75
+Real Estate,Fitchburg,3.75
+Real Estate,Sun City,3.6666666666666665
+Real Estate,Scottsdale,3.66382252559727
+Real Estate,Huntersville,3.6
+Real Estate,Gilbert,3.536144578313253
+Real Estate,Paradise Valley,3.5
+Real Estate,Mc Farland,3.5
+Real Estate,Medina,3.5
+Real Estate,Glbert,3.5
+Real Estate,Pineville,3.5
+Real Estate,Jefferson Hills,3.5
+Real Estate,McMurray,3.5
+Real Estate,Surprise,3.4523809523809526
+Real Estate,Toronto,3.443548387096774
+Real Estate,Stuttgart,3.409090909090909
+Real Estate,Henderson,3.4080459770114944
+Real Estate,Concord,3.3333333333333335
+Real Estate,Westlake,3.3333333333333335
+Real Estate,Chandler,3.3008130081300813
+Real Estate,Urbana,3.25
+Real Estate,Lakewood,3.25
+Real Estate,Pittsburgh,3.1987951807228914
+Real Estate,Peoria,3.141025641025641
+Real Estate,Edinburgh,3.1363636363636362
+Real Estate,Cleveland,3.1333333333333333
+Real Estate,Las Vegas,3.1005121638924455
+Real Estate,Glendale,3.0694444444444446
+Real Estate,Matthews,3.0
+Real Estate,Goodyear,3.0
+Real Estate,Avon Lake,3.0
+Real Estate,Highland Heights,3.0
+Real Estate,Etobicoke,3.0
+Real Estate,Bridgeville,3.0
+Real Estate,Tempe,2.983957219251337
+Real Estate,Charlotte,2.9790697674418603
+Real Estate,Madison,2.9298245614035086
+Real Estate,Phoenix,2.925531914893617
+Real Estate,Cleveland Heights,2.8333333333333335
+Real Estate,Mesa,2.793939393939394
+Real Estate,Aurora,2.75
+Real Estate,las vegas,2.75
+Real Estate,Carnegie,2.75
+Real Estate,Coraopolis,2.75
+Real Estate,Middleton,2.75
+Real Estate,Bethel Park,2.6666666666666665
+Real Estate,Beachwood,2.6
+Real Estate,Mississauga,2.6
+Real Estate,North Las Vegas,2.5555555555555554
+Real Estate,Inverness,2.5
+Real Estate,Brooklyn,2.5
+Real Estate,Lake Wylie,2.5
+Real Estate,Berea,2.5
+Real Estate,Parma,2.5
+Real Estate,Wexford,2.5
+Real Estate,Frazer,2.5
+Real Estate,West View,2.5
+Real Estate,Davidson,2.5
+Real Estate,Sun Prairie,2.5
+Real Estate,York,2.5
+Real Estate,Dorval,2.5

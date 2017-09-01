@@ -1,0 +1,237 @@
+category,city,stars
+Tennis,Charlotte,3.9375
+Tennis,Toronto,3.6875
+Tennis,Woodbridge,3.5
+Tennis,Fountain Hills,3.5
+Tennis,Chandler,3.25
+Tennis,Scottsdale,3.125
+Tennis,Davidson,3.0
+Tennis,Downsview,3.0
+Tennis,Montréal,2.5
+Tennis,Montreal,2.0
+Teppanyaki,Henderson,4.5
+Teppanyaki,Las Vegas,4.071428571428571
+Teppanyaki,Matthews,4.0
+Teppanyaki,Woodbridge,4.0
+Teppanyaki,Chandler,4.0
+Teppanyaki,Charlotte,4.0
+Teppanyaki,Pittsburgh,3.5
+Teppanyaki,Davidson,3.5
+Teppanyaki,Mesa,3.5
+Teppanyaki,Independence,3.5
+Teppanyaki,Scottsdale,3.25
+Teppanyaki,Concord,3.0
+Test Preparation,Avon,5.0
+Test Preparation,Cave Creek,5.0
+Test Preparation,Etobicoke,5.0
+Test Preparation,Madison,5.0
+Test Preparation,North Las Vegas,5.0
+Test Preparation,Las Vegas,4.75
+Test Preparation,Henderson,4.6
+Test Preparation,Gilbert,4.5
+Test Preparation,Charlotte,4.5
+Test Preparation,Tempe,4.5
+Test Preparation,Toronto,4.25
+Test Preparation,Mesa,4.25
+Test Preparation,Phoenix,3.9
+Test Preparation,Scottsdale,3.625
+Test Preparation,Pittsburgh,3.5
+Test Preparation,Chandler,3.25
+Test Preparation,Richmond Hill,1.5
+Tex-Mex,Cornelius,5.0
+Tex-Mex,Saint-Lambert,5.0
+Tex-Mex,Cramerton,4.5
+Tex-Mex,McKees Rocks,4.5
+Tex-Mex,Westlake,4.0
+Tex-Mex,Parma Heights,4.0
+Tex-Mex,Canonsburg,4.0
+Tex-Mex,Newmarket,4.0
+Tex-Mex,Boulder City,4.0
+Tex-Mex,Berea,4.0
+Tex-Mex,Tega Cay,4.0
+Tex-Mex,Chardon,4.0
+Tex-Mex,Oregon,4.0
+Tex-Mex,El Mirage,4.0
+Tex-Mex,Kent,4.0
+Tex-Mex,Murrysville,4.0
+Tex-Mex,Laval,3.75
+Tex-Mex,Stow,3.75
+Tex-Mex,Aurora,3.75
+Tex-Mex,Edinburgh,3.6666666666666665
+Tex-Mex,Mississauga,3.5625
+Tex-Mex,Etobicoke,3.5
+Tex-Mex,Sheffield Village,3.5
+Tex-Mex,Belmont,3.5
+Tex-Mex,Saint-Laurent,3.5
+Tex-Mex,Monroeville,3.5
+Tex-Mex,Woodbridge,3.5
+Tex-Mex,East Gwillimbury,3.5
+Tex-Mex,Whitby,3.5
+Tex-Mex,Robinson,3.5
+Tex-Mex,De Forest,3.5
+Tex-Mex,Plum,3.5
+Tex-Mex,Warrensville Heights,3.5
+Tex-Mex,Avon,3.5
+Tex-Mex,Markham,3.5
+Tex-Mex,Stoughton,3.5
+Tex-Mex,New Kensington,3.5
+Tex-Mex,Pineville,3.5
+Tex-Mex,Mentor,3.375
+Tex-Mex,Montréal,3.35
+Tex-Mex,Scottsdale,3.34
+Tex-Mex,Henderson,3.3333333333333335
+Tex-Mex,Rocky River,3.3333333333333335
+Tex-Mex,Lakewood,3.25
+Tex-Mex,Matthews,3.25
+Tex-Mex,Tempe,3.1842105263157894
+Tex-Mex,Toronto,3.141025641025641
+Tex-Mex,Brampton,3.125
+Tex-Mex,Phoenix,3.1186440677966103
+Tex-Mex,Las Vegas,3.050724637681159
+Tex-Mex,McKeesport,3.0
+Tex-Mex,Dollard-Des Ormeaux,3.0
+Tex-Mex,Vaughan,3.0
+Tex-Mex,Irwin,3.0
+Tex-Mex,Fairview Park,3.0
+Tex-Mex,Tolleson,3.0
+Tex-Mex,North Olmsted,3.0
+Tex-Mex,Oakville,3.0
+Tex-Mex,Waxhaw,3.0
+Tex-Mex,Highland Heights,3.0
+Tex-Mex,Kannapolis,3.0
+Tex-Mex,Wexford,3.0
+Tex-Mex,Twinsburg,3.0
+Tex-Mex,Mesa,3.0
+Tex-Mex,Stuttgart,3.0
+Tex-Mex,North Royalton,3.0
+Tex-Mex,Laveen,3.0
+Tex-Mex,East Cleveland,3.0
+Tex-Mex,Verona,3.0
+Tex-Mex,West Mifflin,3.0
+Tex-Mex,Middleton,3.0
+Tex-Mex,Pickering,3.0
+Tex-Mex,Garfield Heights,3.0
+Tex-Mex,Macedonia,3.0
+Tex-Mex,Gilbert,2.95
+Tex-Mex,Chandler,2.95
+Tex-Mex,Charlotte,2.917910447761194
+Tex-Mex,Surprise,2.9
+Tex-Mex,Madison,2.8666666666666667
+Tex-Mex,Champaign,2.857142857142857
+Tex-Mex,Huntersville,2.8333333333333335
+Tex-Mex,Cleveland,2.8
+Tex-Mex,Concord,2.75
+Tex-Mex,Fort Mill,2.75
+Tex-Mex,Cave Creek,2.75
+Tex-Mex,Avondale,2.75
+Tex-Mex,Bridgeville,2.75
+Tex-Mex,Pittsburgh,2.7142857142857144
+Tex-Mex,Goodyear,2.7
+Tex-Mex,Peoria,2.6363636363636362
+Tex-Mex,Parma,2.625
+Tex-Mex,Cuyahoga Falls,2.6
+Tex-Mex,Glendale,2.5625
+Tex-Mex,Forest Hills,2.5
+Tex-Mex,Monona,2.5
+Tex-Mex,Indian Trail,2.5
+Tex-Mex,Independence,2.5
+Tex-Mex,Harrisburg,2.5
+Tex-Mex,Urbana,2.5
+Tex-Mex,Stowe,2.5
+Tex-Mex,Brook Park,2.5
+Tex-Mex,Streetsboro,2.5
+Tex-Mex,Richmond Hill,2.5
+Tex-Mex,North Las Vegas,2.5
+Tex-Mex,Brunswick,2.5
+Tex-Mex,Gastonia,2.4166666666666665
+Tex-Mex,Rantoul,2.25
+Tex-Mex,Fitchburg,2.25
+Tex-Mex,Avon Lake,2.0
+Tex-Mex,Willoughby,2.0
+Tex-Mex,Waunakee,2.0
+Tex-Mex,Anthem,2.0
+Tex-Mex,Gibsonia,2.0
+Tex-Mex,Sun City,2.0
+Tex-Mex,Solon,2.0
+Tex-Mex,Sun Prairie,2.0
+Tex-Mex,San Tan Valley,2.0
+Tex-Mex,Euclid,2.0
+Tex-Mex,Tuscola,2.0
+Tex-Mex,Tallmadge,2.0
+Tex-Mex,Strongsville,1.75
+Tex-Mex,Middleburg Heights,1.5
+Tex-Mex,Mint Hill,1.5
+Tex-Mex,Brossard,1.5
+Thai,Lachine,5.0
+Thai,Avon Lake,4.5
+Thai,Châteauguay,4.5
+Thai,Mahomet,4.5
+Thai,Terrebonne,4.5
+Thai,White Oak,4.5
+Thai,Munroe Falls,4.5
+Thai,Blawnox,4.5
+Thai,Glenshaw,4.5
+Thai,Cecil,4.5
+Thai,Anthem,4.5
+Thai,Streetsboro,4.5
+Thai,Irwin,4.5
+Thai,Rantoul,4.5
+Thai,Brunswick,4.25
+Thai,Verona,4.25
+Thai,Avondale,4.25
+Thai,Chagrin Falls,4.25
+Thai,Kannapolis,4.25
+Thai,Concord,4.083333333333333
+Thai,Sun City,4.0
+Thai,Mont-Saint-Hilaire,4.0
+Thai,Filderstadt,4.0
+Thai,Bethel Park,4.0
+Thai,Cornelius,4.0
+Thai,Saint-Laurent,4.0
+Thai,Musselburgh,4.0
+Thai,Paradise Valley,4.0
+Thai,Outremont,4.0
+Thai,Savoy,4.0
+Thai,Westlake,4.0
+Thai,Lakewood,4.0
+Thai,Gastonia,4.0
+Thai,Parma,4.0
+Thai,Pepper Pike,4.0
+Thai,Saint-Eustache,4.0
+Thai,Middleburg Heights,4.0
+Thai,Fellbach,4.0
+Thai,Berea,4.0
+Thai,Kent,4.0
+Thai,Beloeil,4.0
+Thai,Goodyear,4.0
+Thai,Shaler Township,4.0
+Thai,Fountain Hills,4.0
+Thai,Indian Trail,4.0
+Thai,Solon,4.0
+Thai,West Mifflin,4.0
+Thai,Twinsburg,4.0
+Thai,Surprise,4.0
+Thai,Monroeville,4.0
+Thai,Sainte-Anne-de-Bellevue,4.0
+Thai,Stuttgart,3.9705882352941178
+Thai,Huntersville,3.9
+Thai,Chandler,3.875
+Thai,Cleveland,3.875
+Thai,Gilbert,3.875
+Thai,Mesa,3.8333333333333335
+Thai,Bellevue,3.8333333333333335
+Thai,Strongsville,3.8333333333333335
+Thai,Rocky River,3.8333333333333335
+Thai,Edinburgh,3.8295454545454546
+Thai,Las Vegas,3.8198529411764706
+Thai,Tempe,3.8157894736842106
+Thai,Phoenix,3.8152173913043477
+Thai,Scottsdale,3.78
+Thai,Brampton,3.772727272727273
+Thai,Cave Creek,3.75
+Thai,Montreal,3.75
+Thai,Aurora,3.75
+Thai,Boulder City,3.75
+Thai,Chateauguay,3.75
+Thai,Peoria,3.75
+Thai,Chesterland,3.75

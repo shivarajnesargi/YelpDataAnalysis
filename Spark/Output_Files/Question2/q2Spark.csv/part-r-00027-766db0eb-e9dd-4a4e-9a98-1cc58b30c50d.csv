@@ -1,0 +1,207 @@
+category,city,stars
+Books,Scottsdale,3.9583333333333335
+Books,Toronto,3.916201117318436
+Books,Edinburgh,3.9
+Books,Cleveland Heights,3.9
+Books,Madison,3.892857142857143
+Books,Goodyear,3.875
+Books,Lakewood,3.857142857142857
+Books,Las Vegas,3.827338129496403
+Books,Phoenix,3.8260869565217392
+Books,Glendale,3.8125
+Books,Charlotte,3.8076923076923075
+Books,Tempe,3.8
+Books,Mesa,3.7567567567567566
+Books,North York,3.75
+Books,Sun Prairie,3.75
+Books,Henderson,3.7142857142857144
+Books,Champaign,3.7
+Books,Etobicoke,3.6666666666666665
+Books,Strongsville,3.6666666666666665
+Books,Chandler,3.6538461538461537
+Books,Gilbert,3.6538461538461537
+Books,Surprise,3.5
+Books,Peoria,3.5
+Books,Dunfermline,3.5
+Books,Glenshaw,3.5
+Books,North Las Vegas,3.5
+Books,McMurray,3.5
+Books,Monticello,3.5
+Books,Concord,3.5
+Books,Homestead,3.5
+Books,Mississauga,3.5
+Books,Esslingen,3.5
+Books,Leith,3.5
+Books,Avondale,3.5
+Books,Gastonia,3.5
+Books,McKees Rocks,3.5
+Books,Mayfield Heights,3.5
+Books,Scarborough,3.4166666666666665
+Books,North Olmsted,3.4
+Books,Richmond Hill,3.1666666666666665
+Books,Saint Joseph,3.0
+Books,Monroeville,3.0
+Books,Downtown,3.0
+Books,East York,3.0
+Books,Chardon,3.0
+Books,Stow,2.5
+Books,Solon,2.5
+Books,Brunswick,2.0
+Books,Stoughton,1.5
+Books,Leetsdale,1.5
+Books,Willowick,1.0
+Bookstores,Westmount,5.0
+Bookstores,Harrisburg,5.0
+Bookstores,Indian Land,5.0
+Bookstores,Lakewood,5.0
+Bookstores,Hudson,5.0
+Bookstores,Ingliston,4.5
+Bookstores,Goodyear,4.5
+Bookstores,Shaker Heights,4.5
+Bookstores,Montreal,4.5
+Bookstores,Willoughby,4.5
+Bookstores,Saint-Laurent,4.5
+Bookstores,North Las Vegas,4.5
+Bookstores,Davidson,4.5
+Bookstores,Waiblingen,4.5
+Bookstores,Sewickley,4.5
+Bookstores,Bethel Park,4.5
+Bookstores,Verdun,4.5
+Bookstores,Strongsville,4.5
+Bookstores,Matthews,4.5
+Bookstores,Pittsburgh,4.351851851851852
+Bookstores,Stuttgart,4.333333333333333
+Bookstores,Markham,4.25
+Bookstores,Westlake,4.25
+Bookstores,Inverness,4.25
+Bookstores,Montréal,4.121212121212121
+Bookstores,Scottsdale,4.0625
+Bookstores,Edinburgh,4.011363636363637
+Bookstores,Woodmere,4.0
+Bookstores,Scarborough,4.0
+Bookstores,Chagrin Falls,4.0
+Bookstores,North Olmstead,4.0
+Bookstores,Oakville,4.0
+Bookstores,Sun City,4.0
+Bookstores,Brampton,4.0
+Bookstores,Huntersville,4.0
+Bookstores,Newmarket,4.0
+Bookstores,North York,4.0
+Bookstores,Cleveland Heights,4.0
+Bookstores,Ajax,4.0
+Bookstores,Urbana,4.0
+Bookstores,Rocky River,4.0
+Bookstores,Toronto,3.975
+Bookstores,Madison,3.9444444444444446
+Bookstores,Phoenix,3.8870967741935485
+Bookstores,Gilbert,3.8333333333333335
+Bookstores,Mesa,3.8333333333333335
+Bookstores,Charlotte,3.7564102564102564
+Bookstores,Champaign,3.75
+Bookstores,Henderson,3.7
+Bookstores,Las Vegas,3.6875
+Bookstores,Etobicoke,3.6666666666666665
+Bookstores,Cleveland,3.625
+Bookstores,Tempe,3.5555555555555554
+Bookstores,McKees Rocks,3.5
+Bookstores,Peoria,3.5
+Bookstores,East York,3.5
+Bookstores,Monroeville,3.5
+Bookstores,Surprise,3.5
+Bookstores,Richmond Hill,3.5
+Bookstores,Chandler,3.5
+Bookstores,Pineville,3.5
+Bookstores,Homestead,3.5
+Bookstores,Glendale,3.4166666666666665
+Bookstores,Cuyahoga Falls,3.0
+Bookstores,Gastonia,3.0
+Bookstores,Mississauga,3.0
+Bookstores,Concord,3.0
+Bookstores,Stoughton,1.5
+Boot Camps,Cleveland,5.0
+Boot Camps,Fort Mill,5.0
+Boot Camps,Gilbert,5.0
+Boot Camps,Toronto,5.0
+Boot Camps,Middleburg Heights,5.0
+Boot Camps,Lakewood,5.0
+Boot Camps,Avondale,5.0
+Boot Camps,Mentor,5.0
+Boot Camps,Woodmere,5.0
+Boot Camps,Goodyear,5.0
+Boot Camps,Fairlawn,5.0
+Boot Camps,Boulder City,5.0
+Boot Camps,Indian Trail,5.0
+Boot Camps,Rocky River,5.0
+Boot Camps,Litchfield Park,5.0
+Boot Camps,Las Vegas,4.7407407407407405
+Boot Camps,Mesa,4.666666666666667
+Boot Camps,Phoenix,4.655172413793103
+Boot Camps,Chandler,4.607142857142857
+Boot Camps,Tempe,4.6
+Boot Camps,Henderson,4.538461538461538
+Boot Camps,Scottsdale,4.535714285714286
+Boot Camps,Highland Heights,4.5
+Boot Camps,Fitchburg,4.5
+Boot Camps,Matthews,4.5
+Boot Camps,N Las Vegas,4.5
+Boot Camps,MESA,4.5
+Boot Camps,Cornelius,4.5
+Boot Camps,Charlotte,4.3125
+Boot Camps,Beachwood,4.25
+Boot Camps,Peoria,4.25
+Boot Camps,Madison,4.166666666666667
+Boot Camps,Glendale,4.125
+Boot Camps,Pittsburgh,4.125
+Boot Camps,Surprise,4.0
+Boot Camps,Stow,4.0
+Boot Camps,Broadview Heights,3.75
+Boot Camps,Huntersville,3.75
+Boot Camps,Strongsville,3.0
+Boot Camps,Bridgeville,2.5
+Boot Camps,Willoughby,2.0
+Boot Camps,Westlake,1.0
+Botanical Gardens,Ludwigsburg,5.0
+Botanical Gardens,Madison,4.75
+Botanical Gardens,Edinburgh,4.5
+Botanical Gardens,Cleveland,4.5
+Botanical Gardens,Urbana,4.5
+Botanical Gardens,Phoenix,4.5
+Botanical Gardens,Kirtland,4.5
+Botanical Gardens,North York,4.5
+Botanical Gardens,Stuttgart,4.5
+Botanical Gardens,Charlotte,4.333333333333333
+Botanical Gardens,Toronto,4.25
+Botanical Gardens,Montréal,4.25
+Botanical Gardens,Las Vegas,4.2
+Botanical Gardens,Belmont,4.0
+Botanical Gardens,Mesa,4.0
+Botanical Gardens,Oakdale,4.0
+Botanical Gardens,Scottsdale,4.0
+Botanical Gardens,Pittsburgh,3.75
+Botanical Gardens,Henderson,3.5
+Bowling,Macedonia,5.0
+Bowling,Kannapolis,5.0
+Bowling,Middleburg Heights,5.0
+Bowling,Lasalle,5.0
+Bowling,New Kensington,5.0
+Bowling,Fountain Hills,5.0
+Bowling,Bay Village,4.5
+Bowling,Urbana,4.5
+Bowling,North Versailles,4.5
+Bowling,Bedford,4.5
+Bowling,Kent,4.5
+Bowling,Avon Lake,4.5
+Bowling,Cottage Grove,4.5
+Bowling,Wickliffe,4.25
+Bowling,Newmarket,4.0
+Bowling,Brunswick,4.0
+Bowling,Stoughton,4.0
+Bowling,Parma Heights,4.0
+Bowling,Brookpark,4.0
+Bowling,Lorain,4.0
+Bowling,Fellbach,4.0
+Bowling,Mentor,4.0
+Bowling,Lakewood,4.0
+Bowling,Bedford HTS,4.0
+Bowling,Las Vegas,3.875
+Bowling,Tempe,3.875

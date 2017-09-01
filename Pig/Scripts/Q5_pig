@@ -1,0 +1,63 @@
+SET elephantbird.jsonloader.nestedLoad 'true';
+
+yelp_business_data = LOAD '/user/ssn314/yelp/yelp_academic_dataset_business.json' USING com.twitter.elephantbird.pig.load.JsonLoader
+					('-nestedLoad') as (business:map[]);
+                    
+yelp_review_data = LOAD '/user/ssn314/yelp/yelp_academic_dataset_review.json' USING com.twitter.elephantbird.pig.load.JsonLoader
+					('-nestedLoad') as (review:map[]);                    
+
+yelp_business_data_category = FOREACH yelp_business_data GENERATE 
+							 (chararray)business#'business_id' AS businessID,
+                             (float)business#'latitude' AS latitude,
+                             (float)business#'stars' AS stars,
+                             (float)business#'longitude' AS longitude,
+							 FLATTEN(business#'categories') AS categories;
+                             
+yelp_review_category = FOREACH yelp_review_data GENERATE 
+							 (chararray)review#'business_id' AS businessID,
+							 (chararray)review#'review_id' AS reviewID,
+                             (chararray)review#'user_id' AS userID,
+                             (float)review#'stars' AS stars,
+                             (chararray)review#'date' AS date;
+                             
+yelp_review_date= FILTER yelp_review_category BY (SUBSTRING(date,5,7) MATCHES '.*(01|02|03|04|05).*');
+                  
+                             
+yelp_Wisconsin= FILTER yelp_business_data_category BY (latitude>42.9083)
+				AND (latitude<43.2417)
+                AND (longitude>-89.5839)
+                AND (longitude<-89.2506);
+                
+                
+                
+
+
+yelp_Wisconsin_Food_Filter= FILTER yelp_Wisconsin BY categories MATCHES '.*Food*.';
+  
+yelp_Wisconsin_BoundBox_desc= ORDER yelp_Wisconsin_Food_Filter BY stars DESC;
+
+yelp_top_10_Wisconsin= LIMIT yelp_Wisconsin_BoundBox_desc 10;
+
+yelp_Wisconsin_BoundBox_asc= ORDER yelp_Wisconsin_Food_Filter BY stars ASC;
+
+yelp_bottom_10_Wisconsin= LIMIT yelp_Wisconsin_BoundBox_asc 10;
+
+yelp_top_bottom_10= UNION yelp_top_10_Wisconsin,yelp_bottom_10_Wisconsin;
+
+STORE yelp_top_bottom_10 INTO '/user/ssn314/PigOutput/q5TopBottomUnion';
+
+yelp_joined_data= JOIN yelp_top_bottom_10 BY businessID,yelp_review_date BY businessID;
+
+STORE yelp_joined_data INTO '/user/ssn314/PigOutput/q5BizIdJoined';
+
+yelp_joined_review_data= FOREACH yelp_joined_data GENERATE yelp_top_bottom_10::businessID AS bizID,reviewID AS reviewID, 
+						userID AS userID,yelp_review_date::stars AS stars,date AS date;
+                        
+yelp_biz_group= GROUP yelp_joined_review_data BY bizID;
+
+STORE yelp_biz_group INTO '/user/ssn314/PigOutput/q5BizGrouped';
+
+yelp_final_data= FOREACH yelp_biz_group GENERATE group AS bizID, AVG(yelp_joined_review_data.stars) AS stars,yelp_joined_review_data.date AS date; 
+	
+
+STORE yelp_final_data INTO '/user/ssn314/PigOutput/q5Final.out';

@@ -1,0 +1,584 @@
+city,category,sum(review_count)
+Cleveland,Distilleries,43
+Cleveland,Musical Instruments & Teachers,13
+Cleveland,Casinos,216
+Cleveland,American (New),15051
+Cleveland,Gluten-Free,464
+Cleveland,Veterinarians,180
+Cleveland,Churches,16
+Cleveland,Property Management,12
+Cleveland,Truck Rental,48
+Cleveland,Videographers,5
+Cleveland,Vegetarian,1304
+Cleveland,Tours,156
+Cleveland,Medical Spas,22
+Cleveland,Bowling,328
+Cleveland,Flight Instruction,3
+Cleveland,Glass & Mirrors,10
+Cleveland,Windows Installation,21
+Cleveland,Home Theatre Installation,3
+Cleveland,Bus Tours,3
+Cleveland,Electronics,45
+Cleveland,Dumpster Rental,10
+Cleveland,Traditional Clothing,5
+Cleveland,Notaries,4
+Cleveland,Blow Dry/Out Services,23
+Cleveland,Vitamins & Supplements,3
+Cleveland,Boating,58
+Cleveland,Self Storage,53
+Cleveland,Antiques,134
+Cleveland,Baseball Fields,197
+Cleveland,Screen Printing,5
+Cleveland,Auto Upholstery,7
+Cleveland,Internal Medicine,53
+Cleveland,Wedding Planning,88
+Cleveland,Historical Tours,22
+Cleveland,Pubs,4188
+Cleveland,Taiwanese,163
+Cleveland,Air Duct Cleaning,18
+Cleveland,Car Stereo Installation,33
+Cleveland,Dance Clubs,361
+Cleveland,Customized Merchandise,3
+Cleveland,Dance Studios,22
+Cleveland,Police Departments,8
+Cleveland,Moroccan,9
+Cleveland,Wholesale Stores,76
+Cleveland,Japanese,1771
+Cleveland,Keys & Locksmiths,40
+Cleveland,Bubble Tea,187
+Cleveland,Steakhouses,1562
+Cleveland,Furniture Repair,10
+Cleveland,Halal,285
+Cleveland,Baby Gear & Furniture,3
+Cleveland,Event Photography,14
+Cleveland,Office Cleaning,33
+Cleveland,Rugs,5
+Cleveland,Market Stalls,658
+Cleveland,Post Offices,39
+Cleveland,Hobby Shops,57
+Cleveland,Children's Clothing,71
+Cleveland,Nail Salons,489
+Cleveland,Rafting/Kayaking,25
+Cleveland,Flowers,5
+Cleveland,Home Decor,113
+Cleveland,Boot Camps,13
+Cleveland,Comic Books,38
+Cleveland,Health Markets,114
+Cleveland,Ticket Sales,6
+Cleveland,Immigration Law,3
+Cleveland,Macarons,4
+Cleveland,Golf Equipment Shops,3
+Cleveland,Art Space Rentals,3
+Cleveland,Reflexology,9
+Cleveland,Adult Education,109
+Cleveland,Tennis,3
+Cleveland,Utilities,4
+Cleveland,Spanish,168
+Cleveland,Books,381
+Cleveland,Tex-Mex,87
+Cleveland,Barbeque,1245
+Cleveland,Furniture Stores,96
+Cleveland,Hot Dogs,835
+Cleveland,Skin Care,77
+Cleveland,Butcher,79
+Cleveland,Obstetricians & Gynecologists,9
+Cleveland,Department Stores,274
+Cleveland,Television Service Providers,25
+Cleveland,Dive Bars,1280
+Cleveland,Men's Hair Salons,23
+Cleveland,Cafeteria,20
+Cleveland,Eyelash Service,18
+Cleveland,Amateur Sports Teams,12
+Cleveland,Wine Tours,3
+Cleveland,Amusement Parks,55
+Cleveland,Home Automation,5
+Cleveland,Automotive,1158
+Cleveland,Personal Shopping,11
+Cleveland,Carpet Cleaning,38
+Cleveland,Gas & Service Stations,109
+Cleveland,Eyewear & Opticians,35
+Cleveland,Women's Clothing,277
+Cleveland,Outdoor Gear,6
+Cleveland,Damage Restoration,14
+Cleveland,Men's Clothing,182
+Cleveland,Guitar Stores,10
+Cleveland,Pasta Shops,31
+Cleveland,Waffles,20
+Cleveland,Landmarks & Historical Buildings,329
+Cleveland,Mortgage Brokers,7
+Cleveland,Shoe Repair,74
+Cleveland,Colleges & Universities,34
+Cleveland,Salvadoran,141
+Cleveland,Cheese Shops,30
+Cleveland,Ethnic Food,1857
+Cleveland,Departments of Motor Vehicles,10
+Cleveland,Musical Instrument Services,10
+Cleveland,Seafood,2256
+Cleveland,Pet Services,260
+Cleveland,Laundromat,24
+Cleveland,Sugaring,13
+Cleveland,Brewing Supplies,12
+Cleveland,Naturopathic/Holistic,6
+Cleveland,Pet Training,37
+Cleveland,Towing,43
+Cleveland,Gyms,202
+Cleveland,Imported Food,243
+Cleveland,Zoos,171
+Cleveland,Sports Bars,2001
+Cleveland,,25
+Cleveland,Nightlife,19064
+Cleveland,Limos,86
+Cleveland,Party & Event Planning,277
+Cleveland,Water Heater Installation/Repair,18
+Cleveland,Trinidadian,11
+Cleveland,Tapas Bars,436
+Cleveland,Convenience Stores,107
+Cleveland,Tobacco Shops,58
+Cleveland,Medical Supplies,12
+Cleveland,Home Inspectors,3
+Cleveland,Pawn Shops,3
+Cleveland,Kosher,24
+Cleveland,Medical Centers,106
+Cleveland,Makeup Artists,42
+Cleveland,Laser Hair Removal,4
+Cleveland,Life Insurance,6
+Cleveland,Garage Door Services,13
+Cleveland,Dance Schools,7
+Cleveland,Machine & Tool Rental,3
+Cleveland,Local Flavor,249
+Cleveland,Car Rental,276
+Cleveland,Printing Services,58
+Cleveland,Home Cleaning,77
+Cleveland,Botanical Gardens,81
+Cleveland,Insurance,96
+Cleveland,Pharmacy,4
+Cleveland,Mobile Phone Repair,4
+Cleveland,Cosmetology Schools,4
+Cleveland,Home Services,712
+Cleveland,Community Service/Non-Profit,189
+Cleveland,Party Bike Rentals,6
+Cleveland,Endodontists,4
+Cleveland,New Mexican Cuisine,82
+Cleveland,Driving Schools,3
+Cleveland,Mass Media,28
+Cleveland,Tiki Bars,242
+Cleveland,Hotels & Travel,3583
+Cleveland,Creperies,83
+Cleveland,Country Clubs,3
+Cleveland,Henna Artists,13
+Cleveland,Juice Bars & Smoothies,1116
+Cleveland,Photography Stores & Services,34
+Cleveland,British,92
+Cleveland,Hot Tub & Pool,3
+Cleveland,Gift Shops,88
+Cleveland,Outlet Stores,3
+Cleveland,Recycling Center,3
+Cleveland,Haunted Houses,22
+Cleveland,Local Services,1025
+Cleveland,Lounges,3354
+Cleveland,Caterers,1763
+Cleveland,Flooring,23
+Cleveland,Tiling,4
+Cleveland,Grocery,1044
+Cleveland,Hardware Stores,72
+Cleveland,Ramen,199
+Cleveland,Ophthalmologists,49
+Cleveland,Business Consulting,9
+Cleveland,Puerto Rican,4
+Cleveland,Turkish,117
+Cleveland,Colombian,151
+Cleveland,Health & Medical,418
+Cleveland,Hair Extensions,11
+Cleveland,Adult,14
+Cleveland,Business Law,3
+Cleveland,Accessories,198
+Cleveland,Portuguese,156
+Cleveland,Signmaking,13
+Cleveland,Tattoo,119
+Cleveland,Session Photography,29
+Cleveland,Ethnic Grocery,8
+Cleveland,Bespoke Clothing,38
+Cleveland,Oil Change Stations,160
+Cleveland,Delis,1449
+Cleveland,Sports Clubs,18
+Cleveland,Barre Classes,14
+Cleveland,Tax Services,3
+Cleveland,Life Coach,4
+Cleveland,Mags,381
+Cleveland,German,527
+Cleveland,Latin American,488
+Cleveland,Candy Stores,130
+Cleveland,Piercing,87
+Cleveland,Vacation Rental Agents,5
+Cleveland,Photo Booth Rentals,5
+Cleveland,Korean,335
+Cleveland,Breakfast & Brunch,6389
+Cleveland,Contractors,62
+Cleveland,Art Galleries,203
+Cleveland,Occupational Therapy,3
+Cleveland,Hungarian,77
+Cleveland,Vehicle Shipping,15
+Cleveland,Guest Houses,6
+Cleveland,Sports Medicine,6
+Cleveland,Hookah Bars,51
+Cleveland,Lingerie,10
+Cleveland,Golf,25
+Cleveland,Dominican,11
+Cleveland,Specialty Food,3382
+Cleveland,Pet Groomers,123
+Cleveland,Modern European,136
+Cleveland,Russian,5
+Cleveland,Buffets,767
+Cleveland,Music & DVDs,177
+Cleveland,Pet Adoption,10
+Cleveland,Tires,288
+Cleveland,Seafood Markets,719
+Cleveland,Chicken Shop,58
+Cleveland,Urgent Care,7
+Cleveland,Hostels,36
+Cleveland,Shoe Stores,78
+Cleveland,Financial Services,144
+Cleveland,Cards & Stationery,39
+Cleveland,Knitting Supplies,4
+Cleveland,Brazilian,227
+Cleveland,Animal Shelters,23
+Cleveland,Sushi Bars,1605
+Cleveland,Interior Design,28
+Cleveland,Comfort Food,222
+Cleveland,Greek,343
+Cleveland,Battery Stores,21
+Cleveland,Mini Golf,26
+Cleveland,Museums,1251
+Cleveland,DJs,13
+Cleveland,Train Stations,13
+Cleveland,Indian,775
+Cleveland,Vocational & Technical School,4
+Cleveland,Irish,620
+Cleveland,Shaved Ice,5
+Cleveland,Parks,220
+Cleveland,Massage,133
+Cleveland,Wine & Spirits,2976
+Cleveland,Beaches,16
+Cleveland,Smog Check Stations,11
+Cleveland,Salad,1890
+Cleveland,Wineries,25
+Cleveland,Dry Cleaning & Laundry,179
+Cleveland,Dry Cleaning,40
+Cleveland,Comedy Clubs,69
+Cleveland,Watches,8
+Cleveland,Professional Services,176
+Cleveland,Video Game Stores,13
+Cleveland,Tanning Beds,4
+Cleveland,Massage Schools,6
+Cleveland,Performing Arts,557
+Cleveland,Bed & Breakfast,51
+Cleveland,Security Systems,20
+Cleveland,Wheel & Rim Repair,27
+Cleveland,Opera & Ballet,62
+Cleveland,Gymnastics,3
+Cleveland,Framing,4
+Cleveland,Cocktail Bars,929
+Cleveland,Firearm Training,5
+Cleveland,Real Estate Services,9
+Cleveland,Vegan,822
+Cleveland,Carpeting,32
+Cleveland,Cambodian,346
+Cleveland,Fitness & Instruction,364
+Cleveland,Heating & Air Conditioning/HVAC,50
+Cleveland,Musicians,5
+Cleveland,Festivals,162
+Cleveland,Bakeries,2336
+Cleveland,Mattresses,18
+Cleveland,Beer,2976
+Cleveland,Wine Tasting Room,3
+Cleveland,Pediatricians,5
+Cleveland,Cosmetics & Beauty Supply,61
+Cleveland,Discount Store,143
+Cleveland,Vinyl Records,214
+Cleveland,Orthodontists,23
+Cleveland,Hair Removal,195
+Cleveland,Sports Wear,21
+Cleveland,Szechuan,186
+Cleveland,IT Services & Computer Repair,69
+Cleveland,Asian Fusion,1740
+Cleveland,Karaoke,161
+Cleveland,Art Classes,240
+Cleveland,Fondue,44
+Cleveland,Building Supplies,49
+Cleveland,Florists,173
+Cleveland,Physical Therapy,23
+Cleveland,Electronics Repair,13
+Cleveland,Food Delivery Services,225
+Cleveland,Home Window Tinting,3
+Cleveland,Shipping Centers,21
+Cleveland,Plus Size Fashion,6
+Cleveland,Food Stands,412
+Cleveland,Pet Stores,121
+Cleveland,Personal Chefs,9
+Cleveland,Street Vendors,184
+Cleveland,Lebanese,142
+Cleveland,Shared Office Spaces,3
+Cleveland,Motorcycle Dealers,33
+Cleveland,Flowers & Gifts,409
+Cleveland,Dim Sum,293
+Cleveland,Threading Services,12
+Cleveland,Specialty Schools,410
+Cleveland,Recreation Centers,18
+Cleveland,Burgers,2767
+Cleveland,Chicken Wings,1030
+Cleveland,Breweries,1774
+Cleveland,Christmas Trees,8
+Cleveland,Hot Pot,26
+Cleveland,Airports,590
+Cleveland,Beauty & Spas,1387
+Cleveland,Carpet Installation,4
+Cleveland,Pole Dancing Classes,8
+Cleveland,Tapas/Small Plates,617
+Cleveland,Handyman,22
+Cleveland,Furniture Reupholstery,10
+Cleveland,Pet Photography,3
+Cleveland,Wine Bars,1835
+Cleveland,Couriers & Delivery Services,86
+Cleveland,Coffee & Tea,3943
+Cleveland,Hotels,2122
+Cleveland,Motorcycle Repair,22
+Cleveland,Beer Gardens,179
+Cleveland,Bikes,87
+Cleveland,Jazz & Blues,759
+Cleveland,Formal Wear,6
+Cleveland,Lawyers,3
+Cleveland,Carpenters,9
+Cleveland,Brasseries,79
+Cleveland,Sandwiches,5236
+Cleveland,Italian,4023
+Cleveland,Southern,613
+Cleveland,Cardiologists,54
+Cleveland,Banks & Credit Unions,45
+Cleveland,Bike Rentals,70
+Cleveland,Reiki,6
+Cleveland,Vietnamese,1422
+Cleveland,Arts & Crafts,111
+Cleveland,Head Shops,8
+Cleveland,Cupcakes,190
+Cleveland,Cosmetic Surgeons,9
+Cleveland,Cultural Center,10
+Cleveland,Auto Detailing,124
+Cleveland,Eastern European,83
+Cleveland,Nutritionists,15
+Cleveland,Spray Tanning,22
+Cleveland,Funeral Services & Cemeteries,70
+Cleveland,Car Dealers,188
+Cleveland,Shopping Centers,182
+Cleveland,Thai,1469
+Cleveland,Resorts,121
+Cleveland,Junk Removal & Hauling,35
+Cleveland,Cantonese,426
+Cleveland,Kids Activities,17
+Cleveland,Donuts,472
+Cleveland,Piano Bars,31
+Cleveland,Gay Bars,103
+Cleveland,Pilates,46
+Cleveland,Fish & Chips,65
+Cleveland,Parking,61
+Cleveland,Gastropubs,2299
+Cleveland,French,1337
+Cleveland,Electricians,10
+Cleveland,Movers,137
+Cleveland,Food Trucks,456
+Cleveland,Bridal,73
+Cleveland,Arcades,56
+Cleveland,Transmission Repair,9
+Cleveland,Sporting Goods,136
+Cleveland,Art Schools,263
+Cleveland,Home Organization,19
+Cleveland,Herbs & Spices,32
+Cleveland,Cheesesteaks,100
+Cleveland,African,106
+Cleveland,Escape Games,25
+Cleveland,Soup,1036
+Cleveland,Chinese,2325
+Cleveland,Stadiums & Arenas,456
+Cleveland,Belgian,149
+Cleveland,Used,199
+Cleveland,Oral Surgeons,21
+Cleveland,Videos & Video Game Rental,40
+Cleveland,Noodles,574
+Cleveland,Irish Pub,129
+Cleveland,Ice Cream & Frozen Yogurt,1612
+Cleveland,Office Equipment,23
+Cleveland,Party Bus Rentals,56
+Cleveland,Pet Boarding/Pet Sitting,122
+Cleveland,Marinas,16
+Cleveland,Lakes,22
+Cleveland,Pizza,3694
+Cleveland,Meat Shops,956
+Cleveland,Adult Entertainment,311
+Cleveland,Child Care & Day Care,12
+Cleveland,International Grocery,8
+Cleveland,Social Clubs,44
+Cleveland,Vinyl Siding,3
+Cleveland,Employment Law,3
+Cleveland,Personal Injury Law,3
+Cleveland,Argentine,23
+Cleveland,Newspapers & Magazines,8
+Cleveland,Periodontists,22
+Cleveland,Cooking Schools,105
+Cleveland,Public Services & Government,505
+Cleveland,Mexican,3610
+Cleveland,Caribbean,304
+Cleveland,Fences & Gates,7
+Cleveland,Tea Rooms,312
+Cleveland,Popcorn Shops,76
+Cleveland,Sewing & Alterations,122
+Cleveland,Flea Markets,28
+Cleveland,Beer Bar,743
+Cleveland,Laser Tag,7
+Cleveland,Bagels,254
+Cleveland,Toy Stores,47
+Cleveland,Dog Parks,17
+Cleveland,Car Share Services,9
+Cleveland,Watch Repair,7
+Cleveland,Desserts,2340
+Cleveland,Computers,47
+Cleveland,Hair Salons,569
+Cleveland,Libraries,51
+Cleveland,Bike Repair/Maintenance,33
+Cleveland,Music Venues,1661
+Cleveland,Jewelry,80
+Cleveland,Mediterranean,1832
+Cleveland,Kitchen & Bath,27
+Cleveland,Airport Lounges,39
+Cleveland,Transportation,509
+Cleveland,Paint & Sip,30
+Cleveland,Aquariums,99
+Cleveland,Hospitals,97
+Cleveland,Optometrists,86
+Cleveland,Pakistani,58
+Cleveland,Arabian,4
+Cleveland,Fruits & Veggies,753
+Cleveland,Taxis,203
+Cleveland,Martial Arts,8
+Cleveland,Employment Agencies,3
+Cleveland,Hiking,9
+Cleveland,Yoga,128
+Cleveland,Tanning,81
+Cleveland,Home & Garden,315
+Cleveland,Drugstores,276
+Cleveland,Photographers,34
+Cleveland,Travel Agents,3
+Cleveland,Gardeners,6
+Cleveland,Auto Repair,526
+Cleveland,Filipino,38
+Cleveland,Swimming Pools,41
+Cleveland,Hair Stylists,52
+Cleveland,Costumes,25
+Cleveland,Vintage & Consignment,199
+Cleveland,Leather Goods,16
+Cleveland,Arts & Entertainment,5051
+Cleveland,Internet Service Providers,42
+Cleveland,Trainers,149
+Cleveland,Weight Loss Centers,28
+Cleveland,General Litigation,3
+Cleveland,Summer Camps,4
+Cleveland,Playgrounds,27
+Cleveland,Matchmakers,3
+Cleveland,Motorcycle Gear,3
+Cleveland,Video/Film Production,13
+Cleveland,Swimming Lessons/Schools,3
+Cleveland,Fast Food,1459
+Cleveland,Cinema,193
+Cleveland,Polish,367
+Cleveland,Art Museums,28
+Cleveland,Windshield Installation & Repair,10
+Cleveland,Christmas Markets,8
+Cleveland,Print Media,17
+Cleveland,Middle Eastern,1121
+Cleveland,Cosmetic Dentists,53
+Cleveland,General Dentistry,102
+Cleveland,Auction Houses,10
+Cleveland,Travel Services,20
+Cleveland,Appliances,61
+Cleveland,Auto Customization,19
+Cleveland,Jewelry Repair,5
+Cleveland,Music & Video,381
+Cleveland,Tree Services,7
+Cleveland,Airport Shuttles,179
+Cleveland,Used Car Dealers,3
+Cleveland,Gelato,120
+Cleveland,Fashion,889
+Cleveland,Airlines,163
+Cleveland,Go Karts,11
+Cleveland,Pretzels,46
+Cleveland,Cajun/Creole,476
+Cleveland,Chocolatiers & Shops,483
+Cleveland,Dermatologists,4
+Cleveland,Pets,460
+Cleveland,Waxing,117
+Cleveland,Religious Organizations,22
+Cleveland,Bars,18316
+Cleveland,Plumbing,54
+Cleveland,Pool Halls,15
+Cleveland,Restaurants,53561
+Cleveland,Diners,1737
+Cleveland,Active Life,1695
+Cleveland,Education,459
+Cleveland,Venues & Event Spaces,2022
+Cleveland,Nurseries & Gardening,53
+Cleveland,Event Planning & Services,6011
+Cleveland,Septic Services,6
+Cleveland,Professional Sports Teams,264
+Cleveland,Thrift Stores,106
+Cleveland,Pediatric Dentists,25
+Cleveland,Local Fish Stores,5
+Cleveland,Boat Charters,31
+Cleveland,Boat Tours,3
+Cleveland,Barbers,168
+Cleveland,Counseling & Mental Health,12
+Cleveland,Soul Food,891
+Cleveland,Bookstores,72
+Cleveland,Acupuncture,33
+Cleveland,American (Traditional),7597
+Cleveland,Middle Schools & High Schools,4
+Cleveland,Screen Printing/T-Shirt Printing,5
+Cleveland,Real Estate,190
+Cleveland,Day Spas,189
+Cleveland,Car Wash,168
+Cleveland,Ethiopian,72
+Cleveland,Psychics & Astrologers,3
+Cleveland,Auto Glass Services,28
+Cleveland,Shopping,3708
+Cleveland,Cafes,1983
+Cleveland,Interval Training Gyms,29
+Cleveland,Legal Services,30
+Cleveland,Massage Therapy,24
+Cleveland,Food,17391
+Cleveland,Radio Stations,11
+Cleveland,Door Sales/Installation,3
+Cleveland,Dentists,119
+Cleveland,Internet Cafes,14
+Cleveland,Falafel,227
+Cleveland,Art Supplies,19
+Cleveland,Apartments,145
+Cleveland,Landscaping,11
+Cleveland,Pet Insurance,90
+Cleveland,Cuban,167
+Cleveland,Body Shops,117
+Cleveland,Doctors,116
+Cleveland,Cycling Classes,40
+Cleveland,Fabric Stores,3
+Cleveland,Appliances & Repair,22
+Cleveland,Ethic Grocery,4
+Cleveland,Graphic Design,10
+Cleveland,Mobile Phones,136
+Cleveland,Public Transportation,92
+Cleveland,Laundry Services,74
+Cleveland,Permanent Makeup,4
+Cleveland,Criminal Defense Law,3
+Cleveland,Party Supplies,23
+Cleveland,Do-It-Yourself Food,42
+Cleveland,Auto Parts & Supplies,167
+Cleveland,Speakeasies,4
+Cleveland,Farmers Market,753
+Cleveland,Chiropractors,13
+Cleveland,Dog Walkers,7
+Cleveland,Data Recovery,14

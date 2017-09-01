@@ -1,0 +1,173 @@
+category,city,stars
+Breweries,Henderson,3.9615384615384617
+Breweries,Scottsdale,3.9615384615384617
+Breweries,Phoenix,3.95
+Breweries,Mesa,3.9166666666666665
+Breweries,Montréal,3.9047619047619047
+Breweries,Glendale,3.9
+Breweries,Las Vegas,3.8833333333333333
+Breweries,Chandler,3.875
+Breweries,Concord,3.875
+Breweries,Gilbert,3.8333333333333335
+Breweries,Madison,3.8157894736842106
+Breweries,Toronto,3.75
+Breweries,Ludwigsburg,3.6666666666666665
+Breweries,Lakewood,3.6666666666666665
+Breweries,Stuttgart,3.5714285714285716
+Breweries,Boulder City,3.5
+Breweries,Waunakee,3.5
+Breweries,North Olmsted,3.5
+Breweries,Oakville,3.5
+Breweries,Surprise,3.5
+Breweries,Willoughby,3.5
+Breweries,Monroeville,3.5
+Breweries,Richmond Hill,3.5
+Breweries,Dunfermline,3.5
+Breweries,Rocky River,3.5
+Breweries,Stoughton,3.5
+Breweries,Fitchburg,3.25
+Breweries,Mentor,3.25
+Breweries,Laval,3.25
+Breweries,Avon,3.0
+Breweries,Anjou,3.0
+Breweries,Pointe-Claire,3.0
+Breweries,Fairlawn,3.0
+Breweries,Chardon,3.0
+Breweries,Lyndhurst,2.5
+Breweries,Brossard,2.5
+Breweries,Parma,2.5
+Brewing Supplies,Gilbert,5.0
+Brewing Supplies,Las Vegas,5.0
+Brewing Supplies,Henderson,4.5
+Brewing Supplies,Toronto,4.5
+Brewing Supplies,Mentor,4.5
+Brewing Supplies,Cleveland,4.5
+Brewing Supplies,Champaign,4.5
+Brewing Supplies,Westlake,4.5
+Brewing Supplies,Tempe,4.5
+Brewing Supplies,Edinburgh,4.5
+Brewing Supplies,Charlotte,4.25
+Brewing Supplies,Kent,4.0
+Brewing Supplies,Glendale,4.0
+Brewing Supplies,Huntersville,4.0
+Brewing Supplies,Madison,4.0
+Bridal,Stoughton,5.0
+Bridal,Allison Park,5.0
+Bridal,Bethel Park,5.0
+Bridal,Peoria,5.0
+Bridal,Olmsted Falls,5.0
+Bridal,Newmarket,5.0
+Bridal,Verdun,5.0
+Bridal,Glendale,4.833333333333333
+Bridal,Medina,4.833333333333333
+Bridal,Huntersville,4.5
+Bridal,Avon,4.5
+Bridal,Mount Horeb,4.5
+Bridal,Hudson,4.5
+Bridal,Gilbert,4.3125
+Bridal,Montreal,4.25
+Bridal,Cleveland,4.25
+Bridal,Gastonia,4.25
+Bridal,Las Vegas,4.231884057971015
+Bridal,Henderson,4.1
+Bridal,Mesa,4.083333333333333
+Bridal,Charlotte,4.075
+Bridal,Chandler,4.071428571428571
+Bridal,Phoenix,4.069767441860465
+Bridal,Avondale,4.0
+Bridal,Urbana,4.0
+Bridal,Dollard-Des-Ormeaux,4.0
+Bridal,Waiblingen,4.0
+Bridal,Murrysville,4.0
+Bridal,Outremont,4.0
+Bridal,Parma Heights,4.0
+Bridal,Middleton,4.0
+Bridal,Fitchburg,4.0
+Bridal,Vaughan,4.0
+Bridal,Indian Trail,4.0
+Bridal,Ajax,4.0
+Bridal,Wickliffe,4.0
+Bridal,Richmond Hill,4.0
+Bridal,North York,4.0
+Bridal,Esslingen,4.0
+Bridal,Montréal,3.95
+Bridal,Scottsdale,3.9285714285714284
+Bridal,Toronto,3.9019607843137254
+Bridal,Tempe,3.9
+Bridal,Cornelius,3.875
+Bridal,Pittsburgh,3.8684210526315788
+Bridal,Madison,3.8076923076923075
+Bridal,Stuttgart,3.8
+Bridal,Westlake,3.75
+Bridal,Beachwood,3.75
+Bridal,Rocky River,3.75
+Bridal,Stow,3.75
+Bridal,Markham,3.6875
+Bridal,Solon,3.5
+Bridal,Willoughby,3.5
+Bridal,Fairview Park,3.5
+Bridal,Monroeville,3.5
+Bridal,Bridgeville,3.5
+Bridal,Oakville,3.5
+Bridal,Savoy,3.5
+Bridal,Mentor,3.25
+Bridal,Edinburgh,3.25
+Bridal,Woodbridge,3.0
+Bridal,Mississauga,3.0
+Bridal,Pineville,3.0
+Bridal,Gibsonia,3.0
+Bridal,Matthews,3.0
+Bridal,Lyndhurst,3.0
+Bridal,Goodyear,3.0
+Bridal,Fairlawn,3.0
+Bridal,Mayfield Heights,3.0
+Bridal,Champaign,2.875
+Bridal,Strongsville,2.75
+Bridal,Scarborough,2.6666666666666665
+Bridal,North Olmsted,2.6666666666666665
+Bridal,Davidson,2.5
+Bridal,Ditzingen,2.5
+Bridal,Etobicoke,2.5
+Bridal,Concord,2.0
+Bridal,Woodmere,2.0
+Bridal,Laval,1.5
+British,Mesa,4.5
+British,Carefree,4.5
+British,East York,4.5
+British,Noyan,4.5
+British,Waxhaw,4.5
+British,Tempe,4.5
+British,Newmarket,4.5
+British,Pittsburgh,4.5
+British,Inverness,4.1
+British,Montréal,4.071428571428571
+British,Davidson,4.0
+British,Bruntsfield,4.0
+British,Beachwood,4.0
+British,New Town,4.0
+British,Henderson,4.0
+British,Ratho,4.0
+British,Kirkcaldy,4.0
+British,Gullane,4.0
+British,Old Town,4.0
+British,Whitby,4.0
+British,Lasswade,4.0
+British,Edinburgh,3.8875
+British,Brampton,3.8333333333333335
+British,Las Vegas,3.7777777777777777
+British,Madison,3.75
+British,Penicuik,3.75
+British,Scottsdale,3.6666666666666665
+British,Oakville,3.6
+British,Toronto,3.5483870967741935
+British,Cramond Bridge,3.5
+British,Musselburgh,3.5
+British,South Queensferry,3.5
+British,Haddington,3.5
+British,Queensferry,3.5
+British,Fort Mill,3.5
+British,Rocky River,3.5
+British,Richmond Hill,3.5
+British,Glenrothes,3.5
+British,Phoenix,3.5
+British,Markham,3.5

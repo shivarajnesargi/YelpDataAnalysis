@@ -1,0 +1,750 @@
+city,category,sum(review_count)
+Charlotte,Limos,75
+Charlotte,Pressure Washers,68
+Charlotte,Burgers,9992
+Charlotte,Bakeries,5496
+Charlotte,Fire Protection Services,3
+Charlotte,RV Rental,4
+Charlotte,Laser Hair Removal,141
+Charlotte,Video Game Stores,37
+Charlotte,Gyms,1128
+Charlotte,Fondue,186
+Charlotte,Used Bookstore,33
+Charlotte,Knitting Supplies,63
+Charlotte,Financial Advising,13
+Charlotte,Beer Bar,1057
+Charlotte,Motorcycle Repair,45
+Charlotte,Piercing,216
+Charlotte,Teeth Whitening,3
+Charlotte,Pubs,4862
+Charlotte,Cafes,4795
+Charlotte,Roofing,38
+Charlotte,Endocrinologists,3
+Charlotte,Diving,11
+Charlotte,Prosthetics,3
+Charlotte,Sports Bars,6303
+Charlotte,Hobby Shops,161
+Charlotte,Museums,593
+Charlotte,Whiskey Bars,768
+Charlotte,Health Retreats,6
+Charlotte,Chinese,4917
+Charlotte,Antiques,202
+Charlotte,Town Car Service,9
+Charlotte,Jazz & Blues,755
+Charlotte,Plumbing,260
+Charlotte,Threading Services,167
+Charlotte,Salad,5162
+Charlotte,Coffee & Tea,6803
+Charlotte,Home Window Tinting,84
+Charlotte,Comedy Clubs,101
+Charlotte,General Festivals,18
+Charlotte,Tires,932
+Charlotte,Breakfast & Brunch,18082
+Charlotte,Dog Walkers,215
+Charlotte,Orthodontists,151
+Charlotte,Diagnostic Imaging,6
+Charlotte,Botanical Gardens,35
+Charlotte,Air Duct Cleaning,13
+Charlotte,Mortgage Brokers,360
+Charlotte,Fashion,3202
+Charlotte,Signmaking,77
+Charlotte,Appliances & Repair,212
+Charlotte,Medical Supplies,28
+Charlotte,Window Washing,50
+Charlotte,Wine Tasting Room,11
+Charlotte,Hair Stylists,892
+Charlotte,Gardeners,29
+Charlotte,Professional Services,956
+Charlotte,Pediatricians,40
+Charlotte,Bus Tours,25
+Charlotte,Gelato,474
+Charlotte,Travel Services,241
+Charlotte,Medical Transportation,3
+Charlotte,Public Services & Government,563
+Charlotte,Hiking,352
+Charlotte,Wholesalers,6
+Charlotte,Furniture Stores,903
+Charlotte,Beer,5921
+Charlotte,Blow Dry/Out Services,221
+Charlotte,Commercial Real Estate,14
+Charlotte,Recording & Rehearsal Studios,3
+Charlotte,Wedding Planning,119
+Charlotte,Damage Restoration,56
+Charlotte,Phlebologists,20
+Charlotte,Nurseries & Gardening,246
+Charlotte,Burmese,34
+Charlotte,Shoe Stores,558
+Charlotte,Truck Rental,180
+Charlotte,Speakeasies,3
+Charlotte,Music Production Services,3
+Charlotte,Furniture Reupholstery,51
+Charlotte,Laundry Services,163
+Charlotte,Gymnastics,16
+Charlotte,Personal Assistants,4
+Charlotte,Colleges & Universities,54
+Charlotte,Education,956
+Charlotte,British,487
+Charlotte,Pediatric Dentists,205
+Charlotte,Party Supplies,116
+Charlotte,Peruvian,1346
+Charlotte,Tennis,50
+Charlotte,Historical Tours,23
+Charlotte,Pet Hospice,9
+Charlotte,Pool & Billiards,23
+Charlotte,Skate Shops,3
+Charlotte,Employment Law,4
+Charlotte,Mediterranean,4087
+Charlotte,Delis,3194
+Charlotte,Food Stands,159
+Charlotte,Event Photography,55
+Charlotte,Walking Tours,23
+Charlotte,Blood & Plasma Donation Centers,29
+Charlotte,Septic Services,34
+Charlotte,Karaoke,146
+Charlotte,Ethnic Food,1489
+Charlotte,Swimming Lessons/Schools,45
+Charlotte,Interior Design,113
+Charlotte,Optometrists,516
+Charlotte,Specialty Schools,522
+Charlotte,Distilleries,72
+Charlotte,Cinema,1287
+Charlotte,Used,391
+Charlotte,Pilates,163
+Charlotte,Summer Camps,183
+Charlotte,Payroll Services,3
+Charlotte,Valet Services,24
+Charlotte,American (New),24176
+Charlotte,Pizza,11349
+Charlotte,Roadside Assistance,23
+Charlotte,Lighting Fixtures & Equipment,60
+Charlotte,Food Tours,25
+Charlotte,Kickboxing,22
+Charlotte,Scandinavian,146
+Charlotte,Videos & Video Game Rental,136
+Charlotte,Pool & Hot Tub Service,8
+Charlotte,Door Sales/Installation,12
+Charlotte,Laundromat,20
+Charlotte,Session Photography,79
+Charlotte,Bike Repair/Maintenance,161
+Charlotte,Maternity Wear,38
+Charlotte,Windows Installation,50
+Charlotte,Tuscan,3
+Charlotte,Convenience Stores,645
+Charlotte,Customized Merchandise,15
+Charlotte,Chiropractors,196
+Charlotte,Barre Classes,230
+Charlotte,Russian,19
+Charlotte,Hawaiian,118
+Charlotte,Reiki,132
+Charlotte,Local Services,3920
+Charlotte,Turkish,144
+Charlotte,Gun/Rifle Ranges,84
+Charlotte,Home Staging,35
+Charlotte,Car Wash,405
+Charlotte,Chimney Sweeps,13
+Charlotte,Noodles,682
+Charlotte,Chocolatiers & Shops,345
+Charlotte,Used Car Dealers,37
+Charlotte,Buffets,1261
+Charlotte,Irish Pub,362
+Charlotte,Cheesesteaks,540
+Charlotte,Flooring,114
+Charlotte,Vape Shops,123
+Charlotte,Yoga,859
+Charlotte,Windshield Installation & Repair,82
+Charlotte,Driving Schools,13
+Charlotte,Home Theatre Installation,55
+Charlotte,Arts & Entertainment,7423
+Charlotte,Cheese Shops,126
+Charlotte,Boxing,59
+Charlotte,Colombian,164
+Charlotte,Auto Repair,2298
+Charlotte,Desserts,4357
+Charlotte,Landmarks & Historical Buildings,71
+Charlotte,Movers,367
+Charlotte,Carpeting,71
+Charlotte,Elementary Schools,18
+Charlotte,Soup,898
+Charlotte,Gay Bars,115
+Charlotte,Pool Cleaners,4
+Charlotte,Middle Eastern,1289
+Charlotte,Golf Lessons,17
+Charlotte,Real Estate Law,12
+Charlotte,Irish,967
+Charlotte,Vegan,1402
+Charlotte,Advertising,39
+Charlotte,Music & DVDs,201
+Charlotte,Cosmetology Schools,183
+Charlotte,Bike Sharing,6
+Charlotte,Fishing,9
+Charlotte,Aquarium Services,17
+Charlotte,Piano Services,6
+Charlotte,Installment Loans,26
+Charlotte,Japanese,5094
+Charlotte,Sports Wear,284
+Charlotte,Men's Hair Salons,432
+Charlotte,African,66
+Charlotte,Go Karts,28
+Charlotte,Leather Goods,33
+Charlotte,Pakistani,1038
+Charlotte,Lingerie,38
+Charlotte,Tiling,19
+Charlotte,Tax Services,28
+Charlotte,Dominican,119
+Charlotte,Sugaring,57
+Charlotte,Home Services,4191
+Charlotte,Cuban,506
+Charlotte,Do-It-Yourself Food,369
+Charlotte,Venezuelan,42
+Charlotte,Falafel,63
+Charlotte,Dance Studios,88
+Charlotte,Data Recovery,22
+Charlotte,Emergency Rooms,8
+Charlotte,Airports,1663
+Charlotte,Battery Stores,24
+Charlotte,Hair Loss Centers,14
+Charlotte,Tex-Mex,3446
+Charlotte,Adult Entertainment,129
+Charlotte,Churches,149
+Charlotte,Hospitals,92
+Charlotte,Malaysian,155
+Charlotte,Event Planning & Services,9960
+Charlotte,Mexican,9985
+Charlotte,Allergists,8
+Charlotte,Photography Stores & Services,130
+Charlotte,Discount Store,328
+Charlotte,Traditional Chinese Medicine,21
+Charlotte,Rock Climbing,299
+Charlotte,Latin American,2677
+Charlotte,Steakhouses,4262
+Charlotte,General Litigation,22
+Charlotte,Train Stations,13
+Charlotte,Vehicle Wraps,6
+Charlotte,Makeup Artists,392
+Charlotte,Cycling Classes,123
+Charlotte,Baby Gear & Furniture,75
+Charlotte,Hair Removal,2390
+Charlotte,Gutter Services,42
+Charlotte,Fish & Chips,166
+Charlotte,Fitness/Exercise Equipment,14
+Charlotte,Scottish,27
+Charlotte,Vehicle Shipping,3
+Charlotte,Cremation Services,7
+Charlotte,Vinyl Siding,13
+Charlotte,Mini Golf,54
+Charlotte,Screen Printing/T-Shirt Printing,19
+Charlotte,Resorts,97
+Charlotte,Sports Medicine,47
+Charlotte,Insurance,163
+Charlotte,Martial Arts,140
+Charlotte,Ophthalmologists,158
+Charlotte,Hostels,7
+Charlotte,Security Services,19
+Charlotte,Cocktail Bars,3663
+Charlotte,Swimming Pools,73
+Charlotte,Imported Food,337
+Charlotte,Skating Rinks,14
+Charlotte,Hookah Bars,639
+Charlotte,Thrift Stores,244
+Charlotte,Osteopathic Physicians,6
+Charlotte,House Sitters,5
+Charlotte,Hair Extensions,350
+Charlotte,Amusement Parks,356
+Charlotte,Real Estate Services,232
+Charlotte,Waffles,19
+Charlotte,Guitar Stores,8
+Charlotte,Puerto Rican,106
+Charlotte,Escape Games,236
+Charlotte,Chicken Wings,5343
+Charlotte,Specialty Food,4780
+Charlotte,Sandwiches,11997
+Charlotte,Pet Adoption,43
+Charlotte,Accountants,29
+Charlotte,Sewing & Alterations,305
+Charlotte,Home & Rental Insurance,11
+Charlotte,German,656
+Charlotte,Bike Rentals,306
+Charlotte,Plus Size Fashion,47
+Charlotte,Meat Shops,239
+Charlotte,Social Clubs,178
+Charlotte,Party Equipment Rentals,26
+Charlotte,Solar Installation,34
+Charlotte,Beverage Store,4
+Charlotte,Belgian,30
+Charlotte,Art Supplies,139
+Charlotte,Landscaping,85
+Charlotte,Beaches,6
+Charlotte,Painters,60
+Charlotte,Donuts,817
+Charlotte,Television Service Providers,280
+Charlotte,Playgrounds,63
+Charlotte,Dog Parks,96
+Charlotte,Mongolian,179
+Charlotte,Cooking Schools,44
+Charlotte,Decks & Railing,6
+Charlotte,Herbs & Spices,123
+Charlotte,Ramen,608
+Charlotte,Rest Stops,3
+Charlotte,Caterers,3777
+Charlotte,Transmission Repair,72
+Charlotte,Self Storage,227
+Charlotte,Empanadas,42
+Charlotte,Synagogues,7
+Charlotte,Architects,4
+Charlotte,Art Galleries,484
+Charlotte,Laotian,13
+Charlotte,Restaurant Supplies,6
+Charlotte,Business Consulting,3
+Charlotte,Weight Loss Centers,261
+Charlotte,Opera & Ballet,4
+Charlotte,Car Stereo Installation,52
+Charlotte,Bar Crawl,3
+Charlotte,Television Stations,12
+Charlotte,Home & Garden,2046
+Charlotte,Nightlife,32798
+Charlotte,Food Delivery Services,729
+Charlotte,Taiwanese,139
+Charlotte,Parks,621
+Charlotte,Vintage & Consignment,391
+Charlotte,Electricians,96
+Charlotte,Photographers,147
+Charlotte,Mobile Phone Repair,170
+Charlotte,Outdoor Gear,206
+Charlotte,Leisure Centers,32
+Charlotte,Shades & Blinds,55
+Charlotte,Car Rental,872
+Charlotte,Men's Clothing,650
+Charlotte,Permanent Makeup,86
+Charlotte,Mobile Dent Repair,14
+Charlotte,Gift Shops,316
+Charlotte,Festivals,287
+Charlotte,Counseling & Mental Health,50
+Charlotte,Cards & Stationery,338
+Charlotte,Courthouses,13
+Charlotte,Barbers,826
+Charlotte,Pet Services,1521
+Charlotte,Shoe Shine,38
+Charlotte,Bubble Tea,192
+Charlotte,Observatories,32
+Charlotte,Climbing,49
+Charlotte,Vegetarian,5304
+Charlotte,Moroccan,113
+Charlotte,Pool Halls,332
+Charlotte,Departments of Motor Vehicles,70
+Charlotte,Hypnosis/Hypnotherapy,3
+Charlotte,Personal Shopping,8
+Charlotte,Tapas Bars,2239
+Charlotte,Smokehouse,1161
+Charlotte,Lounges,2967
+Charlotte,Soccer,11
+Charlotte,IT Services & Computer Repair,381
+Charlotte,Coffeeshops,5
+Charlotte,Drywall Installation & Repair,33
+Charlotte,Thai,2726
+Charlotte,Fitness & Instruction,2028
+Charlotte,Animal Shelters,27
+Charlotte,Persian/Iranian,111
+Charlotte,Haitian,13
+Charlotte,Fast Food,5519
+Charlotte,Educational Services,124
+Charlotte,Costumes,45
+Charlotte,Lebanese,178
+Charlotte,Tanning,368
+Charlotte,Scuba Diving,11
+Charlotte,Shaved Ice,136
+Charlotte,Races & Competitions,3
+Charlotte,Acupuncture,121
+Charlotte,Day Spas,1747
+Charlotte,Rugs,13
+Charlotte,Adult,6
+Charlotte,Asian Fusion,8074
+Charlotte,Health Markets,837
+Charlotte,Wholesale Stores,118
+Charlotte,Party Bus Rentals,19
+Charlotte,Piano Bars,115
+Charlotte,Tree Services,58
+Charlotte,Day Camps,3
+Charlotte,Restaurants,122200
+Charlotte,Bagels,1605
+Charlotte,Post Offices,146
+Charlotte,Printing Services,185
+Charlotte,Local Flavor,1198
+Charlotte,Archery,20
+Charlotte,Gastroenterologist,8
+Charlotte,Automotive,4219
+Charlotte,Grocery,3465
+Charlotte,Hot Tub & Pool,20
+Charlotte,Water Purification Services,117
+Charlotte,Pest Control,223
+Charlotte,Rolfing,11
+Charlotte,Wraps,8
+Charlotte,Computers,281
+Charlotte,Career Counseling,4
+Charlotte,Mortgage Lenders,26
+Charlotte,DJs,49
+Charlotte,Community Service/Non-Profit,426
+Charlotte,Art Classes,75
+Charlotte,Beauty & Spas,9819
+Charlotte,Boot Camps,143
+Charlotte,Wine & Spirits,5921
+Charlotte,Cosmetics & Beauty Supply,649
+Charlotte,Farmers Market,889
+Charlotte,Financial Services,497
+Charlotte,Children's Clothing,114
+Charlotte,Appraisal Services,16
+Charlotte,Pawn Shops,16
+Charlotte,Mountain Biking,302
+Charlotte,Real Estate Agents,137
+Charlotte,Venues & Event Spaces,2262
+Charlotte,Stadiums & Arenas,313
+Charlotte,Family Practice,92
+Charlotte,Telecommunications,44
+Charlotte,Tattoo Removal,54
+Charlotte,Mobile Phone Accessories,12
+Charlotte,Sushi Bars,8227
+Charlotte,Halal,753
+Charlotte,Neurologist,6
+Charlotte,Christmas Trees,10
+Charlotte,Home Cleaning,338
+Charlotte,Cajun/Creole,1601
+Charlotte,Art Schools,98
+Charlotte,Bowling,422
+Charlotte,Rafting/Kayaking,284
+Charlotte,Bespoke Clothing,4
+Charlotte,Mags,1055
+Charlotte,Heating & Air Conditioning/HVAC,347
+Charlotte,Brasseries,270
+Charlotte,Fireplace Services,20
+Charlotte,Dentists,925
+Charlotte,Country Clubs,44
+Charlotte,Tea Rooms,85
+Charlotte,Oral Surgeons,102
+Charlotte,Flea Markets,17
+Charlotte,Skin Care,1676
+Charlotte,Soul Food,2512
+Charlotte,Backflow Services,3
+Charlotte,Adult Education,29
+Charlotte,Embroidery & Crochet,17
+Charlotte,Seafood Markets,448
+Charlotte,Shipping Centers,199
+Charlotte,Salvadoran,32
+Charlotte,Delicatessen,200
+Charlotte,Ticket Sales,25
+Charlotte,Shopping,12217
+Charlotte,Yelp Events,143
+Charlotte,Web Design,69
+Charlotte,CPR Classes,7
+Charlotte,Bars,30146
+Charlotte,Department Stores,1133
+Charlotte,Eyelash Service,873
+Charlotte,Watch Repair,89
+Charlotte,Appliances,298
+Charlotte,Trainers,617
+Charlotte,Florists,327
+Charlotte,Swimwear,33
+Charlotte,Bed & Breakfast,51
+Charlotte,Bicycles,6
+Charlotte,Naturopathic/Holistic,32
+Charlotte,Car Buyers,22
+Charlotte,Handyman,51
+Charlotte,Fences & Gates,11
+Charlotte,Arabian,66
+Charlotte,Pet Training,350
+Charlotte,Reflexology,161
+Charlotte,Home Health Care,8
+Charlotte,Airport Shuttles,114
+Charlotte,Boat Dealers,5
+Charlotte,Vietnamese,3059
+Charlotte,Flowers & Gifts,1445
+Charlotte,Wigs,16
+Charlotte,Irrigation,6
+Charlotte,Funeral Services & Cemeteries,21
+Charlotte,Skate Parks,7
+Charlotte,Ice Cream & Frozen Yogurt,2324
+Charlotte,Cupcakes,486
+Charlotte,Outlet Stores,97
+Charlotte,Immigration Law,5
+Charlotte,Modern European,528
+Charlotte,Musical Instrument Services,14
+Charlotte,Childbirth Education,16
+Charlotte,Life Insurance,3
+Charlotte,Utilities,10
+Charlotte,Sporting Goods,739
+Charlotte,Cosmetic Surgeons,160
+Charlotte,Banks & Credit Unions,238
+Charlotte,Interval Training Gyms,50
+Charlotte,Oil Change Stations,769
+Charlotte,Butcher,424
+Charlotte,Pet Boarding/Pet Sitting,1148
+Charlotte,Carpet Installation,22
+Charlotte,Tobacco Shops,294
+Charlotte,Kids Activities,155
+Charlotte,Shoe Repair,187
+Charlotte,Auto Insurance,24
+Charlotte,Keys & Locksmiths,146
+Charlotte,Kitchen & Bath,290
+Charlotte,Medical Spas,402
+Charlotte,Hardware Stores,272
+Charlotte,Urgent Care,139
+Charlotte,Basque,142
+Charlotte,Tanning Beds,36
+Charlotte,Dry Cleaning,121
+Charlotte,Tattoo,296
+Charlotte,Orthopedists,44
+Charlotte,Couriers & Delivery Services,82
+Charlotte,Home Network Installation,11
+Charlotte,Ethnic Grocery,4
+Charlotte,Auto Parts & Supplies,754
+Charlotte,Pasta Shops,142
+Charlotte,Child Care & Day Care,248
+Charlotte,Libraries,167
+Charlotte,Public Relations,3
+Charlotte,Radio Stations,32
+Charlotte,Electronics,584
+Charlotte,Security Systems,205
+Charlotte,Motorcycle Dealers,39
+Charlotte,Recycling Center,17
+Charlotte,Surfing,7
+Charlotte,Watches,55
+Charlotte,American (Traditional),19965
+Charlotte,Active Life,4915
+Charlotte,Paint & Sip,68
+Charlotte,First Aid Classes,7
+Charlotte,Performing Arts,618
+Charlotte,Dry Cleaning & Laundry,540
+Charlotte,Transportation,713
+Charlotte,Auto Loan Providers,52
+Charlotte,Auto Detailing,267
+Charlotte,Laboratory Testing,52
+Charlotte,Comic Books,91
+Charlotte,Brewing Supplies,17
+Charlotte,Lawyers,77
+Charlotte,Concierge Medicine,18
+Charlotte,Meditation Centers,4
+Charlotte,Cafeteria,8
+Charlotte,TV Mounting,13
+Charlotte,Musical Instruments & Teachers,70
+Charlotte,Sports Clubs,313
+Charlotte,Uniforms,23
+Charlotte,Teppanyaki,148
+Charlotte,Drugstores,1088
+Charlotte,Cultural Center,7
+Charlotte,Shopping Centers,626
+Charlotte,Internet Cafes,305
+Charlotte,Bartenders,118
+Charlotte,Jewelry,823
+Charlotte,Southern,8743
+Charlotte,Obstetricians & Gynecologists,125
+Charlotte,Hotels & Travel,6973
+Charlotte,Waxing,1397
+Charlotte,Ethiopian,236
+Charlotte,Korean,988
+Charlotte,Diners,3527
+Charlotte,Carpet Cleaning,223
+Charlotte,Party & Event Planning,537
+Charlotte,Building Supplies,174
+Charlotte,Print Media,48
+Charlotte,Farm Equipment Repair,56
+Charlotte,Breweries,2226
+Charlotte,Pop-up Shops,16
+Charlotte,Dance Clubs,1098
+Charlotte,Pretzels,283
+Charlotte,Personal Injury Law,29
+Charlotte,Translation Services,4
+Charlotte,Gastropubs,1726
+Charlotte,Rehabilitation Center,38
+Charlotte,Gluten-Free,1864
+Charlotte,Wine Tours,22
+Charlotte,Dive Bars,545
+Charlotte,Popcorn Shops,17
+Charlotte,Professional Sports Teams,310
+Charlotte,Spanish,858
+Charlotte,Home Decor,948
+Charlotte,Gas & Service Stations,231
+Charlotte,Barbeque,5225
+Charlotte,Chicken Shop,501
+Charlotte,Home Organization,23
+Charlotte,Pet Stores,583
+Charlotte,Smog Check Stations,71
+Charlotte,Farming Equipment,7
+Charlotte,Challenge Courses,230
+Charlotte,Tours,193
+Charlotte,Investing,13
+Charlotte,Property Management,203
+Charlotte,Bridal,271
+Charlotte,Paint Stores,10
+Charlotte,Landscape Architects,10
+Charlotte,Internal Medicine,27
+Charlotte,Hotels,3500
+Charlotte,Vacation Rentals,4
+Charlotte,Engraving,6
+Charlotte,Contractors,224
+Charlotte,Dermatologists,139
+Charlotte,Eyewear & Opticians,418
+Charlotte,Office Equipment,86
+Charlotte,Airlines,357
+Charlotte,Nutritionists,53
+Charlotte,Hot Pot,28
+Charlotte,Test Preparation,3
+Charlotte,Local Fish Stores,16
+Charlotte,Food Trucks,1234
+Charlotte,Garage Door Services,84
+Charlotte,Women's Clothing,1123
+Charlotte,Music Venues,2362
+Charlotte,Cooking Classes,53
+Charlotte,Disc Golf,15
+Charlotte,Portuguese,6
+Charlotte,Nail Salons,3546
+Charlotte,Orthotics,3
+Charlotte,Medical Centers,215
+Charlotte,Cideries,66
+Charlotte,Comfort Food,1623
+Charlotte,Endodontists,133
+Charlotte,Indian,2379
+Charlotte,Greek,2195
+Charlotte,Life Coach,59
+Charlotte,Lactation Services,20
+Charlotte,Vocational & Technical School,101
+Charlotte,Shared Office Spaces,20
+Charlotte,Massage Schools,16
+Charlotte,Police Departments,11
+Charlotte,Real Estate,1511
+Charlotte,Golf,157
+Charlotte,Caribbean,1059
+Charlotte,Photo Booth Rentals,23
+Charlotte,Souvenir Shops,9
+Charlotte,Massage,1483
+Charlotte,Mobile Phones,610
+Charlotte,Registration Services,20
+Charlotte,Body Shops,538
+Charlotte,Tapas/Small Plates,3131
+Charlotte,Religious Organizations,162
+Charlotte,Wineries,277
+Charlotte,Junk Removal & Hauling,47
+Charlotte,Head Shops,21
+Charlotte,Auto Customization,100
+Charlotte,Dim Sum,205
+Charlotte,Montessori Schools,3
+Charlotte,Organic Stores,60
+Charlotte,Fabric Stores,86
+Charlotte,Marketing,55
+Charlotte,Water Delivery,15
+Charlotte,Live/Raw Food,716
+Charlotte,Graphic Design,19
+Charlotte,Health & Medical,3859
+Charlotte,Mattresses,213
+Charlotte,Auto Glass Services,195
+Charlotte,Employment Agencies,26
+Charlotte,Saunas,6
+Charlotte,Dance Schools,22
+Charlotte,Art Space Rentals,5
+Charlotte,Veterinarians,722
+Charlotte,Beer Gardens,793
+Charlotte,CSA,4
+Charlotte,Divorce & Family Law,23
+Charlotte,Packing Supplies,18
+Charlotte,Juice Bars & Smoothies,708
+Charlotte,Parking,140
+Charlotte,DUI Law,32
+Charlotte,Luggage,22
+Charlotte,Vinyl Records,74
+Charlotte,Bookkeepers,5
+Charlotte,Himalayan/Nepalese,64
+Charlotte,Dumpster Rental,3
+Charlotte,Books,1055
+Charlotte,Candy Stores,105
+Charlotte,Audiologist,28
+Charlotte,Electronics Repair,179
+Charlotte,Country Dance Halls,45
+Charlotte,Apartments,824
+Charlotte,Car Dealers,996
+Charlotte,Trinidadian,19
+Charlotte,Personal Chefs,89
+Charlotte,Fruits & Veggies,313
+Charlotte,Szechuan,21
+Charlotte,Toy Stores,150
+Charlotte,Podiatrists,9
+Charlotte,Arcades,212
+Charlotte,Diagnostic Services,61
+Charlotte,Tutoring Centers,37
+Charlotte,Car Share Services,10
+Charlotte,Formal Wear,76
+Charlotte,Massage Therapy,644
+Charlotte,Bikes,226
+Charlotte,Argentine,155
+Charlotte,Street Vendors,1025
+Charlotte,Taxis,151
+Charlotte,Guns & Ammo,146
+Charlotte,Physical Therapy,133
+Charlotte,Food Court,11
+Charlotte,Airport Lounges,90
+Charlotte,Water Heater Installation/Repair,141
+Charlotte,Preschools,69
+Charlotte,Wine Bars,4657
+Charlotte,French,2377
+Charlotte,Pet Groomers,805
+Charlotte,Laser Eye Surgery/Lasik,101
+Charlotte,Shutters,4
+Charlotte,Recreation Centers,199
+Charlotte,Towing,156
+Charlotte,Home Automation,97
+Charlotte,Occupational Therapy,22
+Charlotte,Estate Planning Law,10
+Charlotte,Italian,9346
+Charlotte,Jewelry Repair,102
+Charlotte,Spray Tanning,198
+Charlotte,Criminal Defense Law,50
+Charlotte,International Grocery,4
+Charlotte,Music & Video,1055
+Charlotte,Bankruptcy Law,23
+Charlotte,Legal Services,15
+Charlotte,Bike Shop,6
+Charlotte,Food,36090
+Charlotte,Amateur Sports Teams,66
+Charlotte,Custom Cakes,11
+Charlotte,Pain Management,7
+Charlotte,Cabaret,37
+Charlotte,Brazilian,431
+Charlotte,Ear Nose & Throat,41
+Charlotte,Insulation Installation,4
+Charlotte,Creperies,1186
+Charlotte,Bike Repair,6
+Charlotte,Arts & Crafts,775
+Charlotte,Buddhist Temples,6
+Charlotte,Retirement Homes,4
+Charlotte,Video/Film Production,11
+Charlotte,Masonry/Concrete,4
+Charlotte,Cosmetic Dentists,629
+Charlotte,Office Cleaning,138
+Charlotte,Gold Buyers,58
+Charlotte,Business Law,15
+Charlotte,,49
+Charlotte,Doctors,950
+Charlotte,Kosher,369
+Charlotte,Hair Salons,3285
+Charlotte,General Dentistry,724
+Charlotte,Golf Equipment,30
+Charlotte,Internet Service Providers,213
+Charlotte,Framing,45
+Charlotte,Art Museums,154
+Charlotte,Notaries,126
+Charlotte,Periodontists,26
+Charlotte,Trampoline Parks,16
+Charlotte,Accessories,618
+Charlotte,Wheel & Rim Repair,127
+Charlotte,Public Transportation,97
+Charlotte,Newspapers & Magazines,7
+Charlotte,Bookstores,709
+Charlotte,Cabinetry,14
+Charlotte,Community Centers,7
+Charlotte,Seafood,7824
+Charlotte,Pets,2088
+Charlotte,Car Inspectors,3
+Charlotte,Videographers,7
+Charlotte,Hot Dogs,1030
+Charlotte,Home Inspectors,73
+Charlotte,Mass Media,92
+Charlotte,Tacos,432
+Charlotte,Vitamins & Supplements,31
+Charlotte,Pole Dancing Classes,4
+Charlotte,University Housing,20

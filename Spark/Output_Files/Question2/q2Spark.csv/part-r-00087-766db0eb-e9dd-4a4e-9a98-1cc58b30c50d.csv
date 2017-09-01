@@ -1,0 +1,251 @@
+category,city,stars
+Grocery,Mississauga,3.47
+Grocery,Toronto,3.435374149659864
+Grocery,North York,3.426470588235294
+Grocery,Avondale,3.423076923076923
+Grocery,Surprise,3.4210526315789473
+Grocery,North Las Vegas,3.388888888888889
+Grocery,Mint Hill,3.375
+Grocery,Henderson,3.3727272727272726
+Grocery,Thornhill,3.3666666666666667
+Grocery,Concord,3.3636363636363638
+Grocery,Aurora,3.3636363636363638
+Grocery,Las Vegas,3.352517985611511
+Grocery,Phoenix,3.3379446640316206
+Grocery,Davidson,3.3333333333333335
+Grocery,Mesa,3.3275862068965516
+Grocery,Chandler,3.307017543859649
+Grocery,Pickering,3.3
+Grocery,Etobicoke,3.3
+Grocery,Oakville,3.2857142857142856
+Grocery,Richmond Hill,3.282608695652174
+Grocery,Peoria,3.263157894736842
+Grocery,Markham,3.257142857142857
+Grocery,Gibsonia,3.25
+Grocery,Sun Prairie,3.25
+Grocery,Elyria,3.25
+Grocery,McMurray,3.25
+Grocery,Dollard-des-Ormeaux,3.25
+Grocery,Scarborough,3.216666666666667
+Grocery,Glendale,3.2142857142857144
+Grocery,Parma,3.2142857142857144
+Grocery,Goodyear,3.2083333333333335
+Grocery,Gastonia,3.2
+Grocery,Saint-Laurent,3.1666666666666665
+Grocery,Urbana,3.125
+Grocery,Mayfield Heights,3.125
+Grocery,Bethel Park,3.125
+Grocery,Medina,3.125
+Grocery,Vaughan,3.0588235294117645
+Grocery,Brampton,3.0454545454545454
+Grocery,Bridgeville,3.0
+Grocery,Dunfermline,3.0
+Grocery,McKees Rocks,3.0
+Grocery,Fountain Hills,3.0
+Grocery,North Ridgeville,3.0
+Grocery,Lothian,3.0
+Grocery,Pleasant Hills,3.0
+Grocery,Tega Cay,3.0
+Grocery,Brooklyn,3.0
+Grocery,Shorewood Hills,3.0
+Grocery,Indian Trail,3.0
+Grocery,Broadview Heights,3.0
+Grocery,Hemmingen,3.0
+Grocery,Mc Farland,3.0
+Grocery,De Forest,3.0
+Grocery,Stoughton,3.0
+Grocery,Richmond Heights,3.0
+Grocery,Lake Wylie,3.0
+Grocery,East Mc Keesport,3.0
+Grocery,Middlefield,3.0
+Grocery,Maple,3.0
+Grocery,Savoy,3.0
+Grocery,Dalkeith,3.0
+Grocery,Carnegie,3.0
+Grocery,Carefree,3.0
+Grocery,Willoughby Hills,3.0
+Grocery,Canonsburg,3.0
+Grocery,Montreal,3.0
+Grocery,Stow,2.875
+Grocery,Painesville,2.8333333333333335
+Grocery,Fairview Park,2.75
+Grocery,Laveen,2.75
+Grocery,Paradise Valley,2.75
+Grocery,Boulder City,2.6666666666666665
+Grocery,El Mirage,2.6666666666666665
+Grocery,York,2.625
+Grocery,Bedford,2.5
+Grocery,Verdun,2.5
+Grocery,Ahwatukee,2.5
+Grocery,Streetsboro,2.5
+Grocery,Richfield,2.5
+Grocery,Munhall,2.5
+Grocery,Anthem,2.5
+Grocery,North Versailles,2.5
+Grocery,Northfield,2.5
+Grocery,Sun City,2.5
+Grocery,Saint-Jerome,2.5
+Grocery,Musselburgh,2.5
+Grocery,Castle Shannon,2.5
+Grocery,South Euclid,2.4
+Grocery,Fairlawn,2.375
+Grocery,West Mifflin,2.25
+Grocery,Mahomet,2.0
+Grocery,Rantoul,2.0
+Grocery,Eastlake,2.0
+Grocery,Amherst,2.0
+Grocery,Tolleson,2.0
+Grocery,Berea,2.0
+Grocery,Irwin,2.0
+Grocery,Avon Lake,2.0
+Grocery,Euclid,2.0
+Grocery,Macedonia,2.0
+Grocery,Kent,1.8333333333333333
+Grocery,Whitchurch-Stouffville,1.5
+Grocery,Sun Lakes,1.5
+Grocery,Leetsdale,1.5
+Guest Houses,Painesville,5.0
+Guest Houses,Montréal,5.0
+Guest Houses,Phoenix,5.0
+Guest Houses,Berea,5.0
+Guest Houses,Montreal,4.5
+Guest Houses,Inverness,4.5
+Guest Houses,Edinburgh,4.388888888888889
+Guest Houses,Toronto,4.214285714285714
+Guest Houses,Las Vegas,4.083333333333333
+Guest Houses,Glendale,4.0
+Guest Houses,Bernhausen,4.0
+Guest Houses,Gerlingen,4.0
+Guest Houses,Mount Horeb,4.0
+Guest Houses,Filderstadt,4.0
+Guest Houses,Pittsburgh,3.8333333333333335
+Guest Houses,Stuttgart,3.0
+Guest Houses,Fellbach,2.5
+Guest Houses,Cleveland,2.5
+Guest Houses,Scottsdale,2.0
+Guest Houses,Monroeville,2.0
+Guitar Stores,Verona,5.0
+Guitar Stores,Pittsburgh,4.625
+Guitar Stores,Cleveland,4.5
+Guitar Stores,Madison,4.5
+Guitar Stores,Phoenix,4.25
+Guitar Stores,Mississauga,4.25
+Guitar Stores,Edinburgh,4.0
+Guitar Stores,Newmarket,4.0
+Guitar Stores,North Olmsted,4.0
+Guitar Stores,Fairlawn,4.0
+Guitar Stores,Mesa,3.875
+Guitar Stores,Las Vegas,3.75
+Guitar Stores,Toronto,3.5
+Guitar Stores,Huntersville,3.5
+Guitar Stores,Scottsdale,3.5
+Guitar Stores,Charlotte,3.5
+Guitar Stores,Gilbert,3.0
+Guitar Stores,Matthews,3.0
+Guitar Stores,Tempe,3.0
+Guitar Stores,Amherst,2.5
+Guitar Stores,Glendale,2.5
+Guitar Stores,Mayfield Heights,2.5
+Guitar Stores,Avondale,2.5
+Gun/Rifle Ranges,Gastonia,5.0
+Gun/Rifle Ranges,Montréal,5.0
+Gun/Rifle Ranges,Nellis Afb,5.0
+Gun/Rifle Ranges,Goodyear,5.0
+Gun/Rifle Ranges,Pittsburgh,5.0
+Gun/Rifle Ranges,North Las Vegas,4.75
+Gun/Rifle Ranges,Chandler,4.75
+Gun/Rifle Ranges,Glendale,4.75
+Gun/Rifle Ranges,Painesville,4.5
+Gun/Rifle Ranges,Lorain,4.5
+Gun/Rifle Ranges,Charlotte,4.5
+Gun/Rifle Ranges,Middleburg Hts,4.5
+Gun/Rifle Ranges,Boulder City,4.5
+Gun/Rifle Ranges,Berea,4.5
+Gun/Rifle Ranges,Chesterland,4.5
+Gun/Rifle Ranges,Geauga,4.5
+Gun/Rifle Ranges,Sheffield,4.5
+Gun/Rifle Ranges,Henderson,4.375
+Gun/Rifle Ranges,Tempe,4.333333333333333
+Gun/Rifle Ranges,Las Vegas,4.326923076923077
+Gun/Rifle Ranges,Phoenix,4.029411764705882
+Gun/Rifle Ranges,Avondale,4.0
+Gun/Rifle Ranges,Indian Land,4.0
+Gun/Rifle Ranges,Scottsdale,4.0
+Gun/Rifle Ranges,Saint Anns,4.0
+Gun/Rifle Ranges,York,4.0
+Gun/Rifle Ranges,Cave Creek,4.0
+Gun/Rifle Ranges,Gormley,4.0
+Gun/Rifle Ranges,Matthews,4.0
+Gun/Rifle Ranges,Paradise Valley,4.0
+Gun/Rifle Ranges,Urbana,4.0
+Gun/Rifle Ranges,Sewickley,4.0
+Gun/Rifle Ranges,Fort Mill,4.0
+Gun/Rifle Ranges,Mesa,3.5714285714285716
+Gun/Rifle Ranges,Peoria,3.3333333333333335
+Gun/Rifle Ranges,Concord,3.0
+Gun/Rifle Ranges,Surprise,3.0
+Gun/Rifle Ranges,Belmont,3.0
+Gun/Rifle Ranges,Cornelius,3.0
+Gun/Rifle Ranges,Willowick,2.5
+Gun/Rifle Ranges,Broadview Heights,2.5
+Gun/Rifle Ranges,West Mifflin,2.5
+Gun/Rifle Ranges,Gilbert,2.5
+Guns & Ammo,Verona,5.0
+Guns & Ammo,Lakewood,5.0
+Guns & Ammo,North Las Vegas,5.0
+Guns & Ammo,Pittsburgh,5.0
+Guns & Ammo,Cave Creek,5.0
+Guns & Ammo,San Tan Valley,5.0
+Guns & Ammo,Madison,5.0
+Guns & Ammo,Boulder City,5.0
+Guns & Ammo,Goodyear,4.75
+Guns & Ammo,Dravosburg,4.5
+Guns & Ammo,Geauga,4.5
+Guns & Ammo,Oregon,4.5
+Guns & Ammo,Sun Prairie,4.5
+Guns & Ammo,Middleburg Hts,4.5
+Guns & Ammo,Scottsdale,4.285714285714286
+Guns & Ammo,Tempe,4.1875
+Guns & Ammo,Henderson,4.1875
+Guns & Ammo,Las Vegas,4.171052631578948
+Guns & Ammo,Charlotte,4.142857142857143
+Guns & Ammo,Glendale,4.142857142857143
+Guns & Ammo,Chandler,4.125
+Guns & Ammo,Solon,4.0
+Guns & Ammo,York,4.0
+Guns & Ammo,Urbana,4.0
+Guns & Ammo,Matthews,4.0
+Guns & Ammo,Gastonia,4.0
+Guns & Ammo,Concord,4.0
+Guns & Ammo,Avondale,4.0
+Guns & Ammo,Paradise Valley,4.0
+Guns & Ammo,Phoenix,3.953125
+Guns & Ammo,Gilbert,3.8333333333333335
+Guns & Ammo,Mesa,3.825
+Guns & Ammo,Fort Mill,3.75
+Guns & Ammo,Chagrin Falls,3.5
+Guns & Ammo,Moon Twp,3.5
+Guns & Ammo,Sheffield Village,3.5
+Guns & Ammo,Warrensville Heights,3.5
+Guns & Ammo,Peoria,3.375
+Guns & Ammo,Mentor,3.25
+Guns & Ammo,Cornelius,3.0
+Guns & Ammo,Belmont,3.0
+Guns & Ammo,Stuttgart,3.0
+Guns & Ammo,Surprise,3.0
+Guns & Ammo,De Forest,3.0
+Guns & Ammo,West Mifflin,2.75
+Guns & Ammo,Cuyahoga Falls,2.5
+Guns & Ammo,Toronto,2.5
+Guns & Ammo,Twinsburg,2.5
+Guns & Ammo,Broadview Heights,2.5
+Guns & Ammo,Willowick,2.5
+Guns & Ammo,Avon,2.5
+Guns & Ammo,Champaign,1.5
+Gutter Services,Venetia,5.0
+Gutter Services,Phoenix,5.0
+Gutter Services,Sun City,5.0
+Gutter Services,Peoria,5.0
+Gutter Services,Waxhaw,5.0
+Gutter Services,Glendale,5.0
+Gutter Services,Henderson,5.0

@@ -1,0 +1,26 @@
+SET elephantbird.jsonloader.nestedLoad 'true';
+
+yelp_business_data = LOAD '/user/ssn314/yelp/yelp_academic_dataset_business.json' USING 
+		com.twitter.elephantbird.pig.load.JsonLoader('-nestedLoad') as (json:map[]);
+
+yelp_business_data_category = FOREACH yelp_business_data GENERATE 
+			     (float)json#'stars' AS stars,
+                             (float)json#'latitude' AS latitude,
+                             (float)json#'longitude' AS longitude,
+			     FLATTEN(json#'categories') AS categories;
+                             
+yelp_Wisconsin= FILTER yelp_business_data_category BY (latitude>42.9083)
+				AND (latitude<43.2417)
+                AND (longitude>-89.5839)
+                AND (longitude<-89.2506);
+                
+yelp_Wisconsin_Category= GROUP yelp_Wisconsin BY categories;
+
+yelp_Wisconsin_BoundBox= FOREACH yelp_Wisconsin_Category generate group AS categories,
+						 AVG(yelp_Wisconsin.stars) AS stars;
+                         
+    
+yelp_Wisconsin_BoundBox_Ordered= ORDER yelp_Wisconsin_BoundBox BY stars DESC;
+
+
+STORE yelp_Wisconsin_BoundBox_Ordered INTO '/user/ssn314/PigOutput/q3Final.out';

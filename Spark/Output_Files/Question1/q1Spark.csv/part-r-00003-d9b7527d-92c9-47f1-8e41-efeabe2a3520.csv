@@ -1,0 +1,629 @@
+city,category,sum(review_count)
+Madison,Laundry Services,47
+Madison,Smokehouse,58
+Madison,Heating & Air Conditioning/HVAC,75
+Madison,Laser Hair Removal,15
+Madison,Parenting Classes,4
+Madison,Thai,1873
+Madison,Shades & Blinds,9
+Madison,Internal Medicine,21
+Madison,Drywall Installation & Repair,4
+Madison,Juice Bars & Smoothies,461
+Madison,Leather Goods,9
+Madison,Massage Therapy,171
+Madison,Cards & Stationery,71
+Madison,Telecommunications,19
+Madison,Vintage & Consignment,166
+Madison,Ethnic Food,245
+Madison,Used,166
+Madison,Couriers & Delivery Services,131
+Madison,Handyman,18
+Madison,Building Supplies,114
+Madison,Party Supplies,26
+Madison,Vietnamese,1058
+Madison,Dance Studios,35
+Madison,Landscaping,37
+Madison,Resorts,41
+Madison,Art Classes,21
+Madison,Skate Shops,3
+Madison,Imported Food,13
+Madison,Art Museums,45
+Madison,Cosmetic Dentists,158
+Madison,Bowling,62
+Madison,RV Dealers,5
+Madison,Chicken Wings,505
+Madison,Indian,1038
+Madison,Asian Fusion,2238
+Madison,DJs,16
+Madison,Country Clubs,20
+Madison,African,89
+Madison,Toy Stores,154
+Madison,Waxing,332
+Madison,Shoe Stores,197
+Madison,Embroidery & Crochet,16
+Madison,Pediatric Dentists,75
+Madison,Ethnic Grocery,5
+Madison,Guns & Ammo,4
+Madison,Banks & Credit Unions,71
+Madison,Used Bookstore,28
+Madison,Videographers,11
+Madison,Orthodontists,62
+Madison,Drugstores,152
+Madison,Insurance,28
+Madison,Jewelry,319
+Madison,Seafood Markets,64
+Madison,Event Photography,23
+Madison,Halal,59
+Madison,Leisure Centers,17
+Madison,Blood & Plasma Donation Centers,7
+Madison,Hot Dogs,223
+Madison,Musical Instruments & Teachers,56
+Madison,Electronics Repair,118
+Madison,Data Recovery,38
+Madison,Knitting Supplies,25
+Madison,Home Staging,7
+Madison,Home Decor,275
+Madison,Tapas/Small Plates,691
+Madison,Supper Clubs,10
+Madison,Museums,405
+Madison,Piano Stores,4
+Madison,Allergists,6
+Madison,Auto Repair,1101
+Madison,Children's Clothing,53
+Madison,Security Services,81
+Madison,Food,15608
+Madison,Fitness & Instruction,572
+Madison,Vegetarian,1500
+Madison,Cantonese,291
+Madison,Tiling,10
+Madison,Popcorn Shops,13
+Madison,Comedy Clubs,79
+Madison,Gay Bars,136
+Madison,Art Galleries,134
+Madison,Car Wash,193
+Madison,Oil Change Stations,425
+Madison,Gyms,355
+Madison,Music Venues,910
+Madison,Personal Shopping,32
+Madison,Elementary Schools,19
+Madison,Boat Repair,4
+Madison,Pet Groomers,254
+Madison,Utilities,27
+Madison,Chinese,2967
+Madison,Business Consulting,3
+Madison,Hiking,18
+Madison,Afghan,148
+Madison,Lakes,187
+Madison,Zoos,118
+Madison,Scuba Diving,3
+Madison,Shoe Repair,94
+Madison,Japanese,1773
+Madison,Greek,670
+Madison,Hotels & Travel,2262
+Madison,Auto Customization,12
+Madison,Barbers,496
+Madison,Coffee Roasteries,19
+Madison,Spray Tanning,65
+Madison,Screen Printing/T-Shirt Printing,6
+Madison,Disc Golf,4
+Madison,Adult,56
+Madison,Parking,4
+Madison,Pakistani,701
+Madison,Hats,9
+Madison,Hawaiian,74
+Madison,Paint Stores,6
+Madison,Day Spas,403
+Madison,Eyewear & Opticians,148
+Madison,Persian/Iranian,45
+Madison,Tobacco Shops,65
+Madison,Talent Agencies,6
+Madison,Graphic Design,16
+Madison,Motorcycle Gear,9
+Madison,Wine Tasting Room,11
+Madison,Sewing & Alterations,161
+Madison,Soul Food,188
+Madison,Reflexology,27
+Madison,Venezuelan,215
+Madison,Appliances & Repair,50
+Madison,Home & Garden,860
+Madison,Music & DVDs,210
+Madison,Latin American,684
+Madison,Pilates,11
+Madison,Henna Artists,4
+Madison,Nail Salons,986
+Madison,Keys & Locksmiths,171
+Madison,Skating Rinks,14
+Madison,Endodontists,60
+Madison,Thrift Stores,187
+Madison,Seafood,1820
+Madison,Soccer,12
+Madison,Gas & Service Stations,69
+Madison,Wine Bars,1087
+Madison,Office Cleaning,27
+Madison,Martial Arts,22
+Madison,Medical Supplies,44
+Madison,Bubble Tea,190
+Madison,Fish & Chips,258
+Madison,CPR Classes,4
+Madison,Livestock Feed & Supply,11
+Madison,Post Offices,30
+Madison,Nightlife,15056
+Madison,Airports,152
+Madison,Commercial Real Estate,7
+Madison,Wheel & Rim Repair,103
+Madison,Yelp Events,26
+Madison,Home Organization,5
+Madison,Cabinetry,3
+Madison,Vinyl Records,60
+Madison,Shipping Centers,50
+Madison,Breweries,1935
+Madison,Clock Repair,23
+Madison,Electronics,207
+Madison,Barbeque,1070
+Madison,Periodontists,32
+Madison,Child Care & Day Care,31
+Madison,Veterinarians,290
+Madison,Home & Rental Insurance,15
+Madison,Bike Rentals,176
+Madison,Colombian,215
+Madison,Tubing,3
+Madison,Airport Shuttles,82
+Madison,Adult Education,14
+Madison,Southern,161
+Madison,Cajun/Creole,254
+Madison,Printing Services,87
+Madison,Korean,342
+Madison,Masonry/Concrete,4
+Madison,Flooring,20
+Madison,Door Sales/Installation,3
+Madison,Specialty Schools,156
+Madison,Organic Stores,84
+Madison,IT Services & Computer Repair,305
+Madison,Motorcycle Dealers,29
+Madison,Limos,35
+Madison,Belgian,563
+Madison,Cuban,21
+Madison,Wine Tours,25
+Madison,Radio Stations,5
+Madison,Ice Cream & Frozen Yogurt,1226
+Madison,Auto Parts & Supplies,520
+Madison,Lighting Fixtures & Equipment,28
+Madison,Chicken Shop,12
+Madison,Food Stands,197
+Madison,Ski & Snowboard Shops,28
+Madison,Diagnostic Services,8
+Madison,Massage,520
+Madison,Fruits & Veggies,348
+Madison,Delis,976
+Madison,Cardiologists,7
+Madison,Musicians,9
+Madison,Watches,77
+Madison,Pool Halls,110
+Madison,Indonesian,190
+Madison,Home Theatre Installation,4
+Madison,Mobile Phones,225
+Madison,Pets,769
+Madison,Beer Bar,593
+Madison,Modern European,246
+Madison,Battery Stores,13
+Madison,Cosmetology Schools,62
+Madison,Orthopedists,8
+Madison,Children's Museums,54
+Madison,Fitness/Exercise Equipment,10
+Madison,Hair Removal,617
+Madison,Plus Size Fashion,19
+Madison,Hair Salons,1383
+Madison,Gastropubs,1868
+Madison,Observatories,5
+Madison,Urgent Care,25
+Madison,Car Stereo Installation,73
+Madison,Auto Glass Services,60
+Madison,,10
+Madison,Music & Video,463
+Madison,Pet Services,454
+Madison,Burgers,4022
+Madison,Blow Dry/Out Services,131
+Madison,Mexican,3530
+Madison,Colleges & Universities,231
+Madison,Mobile Phone Repair,94
+Madison,Cosmetic Surgeons,7
+Madison,Hostels,25
+Madison,Gold Buyers,12
+Madison,Lingerie,82
+Madison,Optometrists,188
+Madison,Outlet Stores,15
+Madison,Mass Media,20
+Madison,Playgrounds,28
+Madison,Plumbing,89
+Madison,Candy Stores,92
+Madison,Vape Shops,43
+Madison,Party Bus Rentals,30
+Madison,Rugs,4
+Madison,Hotels,1542
+Madison,Baby Gear & Furniture,102
+Madison,Hardware Stores,188
+Madison,Party Bike Rentals,8
+Madison,Laser Tag,17
+Madison,Bagels,440
+Madison,Boot Camps,20
+Madison,Beaches,9
+Madison,Photographers,58
+Madison,Accessories,190
+Madison,Bikes,282
+Madison,Educational Services,31
+Madison,Life Coach,11
+Madison,Diving,3
+Madison,Beauty & Spas,2999
+Madison,Sushi Bars,1717
+Madison,Mini Golf,30
+Madison,Sports Bars,1139
+Madison,Musical Instrument Services,33
+Madison,Jet Skis,3
+Madison,Water Delivery,9
+Madison,Self Storage,83
+Madison,Spanish,114
+Madison,Arts & Crafts,381
+Madison,Professional Services,381
+Madison,Motorcycle Repair,25
+Madison,Appraisal Services,5
+Madison,Contractors,129
+Madison,Weight Loss Centers,9
+Madison,Head Shops,16
+Madison,Local Services,1491
+Madison,Wine & Spirits,1030
+Madison,Fast Food,1331
+Madison,Hospitals,62
+Madison,Churches,4
+Madison,Gelato,84
+Madison,Gutter Services,3
+Madison,Snow Removal,3
+Madison,Auto Insurance,15
+Madison,Indoor Landscaping,6
+Madison,Tattoo,159
+Madison,Hair Extensions,23
+Madison,Gardeners,28
+Madison,Swimming Pools,6
+Madison,Apartments,198
+Madison,Women's Clothing,368
+Madison,Pet Stores,283
+Madison,Financial Services,114
+Madison,Nutritionists,13
+Madison,Bed & Breakfast,148
+Madison,Pet Photography,17
+Madison,Tax Services,9
+Madison,Fireplace Services,8
+Madison,Party Equipment Rentals,4
+Madison,Makeup Artists,128
+Madison,Art Schools,3
+Madison,Aircraft Dealers,4
+Madison,Mattresses,122
+Madison,Pest Control,6
+Madison,Casinos,15
+Madison,Montessori Schools,4
+Madison,Books,463
+Madison,Office Equipment,42
+Madison,Podiatrists,3
+Madison,Costumes,15
+Madison,German,1506
+Madison,Internet Cafes,99
+Madison,Transmission Repair,25
+Madison,Tanning Beds,3
+Madison,Shopping,5036
+Madison,Bus Tours,25
+Madison,Hookah Bars,45
+Madison,Cooking Classes,10
+Madison,Water Purification Services,9
+Madison,Flight Instruction,4
+Madison,Web Design,20
+Madison,Security Systems,31
+Madison,Climbing,18
+Madison,Venues & Event Spaces,1815
+Madison,Restaurants,49381
+Madison,Botanical Gardens,100
+Madison,Dance Schools,3
+Madison,Flowers & Gifts,532
+Madison,Discount Store,46
+Madison,Cycling Classes,32
+Madison,Social Clubs,8
+Madison,Permanent Makeup,21
+Madison,Body Shops,194
+Madison,Used Car Dealers,5
+Madison,Specialty Food,1804
+Madison,Landmarks & Historical Buildings,127
+Madison,Caribbean,502
+Madison,Bespoke Clothing,17
+Madison,Dive Bars,674
+Madison,Psychics & Astrologers,6
+Madison,Furniture Reupholstery,42
+Madison,Meditation Centers,37
+Madison,Public Services & Government,236
+Madison,American (Traditional),9281
+Madison,Laundromat,17
+Madison,Health Retreats,62
+Madison,Photography Stores & Services,88
+Madison,Guitar Stores,15
+Madison,Photo Booth Rentals,12
+Madison,Mobile Phone Accessories,3
+Madison,Lounges,1232
+Madison,Fashion,1241
+Madison,Brasseries,322
+Madison,Festivals,35
+Madison,Sri Lankan,62
+Madison,Test Preparation,3
+Madison,Comfort Food,650
+Madison,Cheese Shops,292
+Madison,Taiwanese,445
+Madison,Print Media,15
+Madison,Private Tutors,3
+Madison,Doctors,207
+Madison,Diagnostic Imaging,8
+Madison,Fondue,56
+Madison,Filipino,37
+Madison,Synagogues,3
+Madison,Wineries,44
+Madison,Watch Repair,25
+Madison,Beer Gardens,134
+Madison,Trampoline Parks,24
+Madison,Farmers Market,325
+Madison,Dog Walkers,53
+Madison,Desserts,785
+Madison,Poke,74
+Madison,Television Service Providers,45
+Madison,Glass & Mirrors,7
+Madison,Cocktail Bars,1184
+Madison,Medical Centers,101
+Madison,Transportation,240
+Madison,Taxis,208
+Madison,Malaysian,4
+Madison,Real Estate Services,60
+Madison,Empanadas,38
+Madison,Cambodian,11
+Madison,Paint-Your-Own Pottery,4
+Madison,Creperies,288
+Madison,Mortgage Brokers,42
+Madison,Junk Removal & Hauling,7
+Madison,Do-It-Yourself Food,95
+Madison,Driving Schools,12
+Madison,Golf Equipment,14
+Madison,Italian,4029
+Madison,Wedding Planning,215
+Madison,Food Tours,4
+Madison,Water Heater Installation/Repair,15
+Madison,Kids Activities,24
+Madison,Cafes,2611
+Madison,Pizza,3822
+Madison,Employment Agencies,6
+Madison,Gymnastics,15
+Madison,Wedding Chapels,3
+Madison,Lebanese,64
+Madison,Basketball Courts,4
+Madison,Truck Rental,45
+Madison,Car Dealers,421
+Madison,Tiki Bars,26
+Madison,Boxing,12
+Madison,Window Washing,11
+Madison,Himalayan/Nepalese,350
+Madison,Brewing Supplies,15
+Madison,Skin Care,330
+Madison,Falafel,41
+Madison,Food Delivery Services,443
+Madison,Pawn Shops,25
+Madison,Notaries,22
+Madison,Pasta Shops,165
+Madison,Amateur Sports Teams,73
+Madison,Amusement Parks,17
+Madison,Movers,185
+Madison,Butcher,75
+Madison,Ophthalmologists,50
+Madison,Mobile Dent Repair,4
+Madison,Trinidadian,7
+Madison,Yoga,257
+Madison,Video/Film Production,8
+Madison,Sporting Goods,578
+Madison,Moroccan,184
+Madison,Hot Tub & Pool,6
+Madison,Dry Cleaning & Laundry,162
+Madison,Noodles,716
+Madison,Salad,2533
+Madison,Counseling & Mental Health,20
+Madison,Outdoor Gear,80
+Madison,Brazilian,180
+Madison,Boat Charters,22
+Madison,Emergency Rooms,25
+Madison,Karaoke,36
+Madison,Saunas,16
+Madison,Beer,1030
+Madison,Art Supplies,100
+Madison,Stadiums & Arenas,59
+Madison,Turkish,66
+Madison,Buffets,311
+Madison,Chimney Sweeps,4
+Madison,Sports Medicine,37
+Madison,Pet Boarding/Pet Sitting,223
+Madison,Animal Shelters,16
+Madison,Nurseries & Gardening,123
+Madison,Florists,175
+Madison,Roofing,10
+Madison,Rafting/Kayaking,16
+Madison,Food Trucks,458
+Madison,Comic Books,89
+Madison,Rolfing,9
+Madison,Screen Printing,6
+Madison,Officiants,9
+Madison,Traditional Chinese Medicine,38
+Madison,Electricians,46
+Madison,Pressure Washers,5
+Madison,Towing,84
+Madison,Pretzels,104
+Madison,Steakhouses,3047
+Madison,Interior Design,65
+Madison,Cinema,288
+Madison,Food Court,28
+Madison,Arts & Entertainment,2246
+Madison,Naturopathic/Holistic,8
+Madison,Rock Climbing,42
+Madison,Golf,56
+Madison,Pet Adoption,52
+Madison,Tanning,191
+Madison,Acupuncture,71
+Madison,Dim Sum,599
+Madison,Local Flavor,857
+Madison,Peruvian,366
+Madison,Ramen,131
+Madison,Cooking Schools,29
+Madison,Libraries,54
+Madison,Middle Eastern,422
+Madison,Framing,20
+Madison,Home Cleaning,161
+Madison,Bakeries,2868
+Madison,Float Spa,6
+Madison,Funeral Services & Cemeteries,9
+Madison,Metal Fabricators,6
+Madison,Sandwiches,3584
+Madison,Tires,439
+Madison,Home Window Tinting,3
+Madison,Coffee & Tea,4117
+Madison,Bike Repair/Maintenance,120
+Madison,Computers,180
+Madison,Parks,100
+Madison,Antiques,98
+Madison,Escape Games,35
+Madison,Recycling Center,29
+Madison,Reiki,29
+Madison,Furniture Stores,180
+Madison,Windshield Installation & Repair,41
+Madison,Pet Training,119
+Madison,Commercial Truck Dealers,39
+Madison,Boating,65
+Madison,Active Life,1550
+Madison,Caterers,1203
+Madison,Cupcakes,139
+Madison,American (New),11494
+Madison,Internet Service Providers,69
+Madison,Interval Training Gyms,10
+Madison,Pubs,4485
+Madison,Accountants,26
+Madison,Piercing,116
+Madison,Health & Medical,896
+Madison,Hair Stylists,320
+Madison,Carpenters,4
+Madison,Garage Door Services,9
+Madison,Distilleries,74
+Madison,Breakfast & Brunch,7102
+Madison,Tex-Mex,868
+Madison,Soup,442
+Madison,Mongolian,144
+Madison,Preschools,19
+Madison,Gift Shops,264
+Madison,Paint & Sip,18
+Madison,Car Rental,135
+Madison,Cosmetics & Beauty Supply,307
+Madison,Bridal,173
+Madison,Carpeting,10
+Madison,Party & Event Planning,558
+Madison,Tours,105
+Madison,Departments of Motor Vehicles,23
+Madison,Summer Camps,19
+Madison,Kitchen & Bath,131
+Madison,Kosher,3
+Madison,Gluten-Free,695
+Madison,Fabric Stores,54
+Madison,Fishing,14
+Madison,Event Planning & Services,4281
+Madison,Automotive,1837
+Madison,Eyelash Service,73
+Madison,Dance Clubs,230
+Madison,General Dentistry,191
+Madison,Paddleboarding,26
+Madison,Real Estate Agents,23
+Madison,Damage Restoration,8
+Madison,Travel Services,25
+Madison,Grocery,1801
+Madison,Department Stores,262
+Madison,Real Estate,300
+Madison,Religious Organizations,12
+Madison,Dog Parks,23
+Madison,Session Photography,19
+Madison,Cheesesteaks,21
+Madison,Pet Hospice,8
+Madison,Tapas Bars,499
+Madison,Wholesale Stores,110
+Madison,Property Management,69
+Madison,Fire Protection Services,8
+Madison,High Fidelity Audio Equipment,4
+Madison,Hot Pot,76
+Madison,Recreation Centers,50
+Madison,Education,496
+Madison,Men's Hair Salons,174
+Madison,Marketing,28
+Madison,Vegan,1610
+Madison,Carpet Cleaning,83
+Madison,Mags,463
+Madison,Street Vendors,229
+Madison,Tree Services,8
+Madison,Dentists,212
+Madison,Challenge Courses,31
+Madison,Herbs & Spices,56
+Madison,Bars,14621
+Madison,Men's Clothing,223
+Madison,Community Service/Non-Profit,25
+Madison,Personal Assistants,5
+Madison,Piano Bars,57
+Madison,Family Practice,15
+Madison,Trainers,229
+Madison,Knife Sharpening,17
+Madison,French,745
+Madison,Tea Rooms,87
+Madison,Videos & Video Game Rental,54
+Madison,Medical Spas,13
+Madison,Ethiopian,119
+Madison,Tai Chi,3
+Madison,Appliances,129
+Madison,British,47
+Madison,Rehabilitation Center,13
+Madison,University Housing,11
+Madison,Convenience Stores,146
+Madison,Laser Eye Surgery/Lasik,10
+Madison,Bookstores,200
+Madison,Health Markets,211
+Madison,Diners,969
+Madison,International Grocery,18
+Madison,Meat Shops,62
+Madison,Signmaking,31
+Madison,Physical Therapy,26
+Madison,Barre Classes,47
+Madison,Video Game Stores,5
+Madison,Car Buyers,5
+Madison,Formal Wear,31
+Madison,Races & Competitions,9
+Madison,Obstetricians & Gynecologists,30
+Madison,Jazz & Blues,115
+Madison,Sports Clubs,24
+Madison,Vinyl Siding,7
+Madison,Painters,15
+Madison,Laotian,322
+Madison,Bartenders,11
+Madison,Customized Merchandise,4
+Madison,Home Inspectors,36
+Madison,Mediterranean,2245
+Madison,Irish,455
+Madison,Aircraft Repairs,4
+Madison,Performing Arts,165
+Madison,Sports Wear,215
+Madison,Windows Installation,20
+Madison,Chiropractors,27
+Madison,Dermatologists,10
+Madison,Life Insurance,5
+Madison,Home Services,1409
+Madison,Oral Surgeons,32
+Madison,Mountain Biking,11
+Madison,Arcades,55
+Madison,Auto Detailing,145
+Madison,Jewelry Repair,61
+Madison,Dry Cleaning,13
+Madison,Donuts,290
+Madison,Hobby Shops,111
+Madison,Pediatricians,40
+Madison,Chocolatiers & Shops,211
+Madison,Russian,290
+Madison,Shopping Centers,72

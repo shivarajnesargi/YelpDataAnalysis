@@ -1,0 +1,276 @@
+category,city,stars
+Vegetarian,Oakville,3.3333333333333335
+Vegetarian,Peoria,3.3333333333333335
+Vegetarian,Scarborough,3.25
+Vegetarian,Laval,3.25
+Vegetarian,Stow,3.0
+Vegetarian,North York,3.0
+Vegetarian,Parma Heights,3.0
+Vegetarian,Filderstadt,3.0
+Vegetarian,Monticello,3.0
+Vegetarian,Bridgeville,3.0
+Vegetarian,Mont-Saint-Hilaire,2.5
+Vegetarian,Leonberg,2.0
+Vegetarian,Montreal-West,1.5
+Vehicle Shipping,Cleveland,5.0
+Vehicle Shipping,Tolleson,5.0
+Vehicle Shipping,North Las Vegas,5.0
+Vehicle Shipping,Charlotte,5.0
+Vehicle Shipping,Pittsburgh,5.0
+Vehicle Shipping,Phoenix,4.9375
+Vehicle Shipping,Avondale,4.5
+Vehicle Shipping,Toronto,4.5
+Vehicle Shipping,Las Vegas,3.4166666666666665
+Vehicle Shipping,Scottsdale,1.0
+Vehicle Wraps,Pittsburgh,5.0
+Vehicle Wraps,Toronto,5.0
+Vehicle Wraps,Charlotte,5.0
+Vehicle Wraps,Chandler,5.0
+Vehicle Wraps,Avondale,5.0
+Vehicle Wraps,Gilbert,5.0
+Vehicle Wraps,Mesa,4.666666666666667
+Vehicle Wraps,Las Vegas,4.59375
+Vehicle Wraps,Scottsdale,4.583333333333333
+Vehicle Wraps,Henderson,4.5
+Vehicle Wraps,Phoenix,4.4
+Vehicle Wraps,Tempe,4.25
+Vehicle Wraps,Markham,4.0
+Vehicle Wraps,Goodyear,4.0
+Venezuelan,Stallings,5.0
+Venezuelan,Madison,4.75
+Venezuelan,Las Vegas,4.5
+Venezuelan,Montréal,4.166666666666667
+Venezuelan,Charlotte,4.0
+Venezuelan,Pittsburgh,4.0
+Venezuelan,Toronto,3.8
+Venues & Event Spaces,Avon,5.0
+Venues & Event Spaces,Highland Heights,5.0
+Venues & Event Spaces,Kleinburg,5.0
+Venues & Event Spaces,Nottingham,5.0
+Venues & Event Spaces,Homestead,5.0
+Venues & Event Spaces,Robinson Township,5.0
+Venues & Event Spaces,Saint-Leonard,5.0
+Venues & Event Spaces,Rocky River,5.0
+Venues & Event Spaces,Huntsburg,5.0
+Venues & Event Spaces,Saint-Laurent,4.75
+Venues & Event Spaces,Canonsburg,4.75
+Venues & Event Spaces,Gibsonia,4.5
+Venues & Event Spaces,Sainte-Genevieve,4.5
+Venues & Event Spaces,King City,4.5
+Venues & Event Spaces,Stoughton,4.5
+Venues & Event Spaces,Verona,4.5
+Venues & Event Spaces,Midland,4.5
+Venues & Event Spaces,North Huntingdon,4.5
+Venues & Event Spaces,Cottage Grove,4.5
+Venues & Event Spaces,Fort McDowell,4.5
+Venues & Event Spaces,las vegas,4.5
+Venues & Event Spaces,Monticello,4.5
+Venues & Event Spaces,Burton,4.5
+Venues & Event Spaces,Kannapolis,4.5
+Venues & Event Spaces,North Versailles,4.5
+Venues & Event Spaces,Swissvale,4.5
+Venues & Event Spaces,Fairview Park,4.5
+Venues & Event Spaces,Kirtland,4.5
+Venues & Event Spaces,Downtown,4.5
+Venues & Event Spaces,Saint - Hyacinthe,4.5
+Venues & Event Spaces,Olmsted Falls,4.5
+Venues & Event Spaces,Moon Township,4.5
+Venues & Event Spaces,Queensferry,4.5
+Venues & Event Spaces,"Phoenix,",4.5
+Venues & Event Spaces,Cave Creek,4.333333333333333
+Venues & Event Spaces,Goodyear,4.333333333333333
+Venues & Event Spaces,Pineville,4.25
+Venues & Event Spaces,Laveen,4.25
+Venues & Event Spaces,Gerlingen,4.25
+Venues & Event Spaces,Cornelius,4.25
+Venues & Event Spaces,Avon Lake,4.25
+Venues & Event Spaces,Streetsboro,4.25
+Venues & Event Spaces,Harmarville,4.0
+Venues & Event Spaces,Oregon,4.0
+Venues & Event Spaces,Brookpark,4.0
+Venues & Event Spaces,Nellis Afb,4.0
+Venues & Event Spaces,DeForest,4.0
+Venues & Event Spaces,Dorval,4.0
+Venues & Event Spaces,Carnegie,4.0
+Venues & Event Spaces,Windsor,4.0
+Venues & Event Spaces,Twinsburg,4.0
+Venues & Event Spaces,Bedford HTS,4.0
+Venues & Event Spaces,Cleveland Heights,4.0
+Venues & Event Spaces,Ludwigsburg,4.0
+Venues & Event Spaces,Newmarket,4.0
+Venues & Event Spaces,St. Jean Sur Richelieu,4.0
+Venues & Event Spaces,Cheswick,4.0
+Venues & Event Spaces,Salaberry-De-Valleyfield,4.0
+Venues & Event Spaces,Fort Mill,4.0
+Venues & Event Spaces,Waxhaw,4.0
+Venues & Event Spaces,Oakville,4.0
+Venues & Event Spaces,Gastonia,4.0
+Venues & Event Spaces,Mayfield,4.0
+Venues & Event Spaces,Plum,4.0
+Venues & Event Spaces,Leith,4.0
+Venues & Event Spaces,Sun City,4.0
+Venues & Event Spaces,WICKLIFFE,4.0
+Venues & Event Spaces,Avondale,4.0
+Venues & Event Spaces,Boucherville,4.0
+Venues & Event Spaces,Etobicoke,4.0
+Venues & Event Spaces,Tempe,3.96
+Venues & Event Spaces,Gilbert,3.9285714285714284
+Venues & Event Spaces,Chandler,3.880952380952381
+Venues & Event Spaces,Stuttgart,3.875
+Venues & Event Spaces,Fitchburg,3.875
+Venues & Event Spaces,Paradise Valley,3.875
+Venues & Event Spaces,Henderson,3.86
+Venues & Event Spaces,Las Vegas,3.8516483516483517
+Venues & Event Spaces,Middleton,3.8333333333333335
+Venues & Event Spaces,Belmont,3.8333333333333335
+Venues & Event Spaces,Painesville,3.8333333333333335
+Venues & Event Spaces,Beachwood,3.8333333333333335
+Venues & Event Spaces,Cleveland,3.8289473684210527
+Venues & Event Spaces,Pittsburgh,3.8285714285714287
+Venues & Event Spaces,Scottsdale,3.8051948051948052
+Venues & Event Spaces,North Las Vegas,3.8
+Venues & Event Spaces,Glendale,3.7857142857142856
+Venues & Event Spaces,Phoenix,3.7824074074074074
+Venues & Event Spaces,Peoria,3.769230769230769
+Venues & Event Spaces,Edinburgh,3.7567567567567566
+Venues & Event Spaces,Chesterland,3.75
+Venues & Event Spaces,Huntersville,3.75
+Venues & Event Spaces,Fountain Hills,3.75
+Venues & Event Spaces,Longueuil,3.75
+Venues & Event Spaces,Surprise,3.75
+Venues & Event Spaces,Medina,3.75
+Venues & Event Spaces,Charlotte,3.7464788732394365
+Venues & Event Spaces,North York,3.730769230769231
+Venues & Event Spaces,Monona,3.6666666666666665
+Venues & Event Spaces,Lorain,3.6666666666666665
+Venues & Event Spaces,Mesa,3.642857142857143
+Venues & Event Spaces,Toronto,3.621212121212121
+Venues & Event Spaces,Champaign,3.590909090909091
+Venues & Event Spaces,Concord,3.5625
+Venues & Event Spaces,Madison,3.533333333333333
+Venues & Event Spaces,Aurora,3.5
+Venues & Event Spaces,Ajax,3.5
+Venues & Event Spaces,Westlake,3.5
+Venues & Event Spaces,Saint-Lambert,3.5
+Venues & Event Spaces,Blue Diamond,3.5
+Venues & Event Spaces,North Ridgeville,3.5
+Venues & Event Spaces,Brunswick,3.5
+Venues & Event Spaces,Munhall,3.5
+Venues & Event Spaces,Savoy,3.5
+Venues & Event Spaces,Kent,3.5
+Venues & Event Spaces,Frazer,3.5
+Venues & Event Spaces,Saint-Eustache,3.5
+Venues & Event Spaces,Northfield,3.5
+Venues & Event Spaces,Chagrin Falls,3.5
+Venues & Event Spaces,Elizabeth,3.5
+Venues & Event Spaces,Montreal,3.5
+Venues & Event Spaces,Harrisburg,3.5
+Venues & Event Spaces,Carefree,3.5
+Venues & Event Spaces,Peninsula,3.5
+Venues & Event Spaces,North Royalton,3.5
+Venues & Event Spaces,De Forest,3.5
+Venues & Event Spaces,Cuyahoga Falls,3.5
+Venues & Event Spaces,Pointe Claire,3.5
+Venues & Event Spaces,Sindelfingen,3.5
+Venues & Event Spaces,Montréal,3.465909090909091
+Venues & Event Spaces,Richmond Hill,3.4444444444444446
+Venues & Event Spaces,Vaughan,3.4444444444444446
+Venues & Event Spaces,Mississauga,3.392857142857143
+Venues & Event Spaces,Markham,3.375
+Venues & Event Spaces,Wexford,3.375
+Venues & Event Spaces,Urbana,3.357142857142857
+Venues & Event Spaces,Sun Prairie,3.25
+Venues & Event Spaces,Bridgeville,3.25
+Venues & Event Spaces,Stow,3.25
+Venues & Event Spaces,Mayfield Heights,3.25
+Venues & Event Spaces,Brampton,3.25
+Venues & Event Spaces,Eastlake,3.25
+Venues & Event Spaces,Irwin,3.25
+Venues & Event Spaces,Woodbridge,3.1666666666666665
+Venues & Event Spaces,Thornhill,3.1666666666666665
+Venues & Event Spaces,Monroeville,3.1666666666666665
+Venues & Event Spaces,Fairlawn,3.1666666666666665
+Venues & Event Spaces,Mentor,3.125
+Venues & Event Spaces,Hudson,3.0
+Venues & Event Spaces,Berea,3.0
+Venues & Event Spaces,North Olmsted,3.0
+Venues & Event Spaces,Caledon East,3.0
+Venues & Event Spaces,Richfield,3.0
+Venues & Event Spaces,Waunakee,3.0
+Venues & Event Spaces,West Mifflin,3.0
+Venues & Event Spaces,Valley City,3.0
+Venues & Event Spaces,Laval,3.0
+Venues & Event Spaces,Lakewood,3.0
+Venues & Event Spaces,King,3.0
+Venues & Event Spaces,Mont-Saint-Gregoire,3.0
+Venues & Event Spaces,Independence,3.0
+Venues & Event Spaces,Dollard-Des-Ormeaux,3.0
+Venues & Event Spaces,Sainte-Anne-des-Plaines,3.0
+Venues & Event Spaces,Leonberg,3.0
+Venues & Event Spaces,Scarborough,3.0
+Venues & Event Spaces,Matthews,2.75
+Venues & Event Spaces,Coraopolis,2.6666666666666665
+Venues & Event Spaces,Saint-Jerome,2.5
+Venues & Event Spaces,El Mirage,2.5
+Venues & Event Spaces,Middleburg Heights,2.5
+Venues & Event Spaces,Tuscola,2.5
+Venues & Event Spaces,Lyndhurst,2.5
+Venues & Event Spaces,Strongsville,2.25
+Venues & Event Spaces,Broadview Heights,2.0
+Venues & Event Spaces,Sun City West,2.0
+Venues & Event Spaces,Lachine,1.5
+Venues & Event Spaces,Columbia Station,1.5
+Venues & Event Spaces,Willoughby Hills,1.0
+Venues & Event Spaces,N. Ridgeville,1.0
+Veterans Organizations,Las Vegas,3.5
+Veterinarians,Gibsonia,5.0
+Veterinarians,Belmont,5.0
+Veterinarians,Saint Joseph,5.0
+Veterinarians,Sewickley,5.0
+Veterinarians,Mc Murray,5.0
+Veterinarians,Fairlawn,5.0
+Veterinarians,Whitby,5.0
+Veterinarians,Davidson,5.0
+Veterinarians,Mc Farland,5.0
+Veterinarians,San Tan Valley,5.0
+Veterinarians,Solon,5.0
+Veterinarians,Waunakee,5.0
+Veterinarians,Mint Hill,5.0
+Veterinarians,Sun City Grand,5.0
+Veterinarians,Avon,5.0
+Veterinarians,Chesterland,5.0
+Veterinarians,Bethel Park,5.0
+Veterinarians,Garfield Heights,5.0
+Veterinarians,Ostfildern,5.0
+Veterinarians,Wesley Chapel,5.0
+Veterinarians,Mount Horeb,5.0
+Veterinarians,Burton,5.0
+Veterinarians,Kirkland,5.0
+Veterinarians,Cornelius,4.833333333333333
+Veterinarians,Verona,4.833333333333333
+Veterinarians,Savoy,4.833333333333333
+Veterinarians,Hudson,4.75
+Veterinarians,Middleton,4.7
+Veterinarians,Bay Village,4.5
+Veterinarians,Dravosburg,4.5
+Veterinarians,Mentor,4.5
+Veterinarians,Laveen,4.5
+Veterinarians,Montreal,4.5
+Veterinarians,Sun City,4.5
+Veterinarians,Penn Hills,4.5
+Veterinarians,Oakville,4.5
+Veterinarians,Stow,4.5
+Veterinarians,Seven Hills,4.5
+Veterinarians,Painesville,4.5
+Veterinarians,Sun City West,4.5
+Veterinarians,Oregon,4.5
+Veterinarians,Irwin,4.5
+Veterinarians,Indian Land,4.5
+Veterinarians,Higley,4.5
+Veterinarians,Independence,4.5
+Veterinarians,Stoughton,4.5
+Veterinarians,Indian Trail,4.5
+Veterinarians,Richfield,4.5
+Veterinarians,North Olmsted,4.5
+Veterinarians,Avon Lake,4.5
+Veterinarians,Boulder City,4.5

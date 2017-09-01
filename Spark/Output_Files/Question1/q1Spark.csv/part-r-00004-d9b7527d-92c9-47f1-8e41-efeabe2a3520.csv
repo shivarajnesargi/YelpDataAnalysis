@@ -1,0 +1,937 @@
+city,category,sum(review_count)
+Phoenix,Noodles,1728
+Phoenix,Pets,6621
+Phoenix,Boat Dealers,33
+Phoenix,Art Schools,167
+Phoenix,Private Tutors,52
+Phoenix,Pretzels,13
+Phoenix,Bankruptcy Law,148
+Phoenix,Music & Video,1638
+Phoenix,Cafes,16526
+Phoenix,Psychiatrists,37
+Phoenix,Hospice,20
+Phoenix,Indian,2706
+Phoenix,Hot Pot,183
+Phoenix,Cosmetic Dentists,1974
+Phoenix,Dry Cleaning,112
+Phoenix,Vegetarian,9730
+Phoenix,Fitness/Exercise Equipment,24
+Phoenix,,229
+Phoenix,Car Auctions,11
+Phoenix,Armenian,84
+Phoenix,Shaved Snow,51
+Phoenix,Interior Design,434
+Phoenix,Festivals,520
+Phoenix,Cards & Stationery,304
+Phoenix,Home Energy Auditors,7
+Phoenix,Dominican,12
+Phoenix,Pizza,32892
+Phoenix,Boating,157
+Phoenix,Advertising,173
+Phoenix,Uniforms,67
+Phoenix,Horse Racing,65
+Phoenix,Home Automation,181
+Phoenix,Candy Stores,311
+Phoenix,Motorcycle Gear,135
+Phoenix,Stucco Services,64
+Phoenix,Barre Classes,299
+Phoenix,Cooking Schools,122
+Phoenix,Sporting Goods,2091
+Phoenix,Truck Rental,209
+Phoenix,Security Systems,468
+Phoenix,First Aid Classes,49
+Phoenix,Powder Coating,47
+Phoenix,Bartenders,65
+Phoenix,Medical Cannabis Referrals,4
+Phoenix,Fitness & Instruction,5166
+Phoenix,Landscaping,1491
+Phoenix,Traditional Chinese Medicine,241
+Phoenix,Web Design,238
+Phoenix,Piano Services,68
+Phoenix,Acai Bowls,236
+Phoenix,Mediterranean,10766
+Phoenix,Windshield Installation & Repair,930
+Phoenix,Pet Boarding/Pet Sitting,1818
+Phoenix,Kitchen & Bath,724
+Phoenix,Custom Cakes,136
+Phoenix,Hot Air Balloons,214
+Phoenix,Contract Law,9
+Phoenix,Piano Stores,14
+Phoenix,Herbs & Spices,112
+Phoenix,Italian,31620
+Phoenix,Electricians,1006
+Phoenix,Occupational Therapy,20
+Phoenix,Pediatricians,597
+Phoenix,Gun/Rifle Ranges,341
+Phoenix,Taekwondo,8
+Phoenix,Chicken Wings,5521
+Phoenix,Travel Services,1061
+Phoenix,Physical Therapy,886
+Phoenix,Bubble Tea,1242
+Phoenix,Aquariums,77
+Phoenix,Skate Shops,14
+Phoenix,Addiction Medicine,7
+Phoenix,Nurse Practitioner,7
+Phoenix,Pool & Hot Tub Service,586
+Phoenix,Haitian,8
+Phoenix,Marketing,411
+Phoenix,Landmarks & Historical Buildings,349
+Phoenix,Accountants,139
+Phoenix,Amusement Parks,684
+Phoenix,Parenting Classes,4
+Phoenix,Awnings,36
+Phoenix,Game Truck Rental,15
+Phoenix,Community Service/Non-Profit,505
+Phoenix,Hats,57
+Phoenix,Nutritionists,623
+Phoenix,Skilled Nursing,22
+Phoenix,Pet Photography,4
+Phoenix,Massage,3337
+Phoenix,Caterers,9763
+Phoenix,Limos,711
+Phoenix,Nail Technicians,25
+Phoenix,Car Stereo Installation,384
+Phoenix,Ticket Sales,54
+Phoenix,Language Schools,8
+Phoenix,Hotels & Travel,18740
+Phoenix,Boat Charters,11
+Phoenix,Mobile Phone Repair,1095
+Phoenix,Breweries,3705
+Phoenix,Live/Raw Food,20
+Phoenix,Active Life,13388
+Phoenix,Health Insurance Offices,6
+Phoenix,Employment Law,63
+Phoenix,Banks & Credit Unions,1012
+Phoenix,Meat Shops,463
+Phoenix,Summer Camps,121
+Phoenix,Formal Wear,328
+Phoenix,Zoos,514
+Phoenix,Dietitians,6
+Phoenix,Electronics,2207
+Phoenix,Reiki,204
+Phoenix,Holistic Animal Care,7
+Phoenix,Community Centers,5
+Phoenix,Placenta Encapsulations,53
+Phoenix,Psychologists,3
+Phoenix,Utilities,265
+Phoenix,Hearing Aid Providers,12
+Phoenix,RV Parks,8
+Phoenix,Computers,849
+Phoenix,Cupcakes,976
+Phoenix,University Housing,216
+Phoenix,Coffee Roasteries,68
+Phoenix,Champagne Bars,17
+Phoenix,Parks,2664
+Phoenix,Jet Skis,60
+Phoenix,Preschools,483
+Phoenix,Battery Stores,39
+Phoenix,Grocery,7326
+Phoenix,Performing Arts,1933
+Phoenix,Car Rental,3499
+Phoenix,Public Services & Government,1773
+Phoenix,Gay Bars,981
+Phoenix,Interval Training Gyms,186
+Phoenix,Beer Bar,1491
+Phoenix,Cannabis Clinics,501
+Phoenix,Campgrounds,87
+Phoenix,Car Share Services,48
+Phoenix,Rafting/Kayaking,68
+Phoenix,Apartments,3145
+Phoenix,Event Planning & Services,27719
+Phoenix,Sports Bars,10123
+Phoenix,Family Practice,865
+Phoenix,Security Services,69
+Phoenix,Bird Shops,51
+Phoenix,Elementary Schools,310
+Phoenix,Pool Halls,246
+Phoenix,Auto Insurance,108
+Phoenix,Belgian,11
+Phoenix,Nail Salons,7995
+Phoenix,Handyman,1052
+Phoenix,Refinishing Services,192
+Phoenix,Airports,3149
+Phoenix,Men's Clothing,1595
+Phoenix,Churches,271
+Phoenix,Urologists,34
+Phoenix,Beer Tours,16
+Phoenix,Personal Injury Law,291
+Phoenix,Children's Clothing,304
+Phoenix,Spray Tanning,493
+Phoenix,Delis,7537
+Phoenix,Trailer Dealers,20
+Phoenix,Marinas,29
+Phoenix,Vegan,6541
+Phoenix,Pubs,6950
+Phoenix,Television Service Providers,1031
+Phoenix,Process Servers,9
+Phoenix,Furniture Rental,16
+Phoenix,Air Duct Cleaning,1032
+Phoenix,Rugs,53
+Phoenix,Sugaring,74
+Phoenix,Carpenters,11
+Phoenix,Day Spas,4205
+Phoenix,Orthopedists,237
+Phoenix,Pool Cleaners,922
+Phoenix,Surfing,5
+Phoenix,Hair Salons,8033
+Phoenix,Afghan,364
+Phoenix,Head Shops,21
+Phoenix,Personal Care Services,17
+Phoenix,Bakeries,12314
+Phoenix,Photography Stores & Services,507
+Phoenix,Mini Golf,264
+Phoenix,Dim Sum,385
+Phoenix,Dive Shops,41
+Phoenix,Medical Spas,1119
+Phoenix,Outlet Stores,764
+Phoenix,Home Decor,2134
+Phoenix,Recycling Center,85
+Phoenix,Architects,25
+Phoenix,Immigration Law,39
+Phoenix,Auto Loan Providers,166
+Phoenix,Hostels,43
+Phoenix,Sandblasting,6
+Phoenix,Skin Care,4320
+Phoenix,Cheesesteaks,1068
+Phoenix,Guitar Stores,53
+Phoenix,Officiants,78
+Phoenix,Cryotherapy,8
+Phoenix,Horse Equipment Shops,17
+Phoenix,Graphic Design,416
+Phoenix,Comedy Clubs,741
+Phoenix,Piercing,555
+Phoenix,Trailer Repair,15
+Phoenix,Mediators,8
+Phoenix,Session Photography,449
+Phoenix,RV Dealers,115
+Phoenix,Pedicabs,12
+Phoenix,Medical Supplies,42
+Phoenix,Stadiums & Arenas,1107
+Phoenix,Music Venues,5659
+Phoenix,Endodontists,238
+Phoenix,Cooking Classes,67
+Phoenix,Dive Bars,1936
+Phoenix,Dental Hygienists,7
+Phoenix,Tires,3047
+Phoenix,Garage Door Services,573
+Phoenix,Cabaret,29
+Phoenix,Tanning Beds,118
+Phoenix,Heating & Air Conditioning/HVAC,4306
+Phoenix,Vocational & Technical School,44
+Phoenix,Laotian,12
+Phoenix,Specialty Food,10162
+Phoenix,Golf Lessons,23
+Phoenix,Cinema,2106
+Phoenix,Counseling & Mental Health,298
+Phoenix,Auto Glass Services,1457
+Phoenix,Cultural Center,62
+Phoenix,Local Services,18794
+Phoenix,Wine Bars,11242
+Phoenix,Retirement Homes,37
+Phoenix,Sports Psychologists,4
+Phoenix,Arabian,38
+Phoenix,Ice Cream & Frozen Yogurt,6414
+Phoenix,Farmers Market,1553
+Phoenix,Appliances & Repair,2173
+Phoenix,Nurseries & Gardening,1061
+Phoenix,Laboratory Testing,172
+Phoenix,Prenatal/Perinatal Care,9
+Phoenix,Soul Food,2961
+Phoenix,Gardeners,281
+Phoenix,Funeral Services & Cemeteries,180
+Phoenix,Cardiologists,124
+Phoenix,Taxidermy,13
+Phoenix,Vitamins & Supplements,278
+Phoenix,Emergency Rooms,118
+Phoenix,Framing,96
+Phoenix,Local Fish Stores,85
+Phoenix,Condominiums,20
+Phoenix,Dentists,3395
+Phoenix,Food Delivery Services,1760
+Phoenix,Gastroenterologist,26
+Phoenix,Acupuncture,644
+Phoenix,Shopping Centers,987
+Phoenix,Massage Therapy,1250
+Phoenix,Water Purification Services,980
+Phoenix,Rehabilitation Center,188
+Phoenix,Audiologist,22
+Phoenix,& Probates,55
+Phoenix,Home Network Installation,48
+Phoenix,Landscape Architects,173
+Phoenix,Pest Control,1725
+Phoenix,Data Recovery,220
+Phoenix,Title Loans,25
+Phoenix,Religious Organizations,334
+Phoenix,Real Estate Services,872
+Phoenix,DJs,200
+Phoenix,Roofing,626
+Phoenix,Tiki Bars,54
+Phoenix,Sandwiches,38478
+Phoenix,Used,1509
+Phoenix,Machine & Tool Rental,34
+Phoenix,Departments of Motor Vehicles,140
+Phoenix,Police Departments,46
+Phoenix,Magicians,46
+Phoenix,Car Buyers,49
+Phoenix,Special Education,58
+Phoenix,Pakistani,1385
+Phoenix,International Grocery,309
+Phoenix,Hot Tub & Pool,577
+Phoenix,Screen Printing,71
+Phoenix,Tobacco Shops,1547
+Phoenix,Chiropractors,1412
+Phoenix,Couriers & Delivery Services,680
+Phoenix,Radio Stations,96
+Phoenix,Horseback Riding,133
+Phoenix,Food Court,771
+Phoenix,Massage Schools,24
+Phoenix,Nursing Schools,5
+Phoenix,Mexican,45023
+Phoenix,Fireplace Services,52
+Phoenix,Religious Schools,16
+Phoenix,Bed & Breakfast,43
+Phoenix,Wine Tours,15
+Phoenix,Food,73754
+Phoenix,Notaries,402
+Phoenix,Race Tracks,101
+Phoenix,Wineries,108
+Phoenix,Cheese Shops,262
+Phoenix,Hotel bar,48
+Phoenix,Windows Installation,670
+Phoenix,Urgent Care,978
+Phoenix,Amateur Sports Teams,232
+Phoenix,Internal Medicine,268
+Phoenix,Vehicle Shipping,72
+Phoenix,Golf Equipment Shops,17
+Phoenix,Hospitals,945
+Phoenix,Gymnastics,145
+Phoenix,Septic Services,192
+Phoenix,Registration Services,42
+Phoenix,Modern European,508
+Phoenix,Recreation Centers,109
+Phoenix,Mobile Phone Accessories,64
+Phoenix,Soup,2596
+Phoenix,Passport & Visa Services,10
+Phoenix,Public Transportation,400
+Phoenix,RV Rental,57
+Phoenix,Float Spa,17
+Phoenix,Feng Shui,3
+Phoenix,Real Estate,5184
+Phoenix,Arts & Entertainment,15922
+Phoenix,Sports Clubs,931
+Phoenix,Blood & Plasma Donation Centers,19
+Phoenix,Fire Protection Services,230
+Phoenix,Halal,382
+Phoenix,Professional Sports Teams,120
+Phoenix,Chocolatiers & Shops,316
+Phoenix,Russian,72
+Phoenix,Mortuary Services,9
+Phoenix,Gluten-Free,5320
+Phoenix,Hunting & Fishing Supplies,5
+Phoenix,Airport Lounges,137
+Phoenix,Knitting Supplies,96
+Phoenix,Hawaiian,1801
+Phoenix,Vehicle Wraps,43
+Phoenix,Home Window Tinting,298
+Phoenix,Outdoor Furniture Stores,80
+Phoenix,Bingo Halls,4
+Phoenix,Wheel & Rim Repair,694
+Phoenix,Boat Repair,40
+Phoenix,Dog Walkers,466
+Phoenix,Bookstores,644
+Phoenix,Building Supplies,1340
+Phoenix,Shaved Ice,1137
+Phoenix,Art Galleries,2622
+Phoenix,Jewelry Repair,268
+Phoenix,Vinyl Siding,4
+Phoenix,Videos & Video Game Rental,198
+Phoenix,Tenant and Eviction Law,3
+Phoenix,Orthotics,51
+Phoenix,Pawn Shops,169
+Phoenix,Visitor Centers,8
+Phoenix,Team Building Activities,18
+Phoenix,Customized Merchandise,117
+Phoenix,Bike Rentals,207
+Phoenix,Homeowner Association,5
+Phoenix,Sports Medicine,247
+Phoenix,Towing,813
+Phoenix,Art Classes,209
+Phoenix,Boot Camps,362
+Phoenix,Falafel,174
+Phoenix,College Counseling,26
+Phoenix,Osteopaths,7
+Phoenix,Venues & Event Spaces,8274
+Phoenix,Transportation,3687
+Phoenix,Shoe Repair,300
+Phoenix,Restaurant Supplies,42
+Phoenix,Psychics & Astrologers,179
+Phoenix,Mobile Home Parks,5
+Phoenix,Basketball Courts,3
+Phoenix,Chinese,13648
+Phoenix,Dog Parks,348
+Phoenix,Arcades,1077
+Phoenix,Payroll Services,57
+Phoenix,Macarons,174
+Phoenix,Doctors,5925
+Phoenix,Maternity Wear,48
+Phoenix,Gift Shops,468
+Phoenix,Business Law,80
+Phoenix,Telecommunications,134
+Phoenix,Keys & Locksmiths,1044
+Phoenix,Teeth Whitening,15
+Phoenix,Roadside Assistance,28
+Phoenix,Divorce & Family Law,175
+Phoenix,Fish & Chips,1142
+Phoenix,Television Stations,80
+Phoenix,Aircraft Dealers,3
+Phoenix,Software Development,28
+Phoenix,Bail Bondsmen,34
+Phoenix,Polish,226
+Phoenix,Food Tours,41
+Phoenix,Archery,55
+Phoenix,Makeup Artists,1510
+Phoenix,Educational Services,566
+Phoenix,Clock Repair,10
+Phoenix,Trains,3
+Phoenix,Laser Hair Removal,682
+Phoenix,Airport Terminals,89
+Phoenix,Beer Gardens,412
+Phoenix,Vintage & Consignment,1509
+Phoenix,Cabinetry,267
+Phoenix,Middle Eastern,1836
+Phoenix,Farm Equipment Repair,11
+Phoenix,Leisure Centers,9
+Phoenix,Well Drilling,3
+Phoenix,Firewood,25
+Phoenix,Karate,8
+Phoenix,Movers,3295
+Phoenix,Taxis,963
+Phoenix,Life Coach,183
+Phoenix,Vacation Rental Agents,6
+Phoenix,Wildlife Control,11
+Phoenix,Tours,729
+Phoenix,Wholesale Stores,728
+Phoenix,Embassy,6
+Phoenix,General Dentistry,2788
+Phoenix,Signmaking,223
+Phoenix,Sleep Specialists,38
+Phoenix,Car Inspectors,45
+Phoenix,Laser Eye Surgery/Lasik,211
+Phoenix,Videographers,92
+Phoenix,Commercial Truck Repair,15
+Phoenix,Hair Removal,4610
+Phoenix,French,2205
+Phoenix,Water Heater Installation/Repair,547
+Phoenix,Luggage,48
+Phoenix,Cajun/Creole,2515
+Phoenix,Ethiopian,294
+Phoenix,Pet Training,985
+Phoenix,Auction Houses,104
+Phoenix,Fabric Stores,321
+Phoenix,Bike Repair/Maintenance,529
+Phoenix,Baseball Fields,482
+Phoenix,Cardio Classes,45
+Phoenix,Bespoke Clothing,331
+Phoenix,Country Clubs,66
+Phoenix,Gelato,858
+Phoenix,Southern,4194
+Phoenix,Fast Food,12583
+Phoenix,Surgeons,35
+Phoenix,Cosmetics & Beauty Supply,2354
+Phoenix,Used Car Dealers,70
+Phoenix,Swimming Pools,388
+Phoenix,Bowling,430
+Phoenix,Ethic Grocery,3
+Phoenix,Smokehouse,596
+Phoenix,Debt Relief Services,20
+Phoenix,Appraisal Services,113
+Phoenix,Radiologists,123
+Phoenix,Mags,1638
+Phoenix,Estate Planning Law,130
+Phoenix,British,885
+Phoenix,Mountain Biking,164
+Phoenix,Batting Cages,16
+Phoenix,Oil Change Stations,4382
+Phoenix,Accessories,854
+Phoenix,Photographers,701
+Phoenix,Allergists,65
+Phoenix,Home Theatre Installation,197
+Phoenix,Wedding Planning,1360
+Phoenix,Self Storage,2212
+Phoenix,Bagels,1881
+Phoenix,African,280
+Phoenix,Threading Services,369
+Phoenix,Solar Installation,212
+Phoenix,Flight Instruction,4
+Phoenix,Vape Shops,845
+Phoenix,Museums,1597
+Phoenix,Cuban,409
+Phoenix,Lakes,60
+Phoenix,Internet Cafes,277
+Phoenix,Casinos,17
+Phoenix,Train Stations,18
+Phoenix,Neurologist,86
+Phoenix,Commercial Truck Dealers,12
+Phoenix,Hobby Shops,639
+Phoenix,Fertility,142
+Phoenix,Spin Classes,168
+Phoenix,Glass & Mirrors,277
+Phoenix,Ethnic Grocery,6
+Phoenix,Montessori Schools,29
+Phoenix,Fingerprinting,63
+Phoenix,Cremation Services,5
+Phoenix,Opera & Ballet,49
+Phoenix,Tattoo Removal,212
+Phoenix,Packing Services,301
+Phoenix,Health Markets,2104
+Phoenix,Optometrists,1469
+Phoenix,Naturopathic/Holistic,463
+Phoenix,Pool & Billiards,38
+Phoenix,Real Estate Photography,10
+Phoenix,ATV Rentals/Tours,59
+Phoenix,Puerto Rican,98
+Phoenix,Restaurants,266766
+Phoenix,Contractors,5317
+Phoenix,Tex-Mex,4585
+Phoenix,Junk Removal & Hauling,213
+Phoenix,Trusts,55
+Phoenix,Filipino,385
+Phoenix,Szechuan,1347
+Phoenix,Go Karts,84
+Phoenix,Body Shops,1361
+Phoenix,Mortgage Brokers,422
+Phoenix,Party Characters,5
+Phoenix,Recording & Rehearsal Studios,36
+Phoenix,Bookbinding,3
+Phoenix,Flooring,1276
+Phoenix,Books,1638
+Phoenix,Commercial Real Estate,45
+Phoenix,Buses,48
+Phoenix,Climbing,544
+Phoenix,Poke,26
+Phoenix,Seafood,15002
+Phoenix,Post Offices,370
+Phoenix,Paint & Sip,174
+Phoenix,Music & DVDs,533
+Phoenix,Soccer,40
+Phoenix,Pet Hospice,57
+Phoenix,Swimwear,48
+Phoenix,Tiling,71
+Phoenix,Nightlife,70151
+Phoenix,Horse Boarding,5
+Phoenix,Tai Chi,60
+Phoenix,Brazilian,161
+Phoenix,Life Insurance,36
+Phoenix,Pet Groomers,2588
+Phoenix,Damage Restoration,543
+Phoenix,Prosthodontists,9
+Phoenix,Seafood Markets,84
+Phoenix,Bookkeepers,17
+Phoenix,Jewelry,1775
+Phoenix,Plus Size Fashion,180
+Phoenix,Pet Services,4676
+Phoenix,Playgrounds,368
+Phoenix,Laser Tag,46
+Phoenix,Historical Tours,61
+Phoenix,Dance Schools,89
+Phoenix,Cosmetology Schools,201
+Phoenix,Personal Chefs,49
+Phoenix,Office Cleaning,1164
+Phoenix,Lighting Fixtures & Equipment,639
+Phoenix,Meditation Centers,63
+Phoenix,Party Supplies,506
+Phoenix,Bridal,1244
+Phoenix,Challenge Courses,24
+Phoenix,House Sitters,6
+Phoenix,Duty-Free Shops,3
+Phoenix,Kids Activities,180
+Phoenix,Tapas Bars,31
+Phoenix,Swimming Lessons/Schools,156
+Phoenix,Fishing,44
+Phoenix,Financial Services,2098
+Phoenix,Specialty Schools,1288
+Phoenix,Waxing,2928
+Phoenix,Painters,461
+Phoenix,Mass Media,375
+Phoenix,Diagnostic Imaging,244
+Phoenix,Hot Dogs,3703
+Phoenix,Permanent Makeup,184
+Phoenix,Water Delivery,155
+Phoenix,Imported Food,430
+Phoenix,Smog Check Stations,173
+Phoenix,Mongolian,162
+Phoenix,Motorcycle Rental,39
+Phoenix,Dry Cleaning & Laundry,1357
+Phoenix,Cosmetic Surgeons,354
+Phoenix,Personal Assistants,35
+Phoenix,Musical Instrument Services,132
+Phoenix,Irrigation,387
+Phoenix,Reflexology,282
+Phoenix,Butcher,49
+Phoenix,Henna Artists,8
+Phoenix,Chicken Shop,777
+Phoenix,Furniture Assembly,48
+Phoenix,Disc Golf,21
+Phoenix,Adult,148
+Phoenix,Buffets,4597
+Phoenix,Hotels,7970
+Phoenix,Diagnostic Services,434
+Phoenix,Baby Gear & Furniture,403
+Phoenix,Drugstores,2454
+Phoenix,Bikes,871
+Phoenix,Tattoo,784
+Phoenix,Pet Adoption,238
+Phoenix,Home & Rental Insurance,118
+Phoenix,Wine Tasting Room,7
+Phoenix,Drywall Installation & Repair,90
+Phoenix,RV Repair,156
+Phoenix,Home Health Care,149
+Phoenix,Paint-Your-Own Pottery,48
+Phoenix,Printing Services,1041
+Phoenix,Demolition Services,22
+Phoenix,Synagogues,8
+Phoenix,Food Trucks,2923
+Phoenix,Car Dealers,5847
+Phoenix,Hair Extensions,1455
+Phoenix,Desserts,9695
+Phoenix,Juice Bars & Smoothies,2747
+Phoenix,Donuts,2815
+Phoenix,Veterinarians,2716
+Phoenix,Yelp Events,299
+Phoenix,Pan Asian,52
+Phoenix,General Litigation,140
+Phoenix,Editorial Services,29
+Phoenix,Furniture Repair,59
+Phoenix,Ophthalmologists,410
+Phoenix,Wigs,62
+Phoenix,Photo Booth Rentals,58
+Phoenix,Test Preparation,20
+Phoenix,Nanny Services,41
+Phoenix,Reptile Shops,24
+Phoenix,Department Stores,2752
+Phoenix,Gutter Services,230
+Phoenix,Tabletop Games,65
+Phoenix,Breakfast & Brunch,43558
+Phoenix,Animal Shelters,368
+Phoenix,Career Counseling,117
+Phoenix,Social Clubs,43
+Phoenix,Auto Security,101
+Phoenix,DIY Auto Shop,3
+Phoenix,Shopping,38111
+Phoenix,Thai,6911
+Phoenix,Home Cleaning,2904
+Phoenix,Obstetricians & Gynecologists,630
+Phoenix,Golf Equipment,41
+Phoenix,Fruits & Veggies,864
+Phoenix,Patio Coverings,111
+Phoenix,Livestock Feed & Supply,43
+Phoenix,Rheumatologists,14
+Phoenix,Walk-in Clinics,26
+Phoenix,Wholesalers,42
+Phoenix,Laundromat,121
+Phoenix,Furniture Reupholstery,304
+Phoenix,Business Consulting,3
+Phoenix,Art Restoration,5
+Phoenix,Waldorf Schools,6
+Phoenix,Grilling Equipment,13
+Phoenix,Real Estate Law,83
+Phoenix,Real Estate Agents,623
+Phoenix,Midwives,152
+Phoenix,Hardware Stores,882
+Phoenix,Vacation Rentals,296
+Phoenix,Financial Advising,237
+Phoenix,Tea Rooms,1099
+Phoenix,Escape Games,175
+Phoenix,Bartending Schools,7
+Phoenix,Mortgage Lenders,7
+Phoenix,Screen Printing/T-Shirt Printing,133
+Phoenix,Organic Stores,566
+Phoenix,Uzbek,21
+Phoenix,Home Services,29745
+Phoenix,Electronics Repair,1307
+Phoenix,Pet Transportation,7
+Phoenix,Emergency Pet Hospital,130
+Phoenix,Automotive,21727
+Phoenix,Transmission Repair,538
+Phoenix,German,55
+Phoenix,Matchmakers,9
+Phoenix,Property Management,866
+Phoenix,Food Stands,1453
+Phoenix,Middle Schools & High Schools,129
+Phoenix,Salvadoran,329
+Phoenix,Roof Inspectors,13
+Phoenix,Carpeting,1183
+Phoenix,Tapas/Small Plates,2226
+Phoenix,Cannabis Dispensaries,51
+Phoenix,Packing Supplies,7
+Phoenix,Valet Services,19
+Phoenix,Investing,36
+Phoenix,Salad,17213
+Phoenix,Florists,874
+Phoenix,Dance Clubs,933
+Phoenix,Driving Schools,82
+Phoenix,Criminal Defense Law,219
+Phoenix,Turkish,41
+Phoenix,Paintball,59
+Phoenix,Backflow Services,8
+Phoenix,Shades & Blinds,497
+Phoenix,Chimney Sweeps,96
+Phoenix,Hydroponics,3
+Phoenix,Coffee & Tea,21632
+Phoenix,Costumes,198
+Phoenix,Trampoline Parks,76
+Phoenix,Solar Panel Cleaning,23
+Phoenix,Leather Goods,74
+Phoenix,Private Investigation,63
+Phoenix,Shared Office Spaces,74
+Phoenix,Home Staging,130
+Phoenix,Dumpster Rental,13
+Phoenix,Vietnamese,4474
+Phoenix,Outdoor Gear,457
+Phoenix,Wedding Chapels,108
+Phoenix,Professional Services,6996
+Phoenix,Comfort Food,1997
+Phoenix,Whiskey Bars,551
+Phoenix,Community Gardens,11
+Phoenix,Buddhist Temples,3
+Phoenix,Education,2830
+Phoenix,Resorts,1731
+Phoenix,Martial Arts,259
+Phoenix,Watch Repair,308
+Phoenix,Homeless Shelters,12
+Phoenix,Christmas Trees,232
+Phoenix,Ski Resorts,4
+Phoenix,Colonics,13
+Phoenix,Wraps,37
+Phoenix,Cafeteria,11
+Phoenix,Airlines,1532
+Phoenix,Hiking,1128
+Phoenix,Parking,616
+Phoenix,Art Supplies,238
+Phoenix,Cycling Classes,258
+Phoenix,Water Stores,7
+Phoenix,Haunted Houses,173
+Phoenix,Sushi Bars,11950
+Phoenix,Ethnic Food,3170
+Phoenix,Fences & Gates,202
+Phoenix,CSA,20
+Phoenix,Used Bookstore,71
+Phoenix,Local Flavor,3122
+Phoenix,Pharmacy,130
+Phoenix,Osteopathic Physicians,40
+Phoenix,Hair Stylists,2881
+Phoenix,Periodontists,420
+Phoenix,Guns & Ammo,467
+Phoenix,Musicians,53
+Phoenix,Insulation Installation,73
+Phoenix,Hookah Bars,194
+Phoenix,Check Cashing/Pay-day Loans,98
+Phoenix,DUI Law,156
+Phoenix,Day Camps,72
+Phoenix,Pet Breeders,6
+Phoenix,Caribbean,2417
+Phoenix,Barbers,2808
+Phoenix,Home Organization,112
+Phoenix,Irish Pub,228
+Phoenix,Engraving,15
+Phoenix,New Mexican Cuisine,1872
+Phoenix,Airsoft,8
+Phoenix,Talent Agencies,23
+Phoenix,Street Vendors,681
+Phoenix,Thrift Stores,783
+Phoenix,Diving,84
+Phoenix,Pet Stores,1876
+Phoenix,Asian Fusion,10390
+Phoenix,Boxing,155
+Phoenix,Hair Loss Centers,16
+Phoenix,Jazz & Blues,807
+Phoenix,Souvenir Shops,25
+Phoenix,Carpet Cleaning,1929
+Phoenix,Pediatric Dentists,676
+Phoenix,Dance Studios,304
+Phoenix,Endocrinologists,13
+Phoenix,Moroccan,156
+Phoenix,Event Photography,425
+Phoenix,Newspapers & Magazines,88
+Phoenix,Shoe Shine,18
+Phoenix,Public Relations,11
+Phoenix,Trophy Shops,7
+Phoenix,Coffee & Tea Supplies,105
+Phoenix,Adult Education,74
+Phoenix,Korean,1304
+Phoenix,Party Bus Rentals,134
+Phoenix,Auto Upholstery,54
+Phoenix,Tutoring Centers,83
+Phoenix,Bars,65345
+Phoenix,Pressure Washers,291
+Phoenix,Home Inspectors,355
+Phoenix,Toy Stores,522
+Phoenix,Anesthesiologists,51
+Phoenix,Aerial Tours,173
+Phoenix,Countertop Installation,96
+Phoenix,Podiatrists,210
+Phoenix,Pain Management,47
+Phoenix,Latin American,3285
+Phoenix,Indonesian,25
+Phoenix,Mobile Dent Repair,53
+Phoenix,Cocktail Bars,7109
+Phoenix,Adult Entertainment,517
+Phoenix,Diners,5521
+Phoenix,CPR Classes,57
+Phoenix,Paint Stores,118
+Phoenix,Estate Liquidation,11
+Phoenix,Gas & Service Stations,1247
+Phoenix,Tree Services,832
+Phoenix,Skate Parks,10
+Phoenix,Barbeque,11317
+Phoenix,Botanical Gardens,678
+Phoenix,Creperies,588
+Phoenix,Religious Items,14
+Phoenix,Snow Removal,5
+Phoenix,Mobile Phones,2332
+Phoenix,Lawyers,622
+Phoenix,Women's Clothing,2475
+Phoenix,Tacos,439
+Phoenix,Wills,55
+Phoenix,Persian/Iranian,554
+Phoenix,Aquarium Services,81
+Phoenix,Town Car Service,13
+Phoenix,Carpet Installation,558
+Phoenix,Spanish,218
+Phoenix,Kombucha,10
+Phoenix,Health & Medical,16548
+Phoenix,Appliances,1977
+Phoenix,Shipping Centers,1233
+Phoenix,Gastropubs,3667
+Phoenix,Oral Surgeons,671
+Phoenix,Mailbox Centers,40
+Phoenix,Legal Services,144
+Phoenix,Car Wash,2686
+Phoenix,Blow Dry/Out Services,1061
+Phoenix,Karaoke,1431
+Phoenix,Eyelash Service,1918
+Phoenix,Cambodian,357
+Phoenix,Rolfing,53
+Phoenix,Cantonese,541
+Phoenix,American (Traditional),39801
+Phoenix,Sports Wear,700
+Phoenix,Airport Shuttles,1216
+Phoenix,Lounges,10253
+Phoenix,Discount Store,1102
+Phoenix,Pilates,365
+Phoenix,Ear Nose & Throat,137
+Phoenix,Adoption Services,9
+Phoenix,High Fidelity Audio Equipment,13
+Phoenix,Oncologist,20
+Phoenix,Steakhouses,9769
+Phoenix,Flea Markets,63
+Phoenix,Lebanese,87
+Phoenix,Waffles,1356
+Phoenix,Sewing & Alterations,1003
+Phoenix,Kosher,184
+Phoenix,Weight Loss Centers,689
+Phoenix,Personal Shopping,103
+Phoenix,Traffic Schools,22
+Phoenix,Dermatologists,548
+Phoenix,TV Mounting,54
+Phoenix,Sex Therapists,3
+Phoenix,Shoe Stores,1236
+Phoenix,Trainers,2617
+Phoenix,Speech Therapists,28
+Phoenix,Libraries,258
+Phoenix,Flowers & Gifts,1968
+Phoenix,Watches,180
+Phoenix,Furniture Stores,2136
+Phoenix,Office Equipment,425
+Phoenix,Fondue,411
+Phoenix,Do-It-Yourself Food,248
+Phoenix,Medical Transportation,176
+Phoenix,Home & Garden,8147
+Phoenix,Japanese,10151
+Phoenix,IT Services & Computer Repair,1887
+Phoenix,Video/Film Production,113
+Phoenix,Artificial Turf,14
+Phoenix,Burgers,26519
+Phoenix,Internet Service Providers,1406
+Phoenix,Party Equipment Rentals,424
+Phoenix,Embroidery & Crochet,49
+Phoenix,Children's Museums,275
+Phoenix,Bus Tours,33
+Phoenix,Auto Parts & Supplies,3222
+Phoenix,Child Care & Day Care,491
+Phoenix,Eyewear & Opticians,1150
+Phoenix,Door Sales/Installation,547
+Phoenix,Scuba Diving,81
+Phoenix,Fireworks,3
+Phoenix,Auto Repair,10332
+Phoenix,Comic Books,205
+Phoenix,Employment Agencies,194
+Phoenix,Spiritual Shop,19
+Phoenix,Skating Rinks,67
+Phoenix,Childbirth Education,35
+Phoenix,Yoga,2302
+Phoenix,Courthouses,43
+Phoenix,Decks & Railing,19
+Phoenix,Prosthetics,6
+Phoenix,Knife Sharpening,65
+Phoenix,Immunodermatologists,3
+Phoenix,Tennis,26
+Phoenix,Convenience Stores,1342
+Phoenix,Fashion,7604
+Phoenix,Doulas,90
+Phoenix,Greek,5668
+Phoenix,Motorcycle Repair,467
+Phoenix,Races & Competitions,65
+Phoenix,Pet Insurance,5
+Phoenix,Orthodontists,1240
+Phoenix,Arts & Crafts,1874
+Phoenix,Window Washing,354
+Phoenix,Beer,9294
+Phoenix,Firearm Training,38
+Phoenix,Auto Customization,502
+Phoenix,Ramen,1351
+Phoenix,Gold Buyers,127
+Phoenix,Mattresses,1029
+Phoenix,Medical Centers,1963
+Phoenix,Art Museums,265
+Phoenix,Tax Law,9
+Phoenix,Food Banks,28
+Phoenix,Hypnosis/Hypnotherapy,53
+Phoenix,American (New),53438
+Phoenix,Laundry Services,327
+Phoenix,Wine & Spirits,9294
+Phoenix,Metal Fabricators,35
+Phoenix,Masonry/Concrete,211
+Phoenix,Peruvian,202
+Phoenix,Eyebrow Services,40
+Phoenix,Argentine,7
+Phoenix,Lingerie,267
+Phoenix,Print Media,179
+Phoenix,Vinyl Records,339
+Phoenix,Assisted Living Facilities,28
+Phoenix,Insurance,753
+Phoenix,Golf,649
+Phoenix,Gyms,3051
+Phoenix,Shutters,106
+Phoenix,Tanning,1203
+Phoenix,Auto Detailing,2275
+Phoenix,Men's Hair Salons,1199
+Phoenix,Tax Services,122
+Phoenix,Shredding Services,33
+Phoenix,Lactation Services,57
+Phoenix,Party & Event Planning,2057
+Phoenix,Video Game Stores,50
+Phoenix,Guest Houses,25
+Phoenix,Childproofing,29
+Phoenix,Farming Equipment,11
+Phoenix,Dinner Theater,38
+Phoenix,Motorcycle Dealers,340
+Phoenix,Flowers,59
+Phoenix,Plumbing,3556
+Phoenix,Musical Instruments & Teachers,454
+Phoenix,Irish,1477
+Phoenix,Propane,21
+Phoenix,Rock Climbing,60
+Phoenix,Beauty & Spas,24568
+Phoenix,Antiques,1376
+Phoenix,Colleges & Universities,326

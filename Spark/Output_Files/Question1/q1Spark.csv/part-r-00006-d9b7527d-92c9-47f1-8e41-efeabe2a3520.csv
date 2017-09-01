@@ -1,0 +1,287 @@
+city,category,sum(review_count)
+Urbana,Car Wash,16
+Urbana,Family Practice,7
+Urbana,Botanical Gardens,6
+Urbana,Beer Bar,14
+Urbana,Professional Services,12
+Urbana,Bike Repair/Maintenance,45
+Urbana,Art Schools,6
+Urbana,Caterers,62
+Urbana,Medical Supplies,19
+Urbana,Shopping,464
+Urbana,Argentine,3
+Urbana,Auto Detailing,16
+Urbana,Shoe Repair,15
+Urbana,Doctors,37
+Urbana,Home & Garden,80
+Urbana,Movers,37
+Urbana,Makeup Artists,5
+Urbana,Ice Cream & Frozen Yogurt,386
+Urbana,American (Traditional),702
+Urbana,Property Management,31
+Urbana,Sports Bars,8
+Urbana,Drugstores,44
+Urbana,Appliances,9
+Urbana,Blow Dry/Out Services,5
+Urbana,Shaved Ice,84
+Urbana,Food Trucks,107
+Urbana,Damage Restoration,3
+Urbana,Yoga,22
+Urbana,Performing Arts,27
+Urbana,Car Dealers,61
+Urbana,Gun/Rifle Ranges,3
+Urbana,Day Spas,23
+Urbana,Pet Stores,30
+Urbana,Pediatric Dentists,3
+Urbana,Gelato,52
+Urbana,Restaurants,4326
+Urbana,Barbeque,971
+Urbana,Colleges & Universities,34
+Urbana,DUI Law,3
+Urbana,Medical Centers,9
+Urbana,Food,1906
+Urbana,Shopping Centers,11
+Urbana,Trainers,3
+Urbana,Ethnic Food,66
+Urbana,Embroidery & Crochet,4
+Urbana,Hair Stylists,22
+Urbana,Taxis,47
+Urbana,Hot Dogs,30
+Urbana,Accessories,3
+Urbana,Food Stands,21
+Urbana,Empanadas,84
+Urbana,Tours,46
+Urbana,Wedding Planning,98
+Urbana,Plumbing,8
+Urbana,Gutter Services,4
+Urbana,Shoe Stores,15
+Urbana,Traditional Chinese Medicine,8
+Urbana,Hardware Stores,42
+Urbana,Tex-Mex,21
+Urbana,Flowers & Gifts,55
+Urbana,Thai,239
+Urbana,Mattresses,6
+Urbana,Imported Food,66
+Urbana,Fish & Chips,3
+Urbana,Kitchen & Bath,17
+Urbana,Resorts,15
+Urbana,Music & DVDs,7
+Urbana,Education,43
+Urbana,Insurance,5
+Urbana,Swimming Pools,5
+Urbana,Hair Salons,124
+Urbana,Auto Parts & Supplies,69
+Urbana,Active Life,192
+Urbana,Motorcycle Dealers,7
+Urbana,Real Estate Services,13
+Urbana,Home Staging,9
+Urbana,Juice Bars & Smoothies,56
+Urbana,Roofing,8
+Urbana,Indian,142
+Urbana,Skin Care,96
+Urbana,Financial Services,5
+Urbana,Nail Salons,89
+Urbana,Massage Therapy,6
+Urbana,Sports Wear,15
+Urbana,Party & Event Planning,30
+Urbana,Truck Rental,6
+Urbana,Steakhouses,91
+Urbana,Libraries,26
+Urbana,Specialty Food,235
+Urbana,Fitness/Exercise Equipment,23
+Urbana,Shipping Centers,4
+Urbana,Educational Services,6
+Urbana,CSA,74
+Urbana,Local Services,182
+Urbana,Social Clubs,11
+Urbana,Specialty Schools,6
+Urbana,Arts & Entertainment,156
+Urbana,Martial Arts,3
+Urbana,Beauty & Spas,206
+Urbana,Buffets,6
+Urbana,Barbers,11
+Urbana,Fabric Stores,4
+Urbana,Gyms,26
+Urbana,Heating & Air Conditioning/HVAC,12
+Urbana,Unofficial Yelp Events,11
+Urbana,Adult Entertainment,5
+Urbana,Apartments,53
+Urbana,Antiques,5
+Urbana,Mexican,404
+Urbana,Chicken Wings,10
+Urbana,Trailer Repair,7
+Urbana,Handyman,11
+Urbana,Breweries,14
+Urbana,Garage Door Services,4
+Urbana,Pet Services,50
+Urbana,Recreation Centers,11
+Urbana,Health & Medical,111
+Urbana,Internet Service Providers,3
+Urbana,Organic Stores,16
+Urbana,Music Venues,46
+Urbana,Public Services & Government,36
+Urbana,Religious Organizations,3
+Urbana,Art Supplies,11
+Urbana,Framing,9
+Urbana,Veterinarians,61
+Urbana,Towing,31
+Urbana,Keys & Locksmiths,20
+Urbana,Chinese,150
+Urbana,Women's Clothing,8
+Urbana,Breakfast & Brunch,600
+Urbana,Carpet Cleaning,3
+Urbana,Butcher,7
+Urbana,Post Offices,6
+Urbana,Dermatologists,7
+Urbana,Knitting Supplies,8
+Urbana,Pool & Billiards,14
+Urbana,Men's Clothing,3
+Urbana,Notaries,21
+Urbana,Mobile Phones,3
+Urbana,Local Flavor,11
+Urbana,Dentists,3
+Urbana,Food Delivery Services,41
+Urbana,Pizza,332
+Urbana,Photography Stores & Services,18
+Urbana,Airports,24
+Urbana,Building Supplies,18
+Urbana,General Dentistry,3
+Urbana,Hotels & Travel,272
+Urbana,Florists,52
+Urbana,Pets,83
+Urbana,Thrift Stores,17
+Urbana,Diners,73
+Urbana,Arts & Crafts,32
+Urbana,Cafes,484
+Urbana,Do-It-Yourself Food,3
+Urbana,Real Estate,58
+Urbana,Pet Training,14
+Urbana,Donuts,37
+Urbana,Farmers Market,31
+Urbana,Burgers,69
+Urbana,Vietnamese,181
+Urbana,Sushi Bars,208
+Urbana,Wine Bars,19
+Urbana,Pet Boarding/Pet Sitting,18
+Urbana,Waxing,13
+Urbana,Airport Shuttles,63
+Urbana,Nightlife,381
+Urbana,Art Galleries,43
+Urbana,Furniture Stores,6
+Urbana,Vitamins & Supplements,16
+Urbana,Bikes,88
+Urbana,Escape Games,28
+Urbana,Community Service/Non-Profit,10
+Urbana,Guns & Ammo,3
+Urbana,Auto Repair,246
+Urbana,Couriers & Delivery Services,7
+Urbana,Gas & Service Stations,31
+Urbana,Tapas Bars,35
+Urbana,Radio Stations,3
+Urbana,Massage,33
+Urbana,Smokehouse,77
+Urbana,Books,18
+Urbana,Cosmetics & Beauty Supply,16
+Urbana,Oil Change Stations,77
+Urbana,Musical Instruments & Teachers,3
+Urbana,Venues & Event Spaces,196
+Urbana,Beer Gardens,24
+Urbana,Naturopathic/Holistic,8
+Urbana,Transportation,86
+Urbana,Hospitals,20
+Urbana,Desserts,206
+Urbana,Fashion,101
+Urbana,Sewing & Alterations,13
+Urbana,Junk Removal & Hauling,6
+Urbana,Roadside Assistance,7
+Urbana,Bars,312
+Urbana,Body Shops,11
+Urbana,Discount Store,10
+Urbana,Grocery,213
+Urbana,Golf,4
+Urbana,Television Service Providers,3
+Urbana,Japanese,22
+Urbana,Bridal,27
+Urbana,Eyelash Service,5
+Urbana,Lounges,20
+Urbana,Hair Removal,75
+Urbana,Office Cleaning,3
+Urbana,Reflexology,3
+Urbana,Home Services,171
+Urbana,Delis,41
+Urbana,Fast Food,99
+Urbana,Climbing,11
+Urbana,Sandwiches,369
+Urbana,Wine & Spirits,23
+Urbana,Jewelry,17
+Urbana,Criminal Defense Law,3
+Urbana,German,23
+Urbana,Asian Fusion,35
+Urbana,Utilities,3
+Urbana,Museums,5
+Urbana,Churches,3
+Urbana,Animal Shelters,10
+Urbana,Beer,23
+Urbana,Cosmetic Dentists,3
+Urbana,Meat Shops,21
+Urbana,Elementary Schools,3
+Urbana,Health Markets,124
+Urbana,Dry Cleaning & Laundry,11
+Urbana,Security Systems,17
+Urbana,Window Washing,4
+Urbana,Department Stores,51
+Urbana,Pool Halls,14
+Urbana,Korean,117
+Urbana,Transmission Repair,9
+Urbana,Mass Media,3
+Urbana,Bakeries,481
+Urbana,Sporting Goods,106
+Urbana,,7
+Urbana,Italian,132
+Urbana,Street Vendors,79
+Urbana,Candy Stores,4
+Urbana,Bookstores,18
+Urbana,Automotive,297
+Urbana,Recycling Center,6
+Urbana,Lawyers,3
+Urbana,Home Cleaning,19
+Urbana,Bagels,17
+Urbana,Buses,32
+Urbana,Dive Bars,32
+Urbana,Counseling & Mental Health,27
+Urbana,Vegetarian,258
+Urbana,Dance Clubs,14
+Urbana,University Housing,25
+Urbana,American (New),338
+Urbana,Interior Design,8
+Urbana,Coffee & Tea,463
+Urbana,Greek,41
+Urbana,Hotels,172
+Urbana,Karaoke,14
+Urbana,Photographers,6
+Urbana,Middle Schools & High Schools,3
+Urbana,Cajun/Creole,75
+Urbana,Chocolatiers & Shops,7
+Urbana,Music & Video,18
+Urbana,Appliances & Repair,9
+Urbana,Skating Rinks,23
+Urbana,Nurseries & Gardening,6
+Urbana,Mags,18
+Urbana,Parking,4
+Urbana,Ticket Sales,27
+Urbana,Contractors,27
+Urbana,Convenience Stores,12
+Urbana,Laundry Services,3
+Urbana,Vegan,99
+Urbana,Formal Wear,27
+Urbana,Bowling,11
+Urbana,Fitness & Instruction,53
+Urbana,Pet Groomers,23
+Urbana,Self Storage,12
+Urbana,Real Estate Agents,9
+Urbana,Acupuncture,8
+Urbana,Hobby Shops,6
+Urbana,Parks,48
+Urbana,Event Planning & Services,477
+Urbana,Tires,103
+Urbana,Soul Food,13

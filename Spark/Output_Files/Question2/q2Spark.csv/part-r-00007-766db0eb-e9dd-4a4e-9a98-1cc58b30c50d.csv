@@ -1,0 +1,215 @@
+category,city,stars
+Antiques,Las Vegas,3.8979591836734695
+Antiques,Charlotte,3.8529411764705883
+Antiques,Mesa,3.8333333333333335
+Antiques,Toronto,3.8088235294117645
+Antiques,Cornelius,3.75
+Antiques,Montréal,3.7222222222222223
+Antiques,Matthews,3.5833333333333335
+Antiques,Sun Prairie,3.5
+Antiques,Urbana,3.5
+Antiques,Parma,3.5
+Antiques,Kent,3.5
+Antiques,Surprise,3.5
+Antiques,North Las Vegas,3.5
+Antiques,Middleton,3.5
+Antiques,Painesville,3.5
+Antiques,Boulder City,3.4285714285714284
+Antiques,Chandler,3.375
+Antiques,Sun City,3.25
+Antiques,Parma Heights,3.0
+Antiques,Belmont,3.0
+Antiques,Tallmadge,3.0
+Antiques,Cave Creek,3.0
+Antiques,Frazer,2.5
+Antiques,North York,2.0
+Antiques,Etobicoke,2.0
+Apartments,Cuyahoga Falls,5.0
+Apartments,Mentor,4.5
+Apartments,Canonsburg,4.5
+Apartments,Edinburgh,4.2
+Apartments,Midland,4.0
+Apartments,Paradise Valley,4.0
+Apartments,Shaker Hts,4.0
+Apartments,Litchfield Park,4.0
+Apartments,Indian Trail,4.0
+Apartments,Montréal,3.8333333333333335
+Apartments,Huntersville,3.625
+Apartments,Fitchburg,3.5
+Apartments,Lakewood,3.5
+Apartments,Jefferson Hills,3.5
+Apartments,Stuttgart,3.5
+Apartments,Surprise,3.25
+Apartments,Urbana,3.111111111111111
+Apartments,Scottsdale,3.0619047619047617
+Apartments,Etobicoke,3.0
+Apartments,Independence,3.0
+Apartments,las vegas,3.0
+Apartments,Chandler,2.825
+Apartments,Pittsburgh,2.8214285714285716
+Apartments,Henderson,2.8134328358208953
+Apartments,Charlotte,2.798507462686567
+Apartments,Cleveland,2.763157894736842
+Apartments,Coraopolis,2.75
+Apartments,Carnegie,2.75
+Apartments,Peoria,2.75
+Apartments,Aurora,2.75
+Apartments,Gilbert,2.739130434782609
+Apartments,Glendale,2.6470588235294117
+Apartments,Beachwood,2.625
+Apartments,Tempe,2.6065573770491803
+Apartments,Phoenix,2.5964630225080385
+Apartments,Madison,2.5921052631578947
+Apartments,Goodyear,2.5625
+Apartments,Mesa,2.515
+Apartments,Fountain Hills,2.5
+Apartments,Lake Wylie,2.5
+Apartments,Avon,2.5
+Apartments,York,2.5
+Apartments,Davidson,2.5
+Apartments,Middleton,2.5
+Apartments,Wexford,2.5
+Apartments,Westlake,2.5
+Apartments,Concord,2.5
+Apartments,Brooklyn,2.5
+Apartments,Las Vegas,2.4911764705882353
+Apartments,Avondale,2.4
+Apartments,Toronto,2.3846153846153846
+Apartments,Fort Mill,2.3333333333333335
+Apartments,Champaign,2.2666666666666666
+Apartments,Bethel Park,2.25
+Apartments,Mississauga,2.25
+Apartments,North Las Vegas,2.1785714285714284
+Apartments,University Heights,2.0
+Apartments,Euclid,2.0
+Apartments,West Mifflin,2.0
+Apartments,Savoy,2.0
+Apartments,Sun City Anthem,2.0
+Apartments,North York,2.0
+Apartments,Orange,2.0
+Apartments,Willoughby Hills,2.0
+Apartments,Kannapolis,2.0
+Apartments,Cornelius,2.0
+Apartments,Monroeville,2.0
+Apartments,Sun Prairie,1.5
+Apartments,Paradise,1.5
+Apartments,Verona,1.5
+Apartments,Mayfield Heights,1.5
+Apartments,Parma Heights,1.5
+Apartments,Gastonia,1.0
+Apartments,Cleveland Heights,1.0
+Apartments,Kent,1.0
+Appliances,Carefree,5.0
+Appliances,San Tan Valley,5.0
+Appliances,Brookpark,5.0
+Appliances,Kannapolis,5.0
+Appliances,Waxhaw,5.0
+Appliances,Stow,5.0
+Appliances,North Versailles,4.5
+Appliances,Brunswick,4.5
+Appliances,Esslingen,4.5
+Appliances,Belmont,4.5
+Appliances,Sun Prairie,4.5
+Appliances,Urbana,4.25
+Appliances,Oregon,4.0
+Appliances,Vaudreuil-Dorion,4.0
+Appliances,Berea,4.0
+Appliances,Cave Creek,4.0
+Appliances,Westlake,4.0
+Appliances,Hemmingen,4.0
+Appliances,Montréal,4.0
+Appliances,Middleton,4.0
+Appliances,Scottsdale AZ,4.0
+Appliances,Cornelius,4.0
+Appliances,Clairton,4.0
+Appliances,Boulder City,3.75
+Appliances,Markham,3.75
+Appliances,Avondale,3.75
+Appliances,Sindelfingen,3.6666666666666665
+Appliances,Medina,3.5
+Appliances,Edinburgh,3.5
+Appliances,Ludwigsburg,3.5
+Appliances,Gilbert,3.5
+Appliances,Indian Trail,3.5
+Appliances,North Royalton,3.5
+Appliances,Westmount,3.5
+Appliances,Phoenix,3.3841463414634148
+Appliances,Peoria,3.375
+Appliances,Scottsdale,3.340909090909091
+Appliances,Glendale,3.3157894736842106
+Appliances,Pittsburgh,3.3157894736842106
+Appliances,Tempe,3.3
+Appliances,Charlotte,3.2777777777777777
+Appliances,Las Vegas,3.253623188405797
+Appliances,Bethel Park,3.25
+Appliances,Surprise,3.25
+Appliances,Cleveland,3.2222222222222223
+Appliances,Thornhill,3.1666666666666665
+Appliances,Woodbridge,3.1666666666666665
+Appliances,Madison,3.1538461538461537
+Appliances,Mesa,3.1166666666666667
+Appliances,Henderson,3.1153846153846154
+Appliances,Matthews,3.1
+Appliances,Chandler,3.1
+Appliances,Champaign,3.090909090909091
+Appliances,Goodyear,3.0833333333333335
+Appliances,Waiblingen,3.0
+Appliances,Fellbach,3.0
+Appliances,W Summerlin,3.0
+Appliances,Highland Heights,3.0
+Appliances,Indian Land,3.0
+Appliances,Northfield,3.0
+Appliances,Brooklyn,3.0
+Appliances,Murrysville,3.0
+Appliances,North Las Vegas,3.0
+Appliances,Leinfelden-Echterdingen,3.0
+Appliances,Oakville,3.0
+Appliances,East York,3.0
+Appliances,Carnegie,3.0
+Appliances,Bridgeville,3.0
+Appliances,Olmsted Falls,3.0
+Appliances,Aurora,3.0
+Appliances,Laveen,3.0
+Appliances,Macedonia,3.0
+Appliances,Mentor,3.0
+Appliances,Streetsboro,3.0
+Appliances,North Olmsted,2.9
+Appliances,Toronto,2.875
+Appliances,Stuttgart,2.8333333333333335
+Appliances,Avon,2.75
+Appliances,Strongsville,2.5
+Appliances,Gastonia,2.5
+Appliances,York,2.5
+Appliances,Frazer,2.5
+Appliances,Rocky River,2.5
+Appliances,West Mifflin,2.5
+Appliances,North York,2.5
+Appliances,Lorain,2.5
+Appliances,Monroeville,2.5
+Appliances,Tolleson,2.5
+Appliances,Chagrin Falls,2.5
+Appliances,Pineville,2.3333333333333335
+Appliances,Concord,2.3333333333333335
+Appliances,Mississauga,2.272727272727273
+Appliances,Cuyahoga Falls,2.0
+Appliances,Monona,2.0
+Appliances,Richmond Hill,2.0
+Appliances,Cleveland Heights,2.0
+Appliances,Vaughan,1.75
+Appliances,Maple Heights,1.5
+Appliances,Lasalle,1.5
+Appliances,Mayfield Heights,1.5
+Appliances,Newmarket,1.0
+Appliances,El Mirage,1.0
+Appliances,Scarborough,1.0
+Appliances & Repair,Cross Plains,5.0
+Appliances & Repair,Verona,5.0
+Appliances & Repair,Bath,5.0
+Appliances & Repair,Markham,5.0
+Appliances & Repair,Fort Mill,5.0
+Appliances & Repair,Waxhaw,5.0
+Appliances & Repair,Brunswick,5.0
+Appliances & Repair,Cave Creek,5.0
+Appliances & Repair,Munroe Falls,5.0
+Appliances & Repair,Euclid,5.0
+Appliances & Repair,Anthem,5.0

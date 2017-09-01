@@ -1,0 +1,235 @@
+category,city,stars
+Donuts,Gastonia,2.25
+Donuts,Indian Land,2.0
+Donuts,Crafton,2.0
+Donuts,Solon,2.0
+Donuts,Upper St Clair,2.0
+Donuts,Medina,2.0
+Donuts,Mint Hill,1.5
+Donuts,Canonsburg,1.5
+Donuts,Bridgeville,1.5
+Donuts,Euclid,1.5
+Donuts,North Versailles,1.5
+Donuts,Gormley,1.5
+Donuts,Avon,1.5
+Donuts,Stowe,1.5
+Door Sales/Installation,Henderson,5.0
+Door Sales/Installation,Cleveland Heights,5.0
+Door Sales/Installation,Matthews,5.0
+Door Sales/Installation,Glendale,4.833333333333333
+Door Sales/Installation,El Mirage,4.75
+Door Sales/Installation,Cleveland,4.5
+Door Sales/Installation,Gilbert,4.428571428571429
+Door Sales/Installation,Las Vegas,4.4
+Door Sales/Installation,Peoria,4.357142857142857
+Door Sales/Installation,Mesa,4.222222222222222
+Door Sales/Installation,Phoenix,4.166666666666667
+Door Sales/Installation,Surprise,4.0
+Door Sales/Installation,North Las Vegas,4.0
+Door Sales/Installation,Lakewood,4.0
+Door Sales/Installation,Mint Hill,4.0
+Door Sales/Installation,Chandler,3.888888888888889
+Door Sales/Installation,Pittsburgh,3.8333333333333335
+Door Sales/Installation,Scottsdale,3.7
+Door Sales/Installation,Champaign,3.5
+Door Sales/Installation,Tempe,3.375
+Door Sales/Installation,Charlotte,3.3333333333333335
+Door Sales/Installation,Berea,3.0
+Door Sales/Installation,Madison,2.5
+Door Sales/Installation,N. Las Vegas,2.5
+Door Sales/Installation,Monroeville,2.5
+Door Sales/Installation,Twinsburg,2.0
+Door Sales/Installation,Elyria,1.5
+Doulas,Solon,5.0
+Doulas,Paradise Valley,5.0
+Doulas,Mesa,5.0
+Doulas,Pittsburgh,5.0
+Doulas,Phoenix,4.75
+Doulas,Las Vegas,4.714285714285714
+Doulas,Glendale,4.5
+Doulas,Tempe,4.5
+Drive-In Theater,Chardon,4.5
+Drive-In Theater,Glendale,4.5
+Drive-In Theater,Coraopolis,4.5
+Drive-In Theater,Kornwestheim,4.5
+Drive-In Theater,East Gwillimbury,4.0
+Drive-In Theater,Las Vegas,4.0
+Drive-In Theater,Oakville,3.5
+Drive-In Theater,North Ridgeville,3.5
+Drive-In Theater,Toronto,2.5
+Drive-Thru Bars,Las Vegas,4.0
+Driving Schools,Henderson,5.0
+Driving Schools,Inverness,5.0
+Driving Schools,Edinburgh,5.0
+Driving Schools,McKees Rocks,5.0
+Driving Schools,Mesa,5.0
+Driving Schools,Glendale,5.0
+Driving Schools,Gilbert,4.75
+Driving Schools,Boulder City,4.5
+Driving Schools,Las Vegas,4.409090909090909
+Driving Schools,North York,4.166666666666667
+Driving Schools,Scottsdale,4.1
+Driving Schools,Chandler,4.0
+Driving Schools,Cheswick,4.0
+Driving Schools,Phoenix,4.0
+Driving Schools,Tempe,3.75
+Driving Schools,Madison,3.6666666666666665
+Driving Schools,Scarborough,3.5
+Driving Schools,Shaker Heights,3.5
+Driving Schools,Cleveland,3.5
+Driving Schools,Toronto,3.4166666666666665
+Driving Schools,Charlotte,3.1666666666666665
+Driving Schools,Markham,3.0
+Driving Schools,Richmond Hill,2.5
+Driving Schools,Thornhill,2.5
+Driving Schools,Monroeville,2.5
+Driving Schools,Mentor,2.5
+Driving Schools,Mississauga,2.25
+Driving Schools,Etobicoke,2.1666666666666665
+Drugstores,Newmarket,5.0
+Drugstores,Sindelfingen,5.0
+Drugstores,Moon Township,4.5
+Drugstores,Leinfelden,4.5
+Drugstores,Elyria,4.25
+Drugstores,Stuttgart,4.166666666666667
+Drugstores,Waxhaw,4.166666666666667
+Drugstores,Carefree,4.0
+Drugstores,Brunswick,4.0
+Drugstores,Shaker Heights,4.0
+Drugstores,Pleasant Hills,4.0
+Drugstores,McMurray,4.0
+Drugstores,Amherst,4.0
+Drugstores,North Huntingdon,4.0
+Drugstores,Lyndhurst,4.0
+Drugstores,Midlothian,4.0
+Drugstores,Woodbridge,4.0
+Drugstores,Stow,4.0
+Drugstores,Sheffield Village,4.0
+Drugstores,Verdun,3.75
+Drugstores,Mint Hill,3.75
+Drugstores,Wesley Chapel,3.75
+Drugstores,Edinburgh,3.738095238095238
+Drugstores,Richmond Hill,3.6666666666666665
+Drugstores,Saint-Laurent,3.5
+Drugstores,Olmsted Falls,3.5
+Drugstores,Independence,3.5
+Drugstores,New Kensington,3.5
+Drugstores,Fitchburg,3.5
+Drugstores,Cottage Grove,3.5
+Drugstores,North Royalton,3.5
+Drugstores,Allison Park,3.5
+Drugstores,Glenshaw,3.5
+Drugstores,Youngtown,3.5
+Drugstores,Mentor On the Lake,3.5
+Drugstores,Solon,3.5
+Drugstores,Brampton,3.5
+Drugstores,Weddington,3.5
+Drugstores,Mount Lebanon,3.5
+Drugstores,Cave Creek,3.4166666666666665
+Drugstores,Huntersville,3.409090909090909
+Drugstores,Indian Trail,3.4
+Drugstores,Montréal,3.357142857142857
+Drugstores,Mayfield Heights,3.3333333333333335
+Drugstores,Middleburg Heights,3.3333333333333335
+Drugstores,Avondale,3.3181818181818183
+Drugstores,Lakewood,3.3
+Drugstores,Matthews,3.2777777777777777
+Drugstores,Pittsburgh,3.2589285714285716
+Drugstores,Rocky River,3.25
+Drugstores,Cleveland Heights,3.25
+Drugstores,Litchfield Park,3.25
+Drugstores,Fountain Hills,3.25
+Drugstores,North Versailles,3.25
+Drugstores,Davidson,3.25
+Drugstores,Savoy,3.25
+Drugstores,Indian Land,3.25
+Drugstores,Scottsdale,3.238095238095238
+Drugstores,Gilbert,3.2291666666666665
+Drugstores,Surprise,3.21875
+Drugstores,Charlotte,3.203125
+Drugstores,Peoria,3.1818181818181817
+Drugstores,Toronto,3.175324675324675
+Drugstores,Pineville,3.1666666666666665
+Drugstores,Concord,3.142857142857143
+Drugstores,Medina,3.125
+Drugstores,Chandler,3.1
+Drugstores,Sun City,3.0833333333333335
+Drugstores,Madison,3.0681818181818183
+Drugstores,Phoenix,3.0215827338129495
+Drugstores,Cornelius,3.0
+Drugstores,Homestead,3.0
+Drugstores,Lake Wylie,3.0
+Drugstores,Pickering,3.0
+Drugstores,Anthem,3.0
+Drugstores,Murrysville,3.0
+Drugstores,Chagrin Falls,3.0
+Drugstores,Bethel Park,3.0
+Drugstores,Willoughby,3.0
+Drugstores,Oregon,3.0
+Drugstores,Avon,3.0
+Drugstores,Middlefield,3.0
+Drugstores,Cuyahoga Falls,3.0
+Drugstores,Monona,3.0
+Drugstores,Beachwood,3.0
+Drugstores,North Olmsted,3.0
+Drugstores,Champaign,3.0
+Drugstores,Chardon,3.0
+Drugstores,East York,3.0
+Drugstores,Brecksville,3.0
+Drugstores,Lorain,3.0
+Drugstores,Brook Park,3.0
+Drugstores,Tempe,2.9782608695652173
+Drugstores,Las Vegas,2.9741379310344827
+Drugstores,Glendale,2.9558823529411766
+Drugstores,Goodyear,2.9545454545454546
+Drugstores,Fort Mill,2.95
+Drugstores,Strongsville,2.9
+Drugstores,Sun Prairie,2.9
+Drugstores,Westlake,2.875
+Drugstores,Henderson,2.8620689655172415
+Drugstores,Markham,2.857142857142857
+Drugstores,El Mirage,2.8333333333333335
+Drugstores,Middleton,2.8333333333333335
+Drugstores,Aurora,2.8333333333333335
+Drugstores,Parma,2.8333333333333335
+Drugstores,Monroeville,2.75
+Drugstores,Hudson,2.75
+Drugstores,Mesa,2.6739130434782608
+Drugstores,North Las Vegas,2.6458333333333335
+Drugstores,Gastonia,2.6
+Drugstores,Cleveland,2.5869565217391304
+Drugstores,West Mifflin,2.5
+Drugstores,Eastlake,2.5
+Drugstores,Gibsonia,2.5
+Drugstores,Thornhill,2.5
+Drugstores,Oakville,2.5
+Drugstores,Mississauga,2.5
+Drugstores,Willoughby Hills,2.5
+Drugstores,Mount Holly,2.5
+Drugstores,North York,2.5
+Drugstores,Brooklyn,2.5
+Drugstores,Nellis AFB,2.5
+Drugstores,Tega Cay,2.5
+Drugstores,Laveen,2.5
+Drugstores,Kent,2.375
+Drugstores,Urbana,2.3333333333333335
+Drugstores,Belmont,2.3333333333333335
+Drugstores,Etobicoke,2.25
+Drugstores,Wexford,2.25
+Drugstores,Mentor,2.125
+Drugstores,Rantoul,2.0
+Drugstores,Berea,2.0
+Drugstores,Euclid,2.0
+Drugstores,Vaughan,2.0
+Drugstores,Paradise Valley,2.0
+Drugstores,Carnegie,2.0
+Drugstores,Macedonia,2.0
+Drugstores,Painesville,2.0
+Drugstores,South Euclid,2.0
+Drugstores,Avon Lake,2.0
+Drugstores,Bedford,1.5
+Drugstores,Streetsboro,1.5
+Drugstores,Tolleson,1.5
+Drugstores,Fairlawn,1.5
+Drugstores,Imperial,1.0
+Drugstores,Bradford West Gwillimbury,1.0

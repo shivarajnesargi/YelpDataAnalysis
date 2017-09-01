@@ -1,0 +1,265 @@
+category,city,stars
+Train Stations,Phoenix,3.625
+Train Stations,Stuttgart,3.6
+Train Stations,Middleton,3.5
+Train Stations,Edinburgh,3.3333333333333335
+Train Stations,Toronto,3.3181818181818183
+Train Stations,Mississauga,3.1666666666666665
+Train Stations,Inverness,3.0
+Train Stations,Esslingen am Neckar,3.0
+Train Stations,Champaign,3.0
+Train Stations,Cleveland,3.0
+Train Stations,Pittsburgh,2.5
+Train Stations,Stuttgart-Vaihingen,2.0
+Trainers,Urbana,5.0
+Trainers,Brooklin,5.0
+Trainers,West Las Vegas,5.0
+Trainers,Paradise Valley,5.0
+Trainers,Hudson,5.0
+Trainers,Wesley Chapel,5.0
+Trainers,Cleveland Heights,5.0
+Trainers,Wexford,5.0
+Trainers,Leinfelden-Echterdingen,5.0
+Trainers,Warrensville Heights,5.0
+Trainers,Litchfield Park,5.0
+Trainers,Middleburg Heights,5.0
+Trainers,Davidson,5.0
+Trainers,McFarland,5.0
+Trainers,Indian Trail,5.0
+Trainers,Verona,5.0
+Trainers,las vegas,5.0
+Trainers,Fort Mill,4.75
+Trainers,Lakewood,4.75
+Trainers,Fairview Park,4.75
+Trainers,Pineville,4.666666666666667
+Trainers,Twinsburg,4.5
+Trainers,Mont-Royal,4.5
+Trainers,Aurora,4.5
+Trainers,Mentor,4.5
+Trainers,Monona,4.5
+Trainers,Waunakee,4.5
+Trainers,Mayfield Village,4.5
+Trainers,Westmount,4.5
+Trainers,Penn Hills,4.5
+Trainers,North Versailles,4.5
+Trainers,Tallmadge,4.5
+Trainers,N Las Vegas,4.5
+Trainers,Scottsdale,4.489130434782608
+Trainers,Tempe,4.488095238095238
+Trainers,Las Vegas,4.448863636363637
+Trainers,Beachwood,4.4375
+Trainers,Henderson,4.382352941176471
+Trainers,Middleton,4.375
+Trainers,Chandler,4.26595744680851
+Trainers,Stow,4.25
+Trainers,Gilbert,4.243243243243243
+Trainers,Phoenix,4.23
+Trainers,Peoria,4.214285714285714
+Trainers,Cave Creek,4.166666666666667
+Trainers,Murrysville,4.166666666666667
+Trainers,Cornelius,4.15
+Trainers,Charlotte,4.132352941176471
+Trainers,Matthews,4.125
+Trainers,Concord,4.125
+Trainers,Edinburgh,4.125
+Trainers,Parma,4.125
+Trainers,Huntersville,4.1
+Trainers,Mesa,4.088888888888889
+Trainers,Fitchburg,4.071428571428571
+Trainers,Pittsburgh,4.0256410256410255
+Trainers,Madison,4.019230769230769
+Trainers,Kannapolis,4.0
+Trainers,Strongsville,4.0
+Trainers,Streetsboro,4.0
+Trainers,Surprise,4.0
+Trainers,Rocky River,4.0
+Trainers,Middleburg Hts,4.0
+Trainers,North Royalton,4.0
+Trainers,West Mifflin,4.0
+Trainers,Goodyear,4.0
+Trainers,Mint Hill,4.0
+Trainers,Boulder City,4.0
+Trainers,North Las Vegas,4.0
+Trainers,Gastonia,4.0
+Trainers,Maple,4.0
+Trainers,Glendale,3.9038461538461537
+Trainers,MESA,3.8333333333333335
+Trainers,Montréal,3.8125
+Trainers,Cleveland,3.8
+Trainers,Toronto,3.7610619469026547
+Trainers,Broadview Heights,3.75
+Trainers,Fairlawn,3.75
+Trainers,Sun Prairie,3.75
+Trainers,Bridgeville,3.75
+Trainers,Solon,3.6666666666666665
+Trainers,Stuttgart,3.6666666666666665
+Trainers,Richmond Hill,3.625
+Trainers,Champaign,3.5555555555555554
+Trainers,Highland Heights,3.5
+Trainers,Oregon,3.5
+Trainers,Belmont,3.5
+Trainers,Glenshaw,3.5
+Trainers,Amherst,3.5
+Trainers,East Pittsburgh,3.5
+Trainers,Dollard-Des-Ormeaux,3.5
+Trainers,Carefree,3.5
+Trainers,Bethel Park,3.5
+Trainers,University Heights,3.5
+Trainers,Monroeville,3.5
+Trainers,Independence,3.5
+Trainers,McMurray,3.5
+Trainers,Brook Park,3.5
+Trainers,Scarborough,3.4375
+Trainers,Vaughan,3.388888888888889
+Trainers,Oakville,3.375
+Trainers,North York,3.3333333333333335
+Trainers,Etobicoke,3.3333333333333335
+Trainers,Mississauga,3.323529411764706
+Trainers,Ajax,3.25
+Trainers,Tolleson,3.25
+Trainers,Markham,3.2
+Trainers,Cuyahoga Falls,3.1666666666666665
+Trainers,Brampton,3.090909090909091
+Trainers,North Olmsted,3.0
+Trainers,East York,3.0
+Trainers,Medina,3.0
+Trainers,Newmarket,3.0
+Trainers,Stowe,3.0
+Trainers,Lyndhurst,3.0
+Trainers,Garfield Heights,3.0
+Trainers,Irwin,3.0
+Trainers,Pickering,3.0
+Trainers,Avondale,3.0
+Trainers,San Tan Valley,3.0
+Trainers,Sheffield Village,3.0
+Trainers,East Gwilimbury,3.0
+Trainers,Elyria,3.0
+Trainers,Downsview,3.0
+Trainers,Montreal,3.0
+Trainers,Carnegie,3.0
+Trainers,Verdun,3.0
+Trainers,Brooklyn,3.0
+Trainers,Thornhill,2.6666666666666665
+Trainers,Chagrin Falls,2.5
+Trainers,Kent,2.5
+Trainers,Richmond Heights,2.5
+Trainers,Pleasant Hills,2.5
+Trainers,El Mirage,2.5
+Trainers,Harrisburg,2.0
+Trainers,Westlake,2.0
+Trainers,Willoughby,1.75
+Trains,Las Vegas,4.0
+Trains,Independence,3.5
+Trains,Phoenix,2.5
+Trampoline Parks,Brampton,5.0
+Trampoline Parks,Anjou,4.5
+Trampoline Parks,Champaign,4.5
+Trampoline Parks,Laval,4.5
+Trampoline Parks,Scottsdale,4.333333333333333
+Trampoline Parks,Monroeville,4.0
+Trampoline Parks,Boston Heights,4.0
+Trampoline Parks,Las Vegas,4.0
+Trampoline Parks,Charlotte,4.0
+Trampoline Parks,Pineville,3.75
+Trampoline Parks,Peoria,3.5
+Trampoline Parks,North York,3.5
+Trampoline Parks,Westlake,3.5
+Trampoline Parks,Mesa,3.5
+Trampoline Parks,Madison,3.5
+Trampoline Parks,North Versailles,3.5
+Trampoline Parks,Oakville,3.5
+Trampoline Parks,Mississauga,3.5
+Trampoline Parks,Leetsdale,3.5
+Trampoline Parks,Chandler,3.4
+Trampoline Parks,Phoenix,3.3333333333333335
+Trampoline Parks,Vaughan,3.25
+Trampoline Parks,Streetsboro,3.0
+Trampoline Parks,Highland Heights,3.0
+Trampoline Parks,Toronto,3.0
+Trampoline Parks,Bridgeville,2.5
+Trampoline Parks,Woodbridge,2.5
+Translation Services,Avondale,5.0
+Translation Services,Pittsburgh,5.0
+Translation Services,Las Vegas,4.666666666666667
+Translation Services,Mesa,4.0
+Translation Services,Toronto,3.6666666666666665
+Translation Services,Scottsdale,3.625
+Translation Services,Charlotte,2.0
+Transmission Repair,New Kensington,5.0
+Transmission Repair,Goodyear,5.0
+Transmission Repair,St. Joseph,5.0
+Transmission Repair,Cuyahoga Falls,5.0
+Transmission Repair,Gastonia,5.0
+Transmission Repair,Fountain Hills,5.0
+Transmission Repair,Toronto,4.5
+Transmission Repair,Cleveland,4.5
+Transmission Repair,Verona,4.5
+Transmission Repair,Charlotte,4.357142857142857
+Transmission Repair,Madison,4.333333333333333
+Transmission Repair,Scottsdale,4.25
+Transmission Repair,Peoria,4.2
+Transmission Repair,Glendale,4.15
+Transmission Repair,Henderson,4.125
+Transmission Repair,Pittsburgh,4.083333333333333
+Transmission Repair,Phoenix,4.075
+Transmission Repair,Thornhill,4.0
+Transmission Repair,Las Vegas,4.0
+Transmission Repair,Middleton,4.0
+Transmission Repair,Chandler,4.0
+Transmission Repair,Brunswick,4.0
+Transmission Repair,Cornelius,4.0
+Transmission Repair,North York,4.0
+Transmission Repair,Tempe,3.84375
+Transmission Repair,Mesa,3.75
+Transmission Repair,Gilbert,3.7222222222222223
+Transmission Repair,Concord,3.5
+Transmission Repair,Avondale,3.5
+Transmission Repair,Surprise,3.5
+Transmission Repair,North Las Vegas,3.1666666666666665
+Transmission Repair,Pineville,3.0
+Transmission Repair,Mississauga,3.0
+Transmission Repair,Champaign,3.0
+Transmission Repair,Broadview Heights,3.0
+Transmission Repair,Urbana,3.0
+Transmission Repair,El Mirage,2.75
+Transmission Repair,Sun City,2.0
+Transmission Repair,Kent,2.0
+Transmission Repair,Indian Trail,1.0
+Transportation,Waxhaw,5.0
+Transportation,Willoughby,5.0
+Transportation,Davidson,5.0
+Transportation,Gastonia,5.0
+Transportation,Sindelfingen,5.0
+Transportation,Brunswick,5.0
+Transportation,Cave Creek,5.0
+Transportation,Henderson,4.666666666666667
+Transportation,Homestead,4.5
+Transportation,NORTH YORK,4.5
+Transportation,Wickliffe,4.5
+Transportation,South Hills,4.5
+Transportation,Shaker Heights,4.5
+Transportation,Avondale,4.5
+Transportation,Charlote,4.5
+Transportation,Cornelius,4.5
+Transportation,Firth of Forth,4.5
+Transportation,Peoria,4.333333333333333
+Transportation,Glendale,4.166666666666667
+Transportation,Scottsdale,4.085106382978723
+Transportation,Indian Trail,4.0
+Transportation,Boulder City,4.0
+Transportation,North Royalton,4.0
+Transportation,Belmont,4.0
+Transportation,Kannapolis,4.0
+Transportation,Urbana,4.0
+Transportation,Brook Park,4.0
+Transportation,Stuttgart,3.923076923076923
+Transportation,Gilbert,3.625
+Transportation,Tempe,3.6176470588235294
+Transportation,Independence,3.5
+Transportation,McKeesport,3.5
+Transportation,Fountain Hills,3.5
+Transportation,North Versailles,3.5
+Transportation,Mentor,3.5
+Transportation,Woodbridge,3.5
+Transportation,las vegas,3.5
+Transportation,oakville,3.5
